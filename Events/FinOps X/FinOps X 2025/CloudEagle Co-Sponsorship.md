@@ -49,3 +49,21 @@
 2. **CloudEagle:**
     - Review the option of joining FinOps as a General Member.
     - check booth-related content: brochures, demos, giveaways, and video materials.
+
+
+--- 
+Hey William,    
+  
+We have a call scheduled for tomorrow. Sharing the MOM from our last meeting. Looking forward to connecting and finalizing the activities we can collaborate on.    
+  
+**Last Meeting Summary:** CloudBolt has secured a gold-tier membership for FinOpsX. Both CloudBolt and CloudEagle will share a meeting space at the Marriott Marquis in San Diego and collaborate on lead generation through a sponsored raffle, lead scanning, and co-branded marketing materials. A product demo will be showcased on the TV screen at the venue.
+  
+**Key Discussion Points:**  
+Event Strategy: Maintaining a shared calendar to avoid scheduling conflicts and executing pre- and post-event campaigns effectively.  
+Integration Demos: Aligning both teams to showcase joint product capabilities through live demos and presentations.  
+Future Events: Exploring participation in FinOpsX conferences, AWS re:Invent, Ignite, and government-focused events (William will share a list of potential collaboration opportunities).
+  
+**Next Steps:**  
+@William Norton  
+CloudBolt to share the event calendar details ( At this stage, I will plan on attending the London and Amsterdam FinOps events, FinOps X, Re:Invent, and Microsoft Ignite.)  
+CloudEagle to confirm internal participation in FinOpsX
