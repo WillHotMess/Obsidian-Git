@@ -67,3 +67,6 @@ Future Events: Exploring participation in FinOpsX conferences, AWS re:Invent, Ig
 @William Norton  
 CloudBolt to share the event calendar details ( At this stage, I will plan on attending the London and Amsterdam FinOps events, FinOps X, Re:Invent, and Microsoft Ignite.)  
 CloudEagle to confirm internal participation in FinOpsX
+
+
+Test
