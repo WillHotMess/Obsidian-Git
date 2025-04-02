@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 - [ ] Review Nuts and Bolts
 - [ ] Why the Market should care?
 

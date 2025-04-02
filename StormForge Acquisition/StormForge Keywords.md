@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 #SEO #6Sense
 
 # Branded Keywords

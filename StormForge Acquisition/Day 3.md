@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 **Outstanding Campaign List:** [https://docs.google.com/spreadsheets/d/1QXeyh5HuSf1uhqCy8Kxr5jfFCPx8jrXFkcxmGB2O96A/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1QXeyh5HuSf1uhqCy8Kxr5jfFCPx8jrXFkcxmGB2O96A/edit?gid=0#gid=0)
 
 ## AWS Partner

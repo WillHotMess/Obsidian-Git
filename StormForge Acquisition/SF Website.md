@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 # Complete Kubernetes Optimization: CloudBolt + StormForge
 
 ## Closing the FinOps Loop with ML-Powered Kubernetes Optimization

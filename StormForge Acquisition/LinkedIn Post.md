@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 # CloudBolt Acquires StormForge: Transforming Kubernetes Optimization
 
 Today marks a significant milestone in CloudBolt's journey as we proudly announce the acquisition of StormForge, our long-standing technical partner and a pioneer in machine learning-powered Kubernetes optimization.

@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 # Employee FAQ Questions by Category
 
 ## Deal Logic and Integration

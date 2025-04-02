@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 # Weatherproofing Kubernetes, CloudBolt Acquires StormForge
 
 Url: https://www.forbes.com/sites/adrianbridgwater/2025/03/31/weatherproofing-kubernetes-cloudbolt-acquires-stormforge/ 

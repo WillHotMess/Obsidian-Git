@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 # Intelligent Kubernetes Cost Optimization
 
 ## A Solution Guide

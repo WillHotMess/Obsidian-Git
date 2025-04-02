@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 # Video Script
 
 **Craig Hinkley (CEO, CloudBolt):**Today marks an important milestone in Kubernetes management as we welcome StormForge to the CloudBolt family. A significant percentage of enterprises face unnecessary costs due to Kubernetes overprovisioning – a challenge we're now better positioned to address.By combining CloudBolt's multi-cloud analysis with StormForge's machine learning optimization, we've created something that's been missing in the market: a practical, closed-loop system for container resource management. This strategic move accelerates our big bet on AI and automation as the future of FinOps.

@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 # Press Release
 
 # CloudBolt Acquires StormForge to Unlock Continuous Optimization for Kubernetes

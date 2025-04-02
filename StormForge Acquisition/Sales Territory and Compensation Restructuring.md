@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 # Sales Territory and Compensation Restructuring Summary
 
 This plan outlines the territory assignments, compensation structure, and role changes for the sales organization, with a focus on integrating StormForge (SF) and CloudBolt (CB) operations.

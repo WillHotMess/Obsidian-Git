@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 Looking at the information provided, I'll outline 3-4 interactive demo screens for CloudBolt + StormForge that showcase the key value propositions without getting overly technical. Let me create a compelling demo flow that would take about 5 minutes to click through.
 
 # CloudBolt + StormForge Interactive Demo Concept

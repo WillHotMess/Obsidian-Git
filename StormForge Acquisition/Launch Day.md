@@ -1,3 +1,7 @@
+---
+tags:
+  - StormForge
+---
 # Meeting: StormForge Acquisition Launch Planning
 
 ## Meeting Details
