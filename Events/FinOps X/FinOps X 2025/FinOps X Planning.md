@@ -3,27 +3,6 @@
 [## Attendees
 > We receive 8 passes total (outside of Kyle's pass)
 
-As of now, we plan for the following leads to be in attendance - who should begin booking travel ASAP:   
-1. Kyle C
-2. Will N
-3. Charles Y
-4. Mark Z
-5. Peter E: Proven experience at FinOps X with a strong focus on booth engagement
-6. Frank R: Current customer meetings, cross-sell opportunities as well as booth engagement
-7. Yasmin R: StormForge representation 
-
-Unless there are any issues, these attendees [register here](https://x.finops.org/register/ "https://x.finops.org/register/") with the code **SPONGDBOLTX25** and begin to book travel/lodging. 
-
-
-Optional Attendees (Decisions made by Org leaders - Kyle, Steve, etc): 
-- Steve F: Should you want to take part / plan meetings for the event.
-- Ryan W
-- Account Executive (Logan T or other) 
-- Additional Sales Engineer (Mike B or other)
-- Additional CSM
-
-Steve, Kyle, please weigh in on optional attendance.](<# FinOps X 2025 Sponsorship Information - Action Items & Key Details
-
 Dear Leadership Team,
 
 I'm pleased to share crucial information regarding our sponsorship of FinOps X 2025 in San Diego. Please review the following details and note the action items that require immediate attention.
@@ -32,18 +11,18 @@ I'm pleased to share crucial information regarding our sponsorship of FinOps X 2
 We receive 8 passes total (outside of Kyle's pass)
 
 As of now, we plan for the following leads to be in attendance - who should begin booking travel ASAP:   
-1. Kyle C
-2. Will N
-3. Charles Y
-4. Mark Z
-5. Peter E: Proven experience at FinOps X with a strong focus on booth engagement
-6. Frank R: Current customer meetings, cross-sell opportunities as well as booth engagement
+1. Kyle C (Confirmed Attendance)
+2. Will N (Confirmed Attendance)
+3. Charles Y (Confirmed Attendance)
+4. Mark Z (Confirmed Attendance)
+5. Peter E (Confirmed Attendance)
+6. Frank R (Confirmed Attendance)
 7. Yasmin R: StormForge representation 
 
 Unless there are any issues, these attendees [register here](https://x.finops.org/register/) with the code **SPONGDBOLTX25** and begin to book travel/lodging. 
 
 Optional Attendees (Decisions made by Org leaders - Kyle, Steve, etc): 
-- Steve F: Should you want to take part / plan meetings for the event
+- Steve F (Confirmed Attendance)
 - Ryan W
 - Account Executive (Logan T or other) 
 - Additional Sales Engineer (Mike B or other)
@@ -52,8 +31,8 @@ Optional Attendees (Decisions made by Org leaders - Kyle, Steve, etc):
 Steve, Kyle, please weigh in on optional attendance.
 
 ## Critical Deadlines
-- **March 21 (TODAY)**: Gold Breakout Session proposed session details due
-- **April 1 (HARD DEADLINE)**: Final booth graphic submission to jessica@finops.org
+- **March 21 (TODAY)**: (Complete)
+- **April 1 (HARD DEADLINE)**: (Complete)
 - **April 11**: Google Slides submission for Gold Breakout Session to suha@finops.org
 - **April 14**: Dry run starts for Gold Breakout Session
 - **May 5**: Advanced Shipping starts
