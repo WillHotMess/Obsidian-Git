@@ -19,6 +19,8 @@
 
 **Landing Page**: https://connect.dxc.technology/FinOps-GreenOps-registration 
 
+
+
 --- 
 # Abstract
 ## Breaking Free from the Stuck Quadrant with AI and Automation
