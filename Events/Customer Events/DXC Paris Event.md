@@ -17,6 +17,7 @@
 - Keynote 2:  HEC - results of FinOps dissertation produced by 2 HEC students for DXC
 - Q&A session
 
+**Landing Page**: https://connect.dxc.technology/FinOps-GreenOps-registration 
 
 --- 
 # Abstract
