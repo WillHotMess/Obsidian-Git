@@ -142,3 +142,10 @@ Here's a potential outline for your interactive click-through demo in StoryLane,
 - Maintain a **fast pace** to stay within the 5-minute timeframe.
 
 This outline provides a structure based on the information in the provided transcript, focusing on the value proposition and key differentiators of StormForge Optimize Live for a product marketing-oriented demo.
+
+https://cloudbolt.storylane.io/share/apmwttqi7vor
+
+wnorton
+> cS4g5^O71gbZcHH
+> 
+https://cloudbolt-demo.cblabsales.net/
