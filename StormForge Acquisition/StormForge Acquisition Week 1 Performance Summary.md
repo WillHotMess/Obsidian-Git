@@ -207,3 +207,4 @@ Best regards,
 
 ---
 
+1 AND 2 AND 3 AND 4 AND 5 AND 9 AND (6 OR 7) AND (8 OR 10)
