@@ -31,13 +31,20 @@ The StormForge acquisition announcement has generated significant interest acros
 - **Social Shares / Engagement Highlights:** [Key metrics]
 
 ### 3. Press Release Performance
-- **Wire Platform Views:** [X]
+#### Wire
+**Distribution Metrics:**
+- **Total Placements:** 887 full text placements, 26 headline placements
+- **Total Views:** 5,510 views across all platforms
+- **Unique Readers:** 567 individuals have engaged with the release
+- **Total Reach:** 246.9 million potential impressions from full text placements
+**Engagement Quality:**
+- **Link Clicks:** 207 total clicks on embedded links within the release
+- **Average CTR:** 2.15% click-through rate, significantly above industry average
+
 - **Website Views:** 95
-- **Pickups / Media Mentions:** 8 confirmed placements including Forbes, Axios, The New Stack
-- **Referral Traffic to Site:** [X]
+- **Pickups / Media Mentions:** 8 confirmed placements including Forbes, Axios, The New Stack, CIODive, and more
 - **Backlinks Generated:** [Number and key sources]
 
-Our PR efforts yielded significant coverage across industry and business publications:
 
 | Publication       | Article Title                                                                                       | UVM   | Domain Authority |
 | ----------------- | --------------------------------------------------------------------------------------------------- | ----- | ---------------- |
@@ -49,6 +56,7 @@ Our PR efforts yielded significant coverage across industry and business publica
 | VMblog            | CloudBolt Extends Continuous Optimization to Kubernetes Through Strategic Acquisition of StormForge | 11.2K | 52               |
 | DEVOPSdigest      | CloudBolt Acquires StormForge                                                                       | 46.2K | 40               |
 | Potomac Tech Wire | [Article Reference]                                                                                 | [UVM] | [DA]             |
+|                   |                                                                                                     |       |                  |
 
 **Additional Potential Coverage**: 
 - Several journalists who reviewed our release under embargo may still publish, including Dan Primack (Axios), Paul Gillin (SiliconANGLE), and Wade Millward (CRN). 
@@ -70,8 +78,6 @@ We launched three targeted email campaigns:
 - **Clickthrough Rate:** [X%]
 - **Unsubscribe Rate:** [X%]
 - **Qualitative Feedback:** [Summarize any notable replies or forwards]
-
-
 
 ### 6. Social Media Performance
 The announcement was strategically rolled out across multiple platforms:
