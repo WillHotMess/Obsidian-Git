@@ -26,7 +26,7 @@ The StormForge acquisition announcement has generated significant interest acros
 ### 2.WTD CTA Events: 
 	- 97 Demo
 	- 52 StormForge Free Trials
-	- XX Interactive Demo Engagements
+	- 8 Interactive Demo Engagements
 	- 6 Sandbox
 	- 2 Contact Page
 
