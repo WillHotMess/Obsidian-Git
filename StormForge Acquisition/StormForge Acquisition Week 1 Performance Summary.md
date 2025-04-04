@@ -14,58 +14,49 @@ The StormForge acquisition announcement has generated significant interest acros
 
 ## Detailed Results by Channel
 
-### 1. Acquisition Hub Performance
+### 1. Acquisition Hub Performance ()
+- **Unique Visitors:** 2210 (Daily visits, sitewide is typically ~1000)
+- **Avg. Time on Page:** ~40 seconds (Healthy considering news-focused traffic)
+- **Bounce Rate:** 34.5% (Healthy conversion for news-focused traffic)
+- **Top Next Page Paths:** 
+	- Executive Video
+	- Company News
+	- Demo 
 
-- **Pageviews:** [X]
-- **Unique Visitors:** [X]
-- **Avg. Time on Page:** [X]
-- **Bounce Rate:** [X%]
-- **Top Traffic Sources:** [List top 3-5]
-- **Top Next Page Paths:** [List top 3-5]
-- **CTA Click Events:** [Number of Demo/Trial button clicks]
-
-### 2. Blog Performance
-- **Total Views:** 61
-- **Avg. Time on Page:** 27s
-- **CTA Clicks:** [X]
-- **Social Shares / Engagement Highlights:** [Key metrics]
+**WTD CTA Events:** 
+	- 97 Demo
+	- 52 StormForge Free Trials
+	- XX Interactive Demo Engagements
+	- 6 Sandbox
+	- 2 Contact Page
 
 ### 3. Press Release Performance
-#### Wire
 **Distribution Metrics:**
 - **Total Placements:** 887 full text placements, 26 headline placements
-- **Total Views:** 5,510 views across all platforms
+- **Total Views:** 5,607 views across all platforms
 - **Unique Readers:** 567 individuals have engaged with the release
 - **Total Reach:** 246.9 million potential impressions from full text placements
 **Engagement Quality:**
 - **Link Clicks:** 207 total clicks on embedded links within the release
 - **Average CTR:** 2.15% click-through rate, significantly above industry average
 
-- **Website Views:** 95
-- **Pickups / Media Mentions:** 8 confirmed placements including Forbes, Axios, The New Stack, CIODive, and more
-- **Backlinks Generated:** [Number and key sources]
+**Pickups / Media Mentions:** 
+- 8 confirmed placements including Forbes, Axios, The New Stack, CIODive, and more
+- **Additional Potential Coverage**: 
+	- Several journalists who reviewed our release under embargo may still publish, including Dan Primack (Axios), Paul Gillin (SiliconANGLE), and Wade Millward (CRN). 
+	- We also have a future opportunity with CIO Dive for a feature on Kubernetes trends and with a freelancer for an article on API Cost Optimization for The New Stack or DevOps.com.
 
+### 4. Content Performance:
+#### Blog Performance
+- **Total Views:** 61
+#### Executive Video Performance
+- **Total Views:** 403 views
+- **Social Engagement:
+	- Impressions: 465
+	- Click-through-rate: 9%
+#### Solution Guide
+- - **Total Views:** 12 views
 
-| Publication       | Article Title                                                                                       | UVM   | Domain Authority |
-| ----------------- | --------------------------------------------------------------------------------------------------- | ----- | ---------------- |
-| Forbes            | Weatherproofing Kubernetes, CloudBolt Acquires StormForge                                           | 94.4M | 94               |
-| Axios Pro         | [Article Title]                                                                                     | [UVM] | [DA]             |
-| The New Stack     | CloudBolt Acquires StormForge To Enhance Kubernetes Optimization                                    | 452K  | 74               |
-| CIO Dive          | CloudBolt Extends Continuous Optimization to Kubernetes Through Strategic Acquisition of StormForge | 45.6K | 72               |
-| CityBiz           | CloudBolt Acquires StormForge                                                                       | 75.7K | 44               |
-| VMblog            | CloudBolt Extends Continuous Optimization to Kubernetes Through Strategic Acquisition of StormForge | 11.2K | 52               |
-| DEVOPSdigest      | CloudBolt Acquires StormForge                                                                       | 46.2K | 40               |
-| Potomac Tech Wire | [Article Reference]                                                                                 | [UVM] | [DA]             |
-|                   |                                                                                                     |       |                  |
-
-**Additional Potential Coverage**: 
-- Several journalists who reviewed our release under embargo may still publish, including Dan Primack (Axios), Paul Gillin (SiliconANGLE), and Wade Millward (CRN). 
-- We also have a future opportunity with CIO Dive for a feature on Kubernetes trends and with a freelancer for an article on API Cost Optimization for The New Stack or DevOps.com.
-
-### 4. Executive Video Performance
-- **Total Views (by Platform):** [Break down by LinkedIn, website, etc.]
-- **Avg. Watch Time / Completion Rate:** [X%]
-- **Engagement (Comments, Shares):** [X]
 
 ### 5. Email Marketing Performance
 We launched three targeted email campaigns:
@@ -73,24 +64,22 @@ We launched three targeted email campaigns:
 2. CloudBolt prospect notification
 3. StormForge prospect notification (via Pardot)
 
-- **Open Rate (Customers):** [X%]
-- **Open Rate (Prospects):** [X%]
-- **Clickthrough Rate:** [X%]
-- **Unsubscribe Rate:** [X%]
-- **Qualitative Feedback:** [Summarize any notable replies or forwards]
+- **Open Rate (Customers):** 6.7%
+- **Clickthrough Rate (Customers):** 4.82%
+- **Open Rate (Prospects):** 4.25%
+- **Clickthrough Rate (Prospects):** 2%
 
 ### 6. Social Media Performance
-The announcement was strategically rolled out across multiple platforms:
-- LinkedIn (CloudBolt and StormForge)
-- Twitter (CloudBolt and StormForge)
-- BlueSky (StormForge)
-We also updated company profiles  with "CloudBolt + StormForge" messaging to signal the integration.
+The acquisition announcement social media campaign generated a combined total of 11,146 impressions and 402 clicks across all content types and channels. Overall, the campaign achieved a strong average click-through rate of 3.61%, significantly exceeding typical B2B social media benchmarks. We typically see ~2 new followers per day, this week we saw roughly 4x. 
+#### Combined Performance Metrics
 
-- **Engagement Rate (avg per post):** [X%]
-- **Video Views (native uploads):** [X]
-- **Follower Growth:** [X new followers]
-- **Top Mentions / Shares:** [List notable accounts that shared/mentioned]
-- **Inbound Inquiries:** [Number received via DM or comments]
+| Metric            | CloudBolt | StormForge | Combined Total |
+| ----------------- | --------- | ---------- | -------------- |
+| Total Impressions | 8,693     | 2,453      | 11,146         |
+| Total Clicks      | 149       | 253        | 402            |
+| Average CTR       | 1.71%     | 10.31%     | 3.61%          |
+| Video Views       | 345       | 214        | 559            |
+| New Followers     | 38        | 11         | 49             |
 
 ### 7. Lead Activity
 - **Demo Requests (pre vs. post):** [X vs. Y]
@@ -108,15 +97,6 @@ Our newly launched advertising campaigns are beginning to generate impressions a
 | Refreshed Brand      | Google Ads |
 | StormForge Channels  | Reddit     |
 | StormForge Channels  | Google Ads |
-
-### 9. KubeCon Impact
-
-The acquisition announcement timing with KubeCon provided additional visibility:
-
-- Booth traffic: [X] visitors
-- [X] qualified conversations
-- [X] on-site demos conducted
-- [X] new contacts added to our database
 
 ## Qualitative Insights
 
@@ -175,3 +155,45 @@ _Attachments:_
 - Comprehensive Acquisition Analytics Dashboard (PowerBI)
 - Media Coverage Report
 - Sales Pipeline Impact Analysis
+
+
+
+## Social Media Campaign Performance Summary
+
+The acquisition announcement social media campaign generated a combined total of 11,146 impressions and 402 clicks across all content types and channels. Overall, the campaign achieved a strong average click-through rate of 3.61%, significantly exceeding typical B2B social media benchmarks.
+### Combined Performance Metrics
+
+|Metric|CloudBolt|StormForge|Combined Total|
+|---|---|---|---|
+|Total Impressions|8,693|2,453|11,146|
+|Total Clicks|149|253|402|
+|Average CTR|1.71%|10.31%|3.61%|
+|Video Views|345|214|559|
+|New Followers|38|*|38+|
+
+*StormForge new follower data not available
+
+### Content Performance Analysis
+
+When analyzing by content type across both channels:
+
+1. **Primary Announcement Posts** (Press Release + Logo Animation)
+    - Total Impressions: 10,149
+    - Total Clicks: 285
+    - Average CTR: 2.81%
+    - Proportion of Campaign: 91.1% of impressions, 70.9% of clicks
+2. **Executive Video Posts**
+    - Total Impressions: 816
+    - Total Clicks: 108
+    - Average CTR: 13.24%
+    - Video Views: 559
+    - Proportion of Campaign: 7.3% of impressions, 26.9% of clicks
+3. **Blog Post Content**
+    - Total Impressions: 181
+    - Total Clicks: 9
+    - Average CTR: 4.97%
+    - Proportion of Campaign: 1.6% of impressions, 2.2% of clicks
+
+The executive video content provided exceptional value, generating nearly 27% of all clicks while representing only 7.3% of total impressions. This indicates that video content featuring leadership perspectives was particularly compelling to our audience during the acquisition announcement period.
+
+Additionally, the data demonstrates significant engagement differential between the two brand channels, with StormForge content consistently achieving higher click-through rates than equivalent CloudBolt content. This provides valuable insight for our ongoing integration strategy and future communications planning.
