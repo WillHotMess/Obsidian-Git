@@ -139,3 +139,36 @@ Reference the examples provided in our discussion for ideal email structure and 
 7. Implement data quality validation
 8. Test with historical data
 9. Deploy for weekly execution
+
+# Revised Marketing Pipeline Goals
+
+## Annual Pipeline Targets Based on New Conversion Rates
+
+Based on the provided conversion rates, ASP of $110,000, and 15% opportunity conversion rate, I've recalculated our annual and quarterly goals:
+
+|Level|Conversion Rate|Annual Target|Quarterly Target|
+|---|---|---|---|
+|MQLs|94% to SAL|405|101|
+|SALs|26% to SQL|381|95|
+|SQLs|76% to Opportunity|99|25|
+|Opportunities|15% win rate|75|19|
+|Pipeline Value|$110,000 ASP|$8,250,000|$2,062,500|
+### Goal-Setting Assumptions and Methodology
+
+Our annual and quarterly targets are based on the following assumptions:
+
+1. **Revenue Model Assumptions**:
+    - Average Sales Price (ASP): $110,000 per opportunity
+    - Opportunity win rate: 15%
+    - Annual **New Business** pipeline** goal: $8,246,101
+    - Quarterly **New Business** pipeline goal: $2,061,525
+2. **Funnel Conversion Assumptions**:
+    - MQL to SAL conversion: 94%
+    - SAL to SQL conversion: 26%
+    - SQL to Opportunity conversion: 76%
+3. **Target Calculation Methodology**:
+    - Starting with required annual pipeline value ($8.25M)
+    - Divided by ASP ($110,000) to determine required won deals (75)
+    - Applied win rate (15%) to determine required opportunities (75)
+    - Applied conversion rates at each funnel stage to determine required SQLs (99), SALs (381), and MQLs (405)
+    - Quarterly targets represent annual targets divided by four
