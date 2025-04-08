@@ -37,26 +37,26 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 
 ### 1. Product-Led Sales Optimization
 - **Free Trial Enhancement**: Implement mechanisms to improve conversion rates and velocity at each stage (click → form fill → install → POC → close)
-- **Nurture Development**: Create targeted workflows for trial users based on product usage patterns
+- **Nurture Development**: Create targeted workflows for trial users based on product usage patterns OR using a coordinated outreach series of product explainers
 - **Conversion Analytics**: Deploy enhanced tracking to identify drop-off points in the user journey
 - **Self-Service Content**: Develop contextual resources to guide users through trial experience
 
-### 2. Conversational AI Automation
+### 2. Conversational Email via 6Sense
 - **Implementation Scope**: Full-loop email engagement for high intent accounts without manual intervention for Enterprise FinOps and HCM (April) and "Wake the Dead" campaign in May
-- **Technical Integration**: Connect with 6Sense data for personalized outreach based on intent signals
-- **Content Strategy**: Develop modular content components specifically optimized for conversational delivery
+- **Technical Integration**: Connect with 6Sense data for personalized outreach based on intent signals (Caleb is performing "hot account" ABM)
+- **Content Strategy**: Persona-personalized content and copy for buying committee by end of Q2 (champion vs econ. buyer vs user) 
 - **Success Metrics**: Track engagement rates, meeting bookings, and pipeline influence
 
 ### 3. ABM Expansion
 - **Field-Aligned 5×5 Approach**: Five key accounts per seller with five coordinated touches per quarter
 - **6Sense Integration**: Enhance intent data capture with specific StormForge technical indicators
 - **Customized Content Creation**: Develop account-specific assets addressing unique cloud environments
-- **Sales Enablement Integration**: Conduct bi-weekly ABM reviews with field teams to refine targeting
+- **Sales ABM Review Meetings**: Conduct bi-weekly ABM reviews with field teams to refine targeting
 
 ### 4. Interactive Demo Experience
 - **Storylane Implementation**: Deploy across all product lines with phased rollout beginning in May
 - **Demo Content Customization**: Create dynamic pathways for different personas (FinOps Practitioners, IT Ops, Finance)
-- **Integration with Free Trial**: Develop seamless pathway from guided demo to self-service exploration
+- **Integration with Free Trial**: Develop seamless pathway from guided demo to self-service exploration (HCM has a non-public sandbox - 
 - **Technical Considerations**: Ensure StormForge sandbox environments maintain AWS workshop infrastructure advantages
 
 ### 5. FinOps Community
