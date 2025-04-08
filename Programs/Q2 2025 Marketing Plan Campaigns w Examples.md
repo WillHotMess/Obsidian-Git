@@ -59,25 +59,25 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 - **Integration with Free Trial**: Develop seamless pathway from guided demo to self-service exploration (HCM has a non-public sandbox - 
 - **Technical Considerations**: Ensure StormForge sandbox environments maintain AWS workshop infrastructure advantages
 
-### 5. FinOps Community
+### 5. FinOps Events (Pre-, During-, Post-)
 - **FinOps X Engagement**: Major presence at June event with speaker session, booth presence, and meeting space
 - **Thought Leadership Webinar**: Tracy Woo analyst webinar on continuous optimization scheduled for late April
 
-### 6. Channel Diversification
+### 6. Ad/Content Channel Diversification
 - **Reddit Engineering Focus**: Test campaign leveraging StormForge's existing presence targeting Kubernetes practitioners
 - **LinkedIn Targeting Enhancement**: Implement refined ABM approach with role-based messaging variants
 - **StormForge Syndication Partners**: Expand relationships with "Learn K8S" and "The Cube" for targeted distribution
-- **AWS Marketplace Strategy**: Formalize unified approach leveraging StormForge's EKS add-on status
 
 ### 7. AWS Partnership Maximization
 - **Relationship Consolidation**: Expand StormForge relationship manager's role to optimize CloudBolt's AWS engagement across programs
 - **MDF Expansion Strategy**: Elevate ad-hoc MDF approach to structured annual plan, increasing from current levels to support combined offerings
 - **EKS Add-On Promotion**: Leverage StormForge's unique position as the only pod right-sizing tool available as an EKS add-on
 - **Workshop Infrastructure**: Utilize AWS-provided workshop studio environments for prospect engagement
+- **Expand Key AWS Activities to CB**: Expand high ROI plays from StormForge to other CloudBolt offerings
 
 ## Key Inputs and External Factors
 1. **Input | Product Roadmap**: HCM roadmap refresh (Offsite April 15), StormForge integration timeline (ASAP), CloudBolt platform release dates (ASAP)
-2. **Input | AWS Strategy Alignment**: Formalize ownership and approach for marketplace initiatives (AWS meeting scheduled May 10)
+2. **Input | AWS Strategy Alignment**: Formalize ownership/approach for marketplace  and other initiatives (AWS meeting scheduled May 10)
 3. **Input | Sandbox/Trial Approach**: Approve development resources for public-facing environment
 4. **External | Salesforce Integration**: Complete StormForge SFDC integration (mid-April) to enable accurate lead tracking and attribution
 5. **External | Gartner MQ Publication**: Anticipated publication mid-May requiring involvement from product teams
