@@ -7,8 +7,7 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 ## Core Strategic Themes
 
 ### 1. Continuous Optimization Platform
-
-- **Value Proposition Enhancement**: Refine the "insight to action" messaging for Enterprise FinOps, incorporating StormForge's Kubernetes optimization capabilities to strengthen our complete cloud cost optimization story
+- **Value Proposition Enhancement**: Refine the "Continuous Optimization" messaging coming out of the State of FinOps, incorporating StormForge's Kubernetes optimization capabilities to strengthen our complete cloud cost optimization story. 
 - **Technical Integration Narrative**: Develop clear solution architecture materials showing how StormForge complements CloudBolt's existing platform capabilities
 - **AWS Partnership Leverage**: Capitalize on StormForge's "differentiated partner" status and EKS Ready designation to elevate CloudBolt's positioning with AWS
 
@@ -19,8 +18,8 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 
 ### 3. BillOps Revitalization
 - **Refreshed Positioning**: Reframe BillOps value proposition against emerging competitors with platforms upcoming enhanced dashboard and reporting capabilities
+- **Net-new Content**
 - **Target Industry Focus**: Prioritize service providers, financial services, and manufacturing verticals where billing complexity creates highest value
-- 
 
 ### 4. HCM Portfolio Modernization
 - **Broadcom Takeout Campaign**: Target VMware customers concerned about Broadcom's product direction
@@ -51,7 +50,7 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 ### 4. Channel Diversification
 - **Reddit Engineering Focus**: Test campaign leveraging StormForge's existing presence targeting Kubernetes practitioners
 - **LinkedIn Targeting Enhancement**: Implement refined ABM approach with role-based messaging variants
-- **Content Syndication Partners**: Expand relationships with "Learn K8S" and "The Cube" for targeted distribution
+- **StormForge Syndication Partners**: Expand relationships with "Learn K8S" and "The Cube" for targeted distribution
 - **AWS Marketplace Strategy**: Formalize unified approach leveraging StormForge's EKS add-on status
 
 ### 5. ABM Expansion
