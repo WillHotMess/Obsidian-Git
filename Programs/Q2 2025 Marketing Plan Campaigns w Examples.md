@@ -7,13 +7,10 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 ## Core Strategic Themes
 
 ### 1. Continuous Optimization (Enterprise FinOps)
-
 - **Value Proposition Marketing**: Adapt market messaging to "Continuous Optimization" building on the outputs of the State of FinOps report, incorporating StormForge's Kubernetes optimization capabilities to strengthen our complete cloud cost optimization story
 - **Roadmap Refresh:** Develop and distribute updated FinOps capabilities roadmap highlighting Q3-Q4 features, StormForge integration milestones, and enhanced optimization algorithms. Create value proposition one-pagers for each key feature to support sales conversations and generate market anticipation.
-- **AWS Partnership Leverage**: Capitalize on StormForge's "differentiated partner" status and EKS Ready designation to elevate CloudBolt's positioning with AWS
 
 ### 2. StormForge Acquisition
-
 - **90-Day Saturation Strategy**: Maintain StormForge's brand presence with "Now a CloudBolt Company" tagline while gradually integrating into CloudBolt's marketing architecture
 - **Integration Narrative**: Develop clear solution architecture materials showing how StormForge complements CloudBolt's existing platform capabilities
 - **Product-Led Growth Focus**: Preserve and enhance StormForge's free trial motion with improved conversion mechanisms at each funnel stage
@@ -21,27 +18,22 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 - **Technical Content Bridge**: Recruit outsourced technical SEO content creators via existing partners (Bob F) to maintain technical depth while integrating CloudBolt's business value messaging
 
 ### 3. BillOps Revitalization "Bill Better"
-
 - **Refreshed Positioning**: Reframe BillOps value proposition against emerging competitors with upcoming enhanced dashboard and reporting capabilities
 - **Net-new Content Campaign**: Develop comprehensive content strategy targeting service provider challenges
 - **Target Industry Focus**: Prioritize service providers, financial services, and manufacturing verticals where billing complexity creates highest value
 - **Sales Training Refresh**: Refresh existing BillOps enablement assets and roll-out to field
 
 ### 4. HCM Portfolio Modernization
-
 - **Broadcom Takeout Campaign**: Target VMware customers concerned about Broadcom's product direction
-- **Roadmap Refresh:** Create and distribute updated HCM capabilities timeline highlighting upcoming automation features, migration tools, and StormForge integration points. Develop comparison guides showing CloudBolt's advantage over Broadcom's VMware offerings with emphasis on continuity, flexibility and lower TCO.
+- **Roadmap Refresh:** Create and distribute updated HCM capabilities timeline highlighting upcoming automation features, migration tools, and StormForge integration points.
 - **Integration Narrative**: Develop clear solution architecture materials showing how StormForge complements CloudBolt's existing HCM capabilities
 
 ### 5. Better Together Cross-Sell
-
 - **Develop integration stories** across SF + HCM, SF + Platform, and HCM + Platform to drive expansion revenue
 - **Joint Value Proposition**: Create unified messaging showing enhanced value through combined offerings
 
 ## Q2 Big Bets
-
 ### 1. Product-Led Sales Optimization
-
 - **Free Trial Enhancement**: Implement mechanisms to improve conversion rates and velocity at each stage (click → form fill → install → POC → close)
 - **Nurture Development**: Create targeted workflows for trial users based on product usage patterns OR using a coordinated outreach series of product explainers
 - **Conversion Analytics**: Deploy enhanced tracking to identify drop-off points in the user journey
