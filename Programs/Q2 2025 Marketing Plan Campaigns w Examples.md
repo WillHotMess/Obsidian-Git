@@ -18,18 +18,20 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 - **Technical Content Bridge**: Balance StormForge's technical depth with CloudBolt's business value messaging to maintain audience trust
 
 ### 3. BillOps Revitalization
-- **Refreshed Positioning**: Reframe BillOps value proposition against emerging competitors with enhanced dashboard and reporting capabilities
-- **Target Industry Focus**: Prioritize financial services, healthcare, and manufacturing verticals where billing complexity creates highest value
-- **Partner-Led Go-to-Market**: Activate Ingram, DXC, and Hitachi partnerships with dedicated enablement and joint marketing initiatives
+- **Refreshed Positioning**: Reframe BillOps value proposition against emerging competitors with platforms upcoming enhanced dashboard and reporting capabilities
+- **Target Industry Focus**: Prioritize service providers, financial services, and manufacturing verticals where billing complexity creates highest value
+- 
 
 ### 4. HCM Portfolio Modernization
 - **Broadcom Takeout Campaign**: Target VMware customers concerned about Broadcom's product direction
-- **Roadmap Refreshed Messaging**: Highlight enhanced automation capabilities and integration with StormForge for complete hybrid cloud management
-- **Better Together Cross-Sell**: Develop integration stories across SF + HCM, SF + Platform, and HCM + Platform to drive expansion revenue
+- **Roadmap Refreshed Messaging**: Highlight planned HCM capabilities and integration with StormForge for complete hybrid cloud management
+
+### 5. Better Together Cross-Sell 
+- **Develop integration stories** across SF + HCM, SF + Platform, and HCM + Platform to drive expansion revenue
 
 ## Q2 Big Bets
 ### 1. Conversational AI Automation
-- **Implementation Scope**: Full-loop email engagement without manual QA for Enterprise FinOps (April) and HCM (May)
+- **Implementation Scope**: Full-loop email engagement for high intent accounts without manual intervention for Enterprise FinOps and HCM (April) and Wake the Dead in (May)
 - **Technical Integration**: Connect with 6Sense data for personalized outreach based on intent signals
 - **Content Strategy**: Develop modular content components specifically optimized for conversational delivery
 - **Success Metrics**: Track engagement rates, meeting bookings, and pipeline influence
