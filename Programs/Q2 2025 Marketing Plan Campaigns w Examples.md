@@ -35,45 +35,39 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 ## Q2 Big Bets
 ### 1. Product-Led Sales Optimization
 - **Free Trial Enhancement**: Implement mechanisms to improve conversion rates and velocity at each stage (click → form fill → install → POC → close)
-- **Nurture Development**: Create targeted workflows for trial users based on product usage patterns OR using a coordinated outreach series of product explainers
+- **StormForge Nurture Development**: Create targeted workflows for trial users based on product usage patterns OR using a coordinated outreach series of product explainers
 - **Conversion Analytics**: Deploy enhanced tracking to identify drop-off points in the user journey
 - **Self-Service Content**: Develop contextual resources to guide users through trial experience
 
 ### 2. Conversational Email via 6Sense
-
 - **Implementation Scope**: Full-loop email engagement for high intent accounts without manual intervention for Enterprise FinOps and HCM (April) and "Wake the Dead" campaign in May
 - **Technical Integration**: Connect with 6Sense data for personalized outreach based on intent signals (Caleb is performing "hot account" ABM)
 - **Content Strategy**: Persona-personalized content and copy for buying committee by end of Q2 (champion vs econ. buyer vs user)
 - **Success Metrics**: Track engagement rates, meeting bookings, and pipeline influence
 
 ### 3. ABM Expansion
-
 - **Field-Aligned 5×5 Approach**: Five key accounts per seller with five coordinated touches per quarter
 - **6Sense Integration**: Enhance intent data capture with specific StormForge technical indicators
 - **Customized Content Creation**: Develop account-specific assets addressing unique cloud environments
 - **Sales ABM Review Meetings**: Conduct bi-weekly ABM reviews with field teams to refine targeting
 
 ### 4. Interactive Demo Experience
-
 - **Storylane Implementation**: Deploy across all product lines with phased rollout beginning in May
 - **Demo Content Customization**: Create dynamic pathways for different personas (FinOps Practitioners, IT Ops, Finance)
-- **Integration with Free Trial**: Develop seamless pathway from guided demo to self-service exploration (HCM has a non-public sandbox -
+- **Integration with Free Trial**: Develop seamless pathway from guided demo to self-service exploration (HCM has a non-public sandbox - 
 - **Technical Considerations**: Ensure StormForge sandbox environments maintain AWS workshop infrastructure advantages
 
 ### 5. FinOps Thought Leadership
-
 - **FinOps X Engagement**: Major presence at June event with speaker session, booth presence, and meeting space
 - **Thought Leadership Webinar**: Tracy Woo analyst webinar on continuous optimization scheduled for late April
-- **CloudBolt Industry Insights**: Launch quarterly "State of Cloud Cost Optimization" report series featuring industry benchmarks, optimization trends, and expert commentary. Develop supporting assets including infographics, executive summaries, and practitioner guides to extend content lifecycle and repurpose across channels.
+- **CloudBolt Industry Insights**: Launch quarterly "State of Cloud Cost Optimization" report series featuring industry benchmarks, optimization trends, and expert commentary. 
 
 ### 6. Ad/Content Channel Diversification
-
 - **Reddit Engineering Focus**: Test campaign leveraging StormForge's existing presence targeting Kubernetes practitioners
 - **LinkedIn Targeting Enhancement**: Implement refined ABM approach with role-based messaging variants
 - **StormForge Syndication Partners**: Expand relationships with "Learn K8S" and "The Cube" for targeted distribution
 
 ### 7. AWS Partnership Maximization
-
 - **Relationship Consolidation**: Expand StormForge relationship manager's role to optimize CloudBolt's AWS engagement across programs
 - **MDF Expansion Strategy**: Elevate ad-hoc MDF approach to structured annual plan, increasing from current levels to support combined offerings
 - **EKS Add-On Promotion**: Leverage StormForge's unique position as the only pod right-sizing tool available as an EKS add-on
@@ -81,14 +75,13 @@ The Q2 2025 marketing strategy builds upon our successful acquisition of StormFo
 - **Expand Key AWS Activities to CB**: Expand high ROI plays from StormForge to other CloudBolt offerings
 
 ## Key Inputs and External Factors
-
-1. **Input | Product Roadmap**: HCM roadmap refresh (Offsite April 15), StormForge integration timeline (ASAP), CloudBolt platform release dates (ASAP)
-2. **Input | AWS Strategy Alignment**: Formalize ownership/approach for marketplace and other initiatives (AWS meeting scheduled May 10)
-3. **Input | Sandbox/Trial Approach**: Determine next steps for public-facing environments for customers to experience the product(s)
+1. **Dependency | Product Roadmap**: HCM roadmap refresh (Offsite April 15), StormForge integration timeline (ASAP), CloudBolt platform release dates (ASAP)
+2. **Dependency | AWS Strategy Alignment**: Formalize ownership/approach for marketplace and other initiatives (AWS meeting scheduled May 10)
+3. **Dependency | Sandbox/Trial Approach:** Determine next steps for public-facing environments for customers to experience the product(s)
 4. **External | Salesforce Integration**: Complete StormForge SFDC integration (mid-April) to enable accurate lead tracking and attribution
 5. **External | Gartner MQ Publication**: Anticipated publication mid-May requiring involvement from product teams
 6. **External | FinOps X Event**: Major presence opportunity (June 12-14)
-7. **External | Intelligent Workflows**: New Forrester Wave publication requiring positioning response
+7. **External | Intelligent Workflows**: 6Sense feature roll-outs
 8. **External | Branding Timeline**: Preparation for Q3 2025 product name transition from StormForge to capability-focused naming
 
 ## Resource Allocation
