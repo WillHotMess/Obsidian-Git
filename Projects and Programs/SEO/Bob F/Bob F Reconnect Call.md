@@ -12,11 +12,9 @@
 - Yasmin (Former StormForge COO)
 
 ### Summary
-
 This meeting focused on the transition of StormForge technical content to CloudBolt following the acquisition, discussing current article status, publication plans, and future content strategy including Java-related articles and potential Oracle Cloud content.
 
 ### Agenda
-
 - StormForge content methodology and current status
 - Migration timeline for StormForge content to CloudBolt
 - Content review process and responsibilities
@@ -24,7 +22,6 @@ This meeting focused on the transition of StormForge technical content to CloudB
 - Future content opportunities (Oracle Cloud)
 
 ### Discussion Notes
-
 - **Content Methodology**: Bob outlined their approach using SEMrush for keyword research, having hands-on practitioners write articles with peer and editorial reviews. They publish content, use AI to help with backlinks, and track performance through Google Analytics and Tag Manager.
     
 - **Current StormForge Articles**:
