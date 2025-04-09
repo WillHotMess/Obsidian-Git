@@ -1,8 +1,4 @@
 
-# Meeting Documentation and Follow-up System
-
-## Meeting Notes: Technical Content Strategy Meeting
-
 ### Meeting Details
 
 - **Date & Time**: 2025-04-09 (Current date used as placeholder)
@@ -10,7 +6,6 @@
 - **Meeting Type**: Content Strategy Discussion
 
 ### Attendees
-
 - Will Norton (VP of CloudBolt Marketing)
 - Bob (SEO/Technical Content Team Lead)
 - Charles (Website and Digital Oversight)
