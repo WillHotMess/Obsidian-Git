@@ -7,7 +7,6 @@
 > _Leveraging StormForge's successful trial frameworks to optimize conversion journey and demonstrate value quickly_
 
 **Key Activities & Metrics:**
-
 - **Free Trial Enhancement Pipeline** (Pipeline Generation)
     - Improve funnel conversion at each stage from current 1% toward best-in-class 10%
     - KPI: 15-20% increase in trial sign-up to installation conversion rate
@@ -15,11 +14,9 @@
     - Deploy Storylane across product lines with persona-specific journeys
     - KPI: 40% of interactive demo participants converting to trial sign-ups
 - **Self-Service Content Development** (Customer Experience)
-    
     - Create contextual guides and product explainers for trial users
     - KPI: 30% reduction in trial drop-off rates at key friction points
 - **Java Workload Optimization Messaging** (Competitive Differentiation)
-    
     - Highlight StormForge's unique capabilities versus Cast, PerfectScale and ScaleOps
     - KPI: 25% increase in Java workload-specific trial activations
 
@@ -28,21 +25,16 @@
 > _Piloting alternative channels to reduce reliance on Google Ads and optimize ROI_
 
 **Key Activities & Metrics:**
-
 - **Reddit Engineering Campaign** (New Audience Acquisition)
-    
     - Test targeted ads reaching Kubernetes practitioners where they gather
     - KPI: CTR 15% above platform benchmark; $45 cost per MQL (vs. $65 on Google)
 - **LinkedIn Targeting Enhancement** (Decision-Maker Reach)
-    
     - Implement role-based messaging for technical and business stakeholders
     - KPI: 20% increase in senior-level engagement vs. previous campaigns
 - **Content Syndication Partnerships** (Authority Building)
-    
     - Expand "Learn K8S" and "The Cube" distribution partnerships
     - KPI: 2,000+ technical audience contacts at 25% lower CPL than direct acquisition
 - **SEO/Technical Content Development** (Organic Traffic)
-    
     - Maintain StormForge's technical authority while expanding CloudBolt themes
     - KPI: Preserve 80% of StormForge organic traffic while growing combined traffic 20%
 
