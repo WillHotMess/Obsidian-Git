@@ -5,7 +5,6 @@
 - What are your expectations on first call availability? 
 	- What is the farthest time that you consider acceptable 
 
-
 **Questions for meeting w/ Steve regarding IB's:**  
 1. How will the meetings be scheduled?
     1. Does chilipiper come to me and I reach out to AE's to add them to the meetings?
