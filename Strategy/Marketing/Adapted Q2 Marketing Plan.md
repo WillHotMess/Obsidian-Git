@@ -3,8 +3,7 @@
 ## Strategic Focus Areas & Key Activities
 
 ### 1. Product-Led Sales and Growth Expansion
-
-> _Leveraging StormForge's successful trial frameworks to optimize conversion journey and demonstrate value quickly_
+> Expand StormForge's trial framework and optimize conversion journey to demonstrate value quickly
 
 **Key Activities & Metrics:**
 - **Free Trial Enhancement Pipeline** (Pipeline Generation)
@@ -21,13 +20,11 @@
     - KPI: 25% increase in Java workload-specific trial activations
 
 ### 2. Diversified Advertising Approach
-
 > _Piloting alternative channels to reduce reliance on Google Ads and optimize ROI_
-
 **Key Activities & Metrics:**
 - **Reddit Engineering Campaign** (New Audience Acquisition)
     - Test targeted ads reaching Kubernetes practitioners where they gather
-    - KPI: CTR 15% above platform benchmark; $45 cost per MQL (vs. $65 on Google)
+    - Monitored KPIs: CTR (click-through-rate) and CPL (cost per MQL)
 - **LinkedIn Targeting Enhancement** (Decision-Maker Reach)
     - Implement role-based messaging for technical and business stakeholders
     - KPI: 20% increase in senior-level engagement vs. previous campaigns
