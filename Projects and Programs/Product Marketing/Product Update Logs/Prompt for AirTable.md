@@ -3,6 +3,8 @@
 
 
 You are tasked with analyzing, categorizing, and summarizing product updates for a weekly customer email. Please review the individual product update summaries provided below, categorize them into logical groups, and create a cohesive summary.
+
+
 ## Guidelines:
 
 
