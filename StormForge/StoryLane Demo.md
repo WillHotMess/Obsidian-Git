@@ -7,7 +7,6 @@ Looking at the information provided, I'll outline 3-4 interactive demo screens f
 # CloudBolt + StormForge Interactive Demo Concept
 
 ## Demo Options (Initial Selection Screen)
-
 **Discover how CloudBolt + StormForge transforms Kubernetes cost management** Pick what interests you most:
 1. **Gain Complete Kubernetes Visibility** See how CloudBolt provides unprecedented clarity into your Kubernetes spending and resource usage
 2. **Automate Resource Optimization** Experience how ML-driven recommendations automatically right-size your workloads
@@ -15,7 +14,6 @@ Looking at the information provided, I'll outline 3-4 interactive demo screens f
 4. **Configure Guardrails & Settings** See how flexible guardrails provide confidence in automated optimization
 
 ## Demo 1: Gain Complete Kubernetes Visibility
-
 **Screen 1: The Hidden Cost of Kubernetes** Kubernetes has driven up cloud spend for 49% of organizations, with 70% citing overprovisioning as the primary cause. CloudBolt + StormForge breaks open this "black box" of container spending. [Begin Tour]
 **Screen 2: Cluster Dashboard** See your entire Kubernetes environment at a glance. This cluster is currently costing $205 more than necessary. [Click to expand]
 **Screen 3: Detailed Resource Analysis** Notice how many workloads are over-provisioned, wasting valuable resources. But there's also a critical insight here - some workloads are under-provisioned, creating performance risks. [Next]
@@ -26,7 +24,6 @@ Looking at the information provided, I'll outline 3-4 interactive demo screens f
 **Screen 8: Realize the Savings** This cluster alone shows $296 in potential monthly savings - multiply that across your entire Kubernetes estate for transformative cost reduction. [See how we optimize →]
 
 ## Demo 2: Automate Resource Optimization
-
 **Screen 1: The Optimization Challenge** Manual Kubernetes tuning is time-consuming, error-prone, and unsustainable at scale. Our platform automates this process with machine learning. [Begin Tour]
 **Screen 2: ML-Driven Recommendations** Our machine learning engine analyzes actual workload patterns to generate precise recommendations tailored to your applications. [View recommendations]
 **Screen 3: Recommendation Details** For this frontend service, we've identified the optimal resource settings based on historical usage patterns. Note how we're optimizing both CPU and memory resources. [Next]
@@ -37,7 +34,6 @@ Looking at the information provided, I'll outline 3-4 interactive demo screens f
 **Screen 8: Impact Analysis** Track the real-world impact of optimizations on both cost and performance metrics, with clear before-and-after comparisons. [See how we set guardrails →]
 
 ## Demo 3: Configure Guardrails & Settings
-
 **Screen 1: Control with Confidence** Automated optimization requires trust. Our guardrails ensure that efficiency never comes at the expense of reliability. [Begin Tour]
 **Screen 2: Optimization Goals** Adjust the balance between cost savings and reliability to align with each environment's requirements. Production workloads typically prioritize reliability over maximum savings. [Next]
 **Screen 3: Deployment Thresholds** Prevent unnecessary churn by setting thresholds for minimum change sizes, ensuring we only apply meaningful optimizations. [Next]
@@ -58,7 +54,6 @@ Looking at the information provided, I'll outline 3-4 interactive demo screens f
 **Screen 8: Get Started Today** Experience the future of Kubernetes cost management with CloudBolt + StormForge. [Book a Demo] [Start Free Trial]
 
 ## Demo Flow Steps (For All Demos)
-
 1. Start with the selection screen showcasing the four demo options
 2. Based on selection, show the first screen of the chosen demo with a hook about the problem
 3. Present the tour button to begin the interactive demo
@@ -142,10 +137,3 @@ Here's a potential outline for your interactive click-through demo in StoryLane,
 - Maintain a **fast pace** to stay within the 5-minute timeframe.
 
 This outline provides a structure based on the information in the provided transcript, focusing on the value proposition and key differentiators of StormForge Optimize Live for a product marketing-oriented demo.
-
-https://cloudbolt.storylane.io/share/apmwttqi7vor
-
-wnorton
-> cS4g5^O71gbZcHH
-> 
-https://cloudbolt-demo.cblabsales.net/
