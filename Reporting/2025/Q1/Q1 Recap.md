@@ -17,13 +17,13 @@ For Net New Business, we've generated:
 
 ## YTD Performance Against Annual Targets
 
-|Metric|YTD Total|Annual Target|% of Annual Target Complete|Q1 Target|Q1 Actual|% to Q1 Target|
-|---|---|---|---|---|---|---|
-|MQLs|120|405|29.6%|101|113|112%|
-|SALs|72|381|18.9%|95|70|74%|
-|SQLs|31|99|31.3%|25|30|120%|
-|Opportunities|34|75|45.3%|19|32|168%|
-|Pipeline Value|$2.83M|$8.25M|34.3%|$2.06M|$2.80M|136%|
+| Metric         | YTD Total | Annual Target | % of Annual Target Complete | Q1 Target | Q1 Actual | % to Q1 Target |
+| -------------- | --------- | ------------- | --------------------------- | --------- | --------- | -------------- |
+| MQLs           | 120       | 405           | 29.6%                       | 101       | 113       | 112%           |
+| SALs           | 72        | 381           | 18.9%                       | 95        | 70        | 74%            |
+| SQLs           | 31        | 99            | 31.3%                       | 25        | 30        | 120%           |
+| Opportunities  | 34        | 75            | 45.3%                       | 19        | 32        | 168%           |
+| Pipeline Value | $2.83M    | $8.25M        | 34.3%                       | $2.06M    | $2.80M    | 136%           |
 
 Our annual and quarterly targets are based on the following assumptions:
 1. **Revenue Model Assumptions**:

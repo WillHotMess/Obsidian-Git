@@ -15,7 +15,7 @@ Weekly Performance Table (Positive Outcomes Only)
 | 11          | 03/16/2025 | 4         | -0.46            |
 | 12          | 03/23/2025 | 6         | +1.54            |
 | 13          | 03/30/2025 | 5         | +0.54            |
-| 14          | 04/06/2025 | 1         | -3.46            |
+
 
 ## Performance Summary (Positive Outcomes Only)
 
