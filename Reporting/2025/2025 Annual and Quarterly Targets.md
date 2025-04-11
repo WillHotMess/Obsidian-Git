@@ -13,5 +13,11 @@ Our annual and quarterly targets are based on the following assumptions:
     - Starting with required annual pipeline value ($8.25M)
     - Divided by ASP ($110,000) to determine required won deals (75)
     - Applied win rate (15%) to determine required opportunities (75)
-    - Applied conversion rates at each funnel stage to determine required SQLs (99), SALs (381), and MQLs (405)
+    - Applied conversion rates at each funnel stage to determine required annual 
+	    - SQLs (99)
+	    - SALs (381)
+	    - MQLs (405)
     - Quarterly targets represent annual targets divided by four
+	    - SQLs (25)
+	    - SALs (95)
+	    - MQLs (101)
