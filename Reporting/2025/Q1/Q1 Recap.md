@@ -67,25 +67,7 @@ The first week of Q2 shows the expected modest start to a new quarter:
 
 These metrics align with typical beginning-of-quarter patterns, and we maintain a substantial outstanding pipeline of **$7.8M** across 84 open opportunities.
 
-## Goal-Setting Assumptions and Methodology
-
-Our annual and quarterly targets are based on the following assumptions:
-
-1. **Revenue Model Assumptions**:
-    - Average Sales Price (ASP): $110,000 per opportunity
-    - Opportunity win rate: 15%
-    - Annual **New Business** pipeline** goal: $8,246,101
-    - Quarterly **New Business** pipeline goal: $2,061,525
-2. **Funnel Conversion Assumptions**:
-    - MQL to SAL conversion: 94%
-    - SAL to SQL conversion: 26%
-    - SQL to Opportunity conversion: 76%
-3. **Target Calculation Methodology**:
-    - Starting with required annual pipeline value ($8.25M)
-    - Divided by ASP ($110,000) to determine required won deals (75)
-    - Applied win rate (15%) to determine required opportunities (75)
-    - Applied conversion rates at each funnel stage to determine required SQLs (99), SALs (381), and MQLs (405)
-    - Quarterly targets represent annual targets divided by four
+## G
 
 These assumptions will be reviewed quarterly based on actual performance data to ensure appropriate target-setting going forward.
 
