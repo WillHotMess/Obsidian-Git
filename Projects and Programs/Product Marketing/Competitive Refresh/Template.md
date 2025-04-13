@@ -35,5 +35,4 @@ More importantly, we're trusted by organizations that face the same challenges y
 
 Unlike vendors still struggling with the basics, we've already achieved FinOps Certified Platform status while maintaining our position as a Premier Member of the FinOps Foundation—ensuring our solutions align with established best practices while pushing the boundaries of what's possible.
 
-
 ![[Pasted image 20250413175453.png]]
