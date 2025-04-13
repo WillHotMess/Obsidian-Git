@@ -1,4 +1,4 @@
-# Competitive Analysis: CloudHealth by VMware - Vulnerabilities and Strategic Challenges
+# Competitive Analysis: Vulnerabilities and Strategic Challenges
 
 ## 1. Executive Summary
 
