@@ -88,3 +88,22 @@
 **Final Screen: Level Up Your Data Center** CloudBolt delivers a modern cloud experience for your private infrastructure, unifying management across your entire cloud fabric while enabling unprecedented efficiency and control. [Book a Demo] [Start a POC]
 
 This interactive demo showcases CloudBolt's ability to transform on-premises infrastructure with intelligent cloud automation, highlighting key value propositions without overwhelming technical details. The flow guides users through the platform's most compelling features while emphasizing business outcomes.
+
+
+1. Begin by expanding your resource options with the 'Add a resource handler' feature
+2. CloudBolt connects to a wide variety of cloud endpoints, including VMware, OpenShift, Azure Stack, AWS, and many more out of the box.
+3. CloudBolt's resource and automation catalog features pre-configured blueprints that run complex multi-cloud orchestration tasks.
+4.  Select from deployment options spanning environments - from on-premises VMware to public cloud and container platforms.
+5.  CloudBolt features pre-configured blueprints that codify best practices and handle complex multi-cloud orchestration tasks automatically.
+6.  CloudBolt handles the end-to-end deployment process, abstracting away complexity while maintaining granular control when needed.
+7.  Every build incorporates governance guardrails like tagging, package deployment, endpoint options, and compliance factors - all without limiting user flexibility.
+8.  CloudBolt shows forecasted costs before you deploy, enabling smarter resource decisions.
+9.  Once options are selected, CloudBolt handles the entire orchestration process - from resource provisioning to configuration management and beyond.
+10.  Once deployed, quickly view current and forecasted costs for any date range, with detailed breakdowns by resource, group, and cloud.
+11.  For customers using CloudBolt's Cloud Financial Management, see total potential savings based on detailed optimization analysis.
+12.  Create and manage budgets at any organizational level - from cloud accounts to cost centers or specific projects. CloudBolt shows you exactly where your money is going.
+13.  Monitor spend against budgets in real-time with clear visual indicators when you're approaching or exceeding limits. This AWS account has exceeded its monthly budget.
+14.  Easily create budgets at any level of your organization - by cloud, account, or using cost-identifying tags like project codes, P&L codes, or cost center codes.
+15. Set budgets by cloud, account, or using cost-identifying tags like project codes, P&L codes, or cost center codes.
+16. Create notifications through email, Slack, Teams, or external systems (e.g. CMBD platforms).
+17. If you use CloudBolt for provisioning, admins to set and enforce budgets at the group and resource levels. CloudBolt ensures spending stays within defined limits.
