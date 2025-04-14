@@ -76,6 +76,8 @@
     - Sponsored article contributions that have been strong sources of trial signups
     - **4/14 Update**: 
 	    - Meeting in place (Charles)
+- **Retargeting**:
+	- SF Installs + 6Sense Display Network
 
 ### Content Management
 - **Inbound Squared**: Vendor project management for content creation
