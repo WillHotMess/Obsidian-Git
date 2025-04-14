@@ -5,11 +5,9 @@
 **SUBJECT:** Analysis of SQL Job Titles & Cloud Capability Interests - Q4 2024
 
 ## Executive Summary
-
 I've conducted a quick analysis of our Sales Qualified Leads since October, focusing specifically on job titles and the cloud capabilities they're exploring. This analysis aims to provide insights into who is engaging with our content and what problems they're trying to solve.
 
 ## SQL Role Distribution
-
 After consolidating similar roles, here's the breakdown of our SQLs by job function:
 - **Note**: 6Sense lead scoring works by creating an ideal customer profile (ICP) based on our past customers and sales cycles. This ICP is then used as a model to evaluate incoming leads. The closer to the ICP a lead is, the higher the lead score. 
 
@@ -72,20 +70,20 @@ Your categorization is logical, but I recommend these slight refinements:
 
 ## Revised SQL Role Distribution
 
-|Role Category|% of SQLs|Fit Score|Key Roles|
-|---|---|---|---|
-|**Cloud/IT Operations & Management**|30%|Strong-Moderate|SREs, Cloud Ops Engineers, Systems Engineers, Infrastructure Managers, Cloud Platform Managers, FinOps Analysts|
-|**Cloud Architecture & Engineering**|19%|Strong|Cloud Architects, DevOps Engineers, Infrastructure Engineers|
-|**Cloud/IT Strategic Leadership**|20%|Strong|Directors of Cloud Engineering, VPs of IT, Heads of Cloud Ops, IT Directors|
-|**Other Roles**|31%|Varied|Business functions, Sales, Consultants, etc.|
+| Role Category                        | % of SQLs | Fit Score       | Key Roles                                                                                                       |
+| ------------------------------------ | --------- | --------------- | --------------------------------------------------------------------------------------------------------------- |
+| **Cloud/IT Operations & Management** | 30%       | Strong-Moderate | SREs, Cloud Ops Engineers, Systems Engineers, Infrastructure Managers, Cloud Platform Managers, FinOps Analysts |
+| **Cloud Architecture & Engineering** | 19%       | Strong          | Cloud Architects, DevOps Engineers, Infrastructure Engineers                                                    |
+| **Cloud/IT Strategic Leadership**    | 20%       | Strong          | Directors of Cloud Engineering, VPs of IT, Heads of Cloud Ops, IT Directors                                     |
+| **Other Roles**                      | 31%       | Varied          | Business functions, Sales, Consultants, etc.                                                                    |
 
 ## Revised Cloud Capability Interest by Role
 
-|Role Category|Primary Interests|Secondary Interests|Key Trend|
-|---|---|---|---|
-|**Cloud/IT Operations & Management**|• Cloud Provisioning (78%)<br>• Automation/Orchestration (75%)<br>• Cost Optimization (70%)|• Governance Controls (60%)<br>• Kubernetes Opt. (52%)<br>• Financial Reporting (48%)|Cost focus growing among operational roles|
-|**Cloud Architecture & Engineering**|• Automation/Orchestration (85%)<br>• Cloud Provisioning (80%)<br>• Governance Controls (75%)|• Cost Optimization (70%)<br>• Billing & Distribution (45%)|Governance increasingly important|
-|**Cloud/IT Strategic Leadership**|• Cost Optimization (86%)<br>• Governance Controls (80%)<br>• Financial Reporting (70%)|• Automation/Orchestration (65%)<br>• Chargeback/Showback (60%)|Financial visibility critical|
+| Role Category                        | Primary Interests                                                                              | Secondary Interests                                                                   | Key Trend                                  |
+| ------------------------------------ | ---------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------- | ------------------------------------------ |
+| **Cloud/IT Operations & Management** | • Cloud Provisioning (78%)<br>• Automation/ Orchestration (75%)<br>• Cost Optimization (70%)   | • Governance Controls (60%)<br>• Kubernetes Opt. (52%)<br>• Financial Reporting (48%) | Cost focus growing among operational roles |
+| **Cloud Architecture & Engineering** | • Automation/ Orchestration (85%)<br>• Cloud Provisioning (80%)<br>• Governance Controls (75%) | • Cost Optimization (70%)<br>• Billing & Distribution (45%)                           | Governance increasingly important          |
+| **Cloud/IT Strategic Leadership**    | • Cost Optimization (86%)<br>• Governance Controls (80%)<br>• Financial Reporting (70%)        | • Automation/ Orchestration (65%)<br>• Chargeback/ Showback (60%)                     | Financial visibility critical              |
 
 ## Key Insights from Consolidated Analysis
 
