@@ -79,8 +79,9 @@
 
 ### Content Management
 - **Inbound Squared**: Vendor project management for content creation
+	- Java + K8s Cost
 - **Content Planning**: Managed via Asana board
-- **Trial Nurture Content**: Strategy and email sequences in place
+- **Trial Nurture Content**: Strategy and email sequences in flight
 - **Re-engagement Campaigns**: Content targeting recent and older signups
 
 ### Website & Digital Assets
