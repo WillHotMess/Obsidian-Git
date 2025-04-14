@@ -21,6 +21,11 @@
 		- Yasmin to work with Michael Bombard
 - **KCD DC**: Earmarked
 - **KCD San Francisco:** Earmarked
+	- **4/14 Update:** Newly added
+- **KubeCon Atlanta:** 
+	- **4/14 Update:** Newly added
+		- 
+
 ### Active Campaigns
 - **Technology Advice Campaign**:
     - Multiple deliverables including video, whitepaper, email nurture copy
