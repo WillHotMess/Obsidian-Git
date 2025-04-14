@@ -3,9 +3,22 @@
     - Orders placed for AV and internet
     - T-shirts ordered for staff
     - Still need to order Legos for raffle and create raffle form with QR code
+    - **4/14 Update:** 
+	    - Nurture 2x emails already planned 
 - **KCD Brazil** (March 22, 2025): Josh and Rafa attending
+	- **4/14 Update:** 
+		- Nothing needed from marketing
 - **KCD Texas** (May 15, 2025): Rafa and others attending, John's CFP accepted
+	- **4/14 Update:** 
+		- Promotion on social 
+		- Sales channel Slack
+		- Add to Events page
 - **KCD NYC** (June 4, 2025): Shane and others attending, CFPs submitted
+	- **4/14 Update:** 
+		- Promotion on social 
+		- Sales channel Slack
+		- Add to Events page
+		- Yasmin to work with Michael Bombard
 
 ### Active Campaigns
 - **Technology Advice Campaign**:
