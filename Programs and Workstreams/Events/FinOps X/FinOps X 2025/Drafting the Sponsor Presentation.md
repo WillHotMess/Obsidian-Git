@@ -2,7 +2,7 @@
 
 ## Slide 1: Title Slide
 
-**Title:** "Breaking the FinOps Status Quo: Why Your Optimization Loop Is Too Slow" 
+**Title:** "The Fast-Get-Faster Effect: Breaking the FinOps Status Quo" 
 **Subhead:** Accelerating from Insight to Action in a Cloud+ World
 
 - **Show:** CloudBolt logo, bold visual contrasting old vs. new approaches
@@ -10,17 +10,20 @@
 
 ## Slide 2: The Real Optimization Challenge
 
-**Title:** "The Truth About Your Current Optimization Process" **Subhead:** Why Most Organizations Are Hemorrhaging Cloud Spend
+**Title:** "The Truth About Your Current Optimization Process" 
+**Subhead:** Why Most Organizations Are Hemorrhaging Cloud Spend
 
-- **Show:** Visual of traditional slow, manual cloud optimization with obvious bottlenecks and dollar signs draining away
+- **Show:** Begin with a striking visual comparing fast jet streams (250 mph zones) to slow-moving air masses. Explain that the fastest parts of jet streams accelerate 2.5x faster than average winds - just as organizations with already-efficient optimization will pull even further ahead of competitors.
 - **Tell:** "If you're like most organizations we work with, you're operating on 30-day optimization cycles—or worse. That's not just inefficient; it's a competitive disadvantage. While you're waiting to implement changes, your competitors are already optimizing in real-time."
 
 ## Slide 3: The Continuous Optimization Loop
 
-**Title:** "What Your FinOps Process Should Look Like" **Subhead:** The Framework You Actually Need
+**Title:** The Optimization Jet Stream  **Subhead:** What Your FinOps Process Should Look Like
 
 - **Show:** The circular loop model with all waypoints (anomaly occurrence, insight, evaluation, prioritization, action)
 - **Tell:** "The industry has been selling you on reporting tools, but what you really need is a continuous action framework. Let me show you what this actually looks like when it's working properly."
+- Organizations with fast optimization cycles don't just maintain their advantage—they expand it exponentially while others fall further behind."
+
 
 ## Slide 4: Two-Speed Reality
 
@@ -140,3 +143,7 @@
 
 - **Show:** Clear call-to-action with contact information and QR code
 - **Tell:** "If you're still running monthly optimization cycles while your cloud costs spiral, it's time for a different approach. I'd like to offer everyone here a complementary assessment of your current optimization gaps and a customized roadmap. Don't wait another 30 days to fix what's broken—let's talk this week about accelerating your path to continuous optimization."
+
+
+# 
+The Fast-Get-Faster Effect: Breaking the FinOps Status Quo
