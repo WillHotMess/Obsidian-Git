@@ -19,7 +19,8 @@
 		- Sales channel Slack
 		- Add to Events page
 		- Yasmin to work with Michael Bombard
-
+- **KCD DC**: Earmarked
+- **KCD San Francisco:** Earmarked
 ### Active Campaigns
 - **Technology Advice Campaign**:
     - Multiple deliverables including video, whitepaper, email nurture copy
