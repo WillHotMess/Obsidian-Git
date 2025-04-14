@@ -12,7 +12,6 @@ At CloudBolt our vision is to address these critical challenges once and for all
 
 **Best for: (Target Market)**
 - Large enterprises with significant AWS deployments
-- Managed Service Providers (MSPs) requiring white-label capabilities
 - Organizations with mature cloud operations seeking broad but standardized cost management capabilities
 - Companies willing to accept long-term contracts and premium pricing for an established solution
 
@@ -53,7 +52,6 @@ CloudHealth, now under Broadcom and distributed exclusively through Arrow Electr
 
 ### When to Choose CloudHealth:
 - You're primarily an AWS shop with limited Azure/GCP requirements
-- You're an MSP requiring white-label multi-tenant capabilities for customer billing
 - You already have internal expertise or dedicated CloudHealth specialists who understand its complexity
 - You have an established relationship with Arrow Electronics and prefer consolidated vendor management
 - You have standard reporting needs that don't require extensive customization or shared cost allocation
