@@ -24,7 +24,8 @@
 	- **4/14 Update:** Newly added
 - **KubeCon Atlanta:** 
 	- **4/14 Update:** Newly added
-		- 
+		- $29,500 Silver Tier
+		- 8-10 people (FinOps Playbook?)
 
 ### Active Campaigns
 - **Technology Advice Campaign**:
@@ -32,14 +33,40 @@
     - Lead gen (250 leads) delivered weekly on Thursdays
     - Campaign will conclude before marketing transition
     - Content created by StudioA, funded by AWS
+	- **4/14 Update:** 
+		- Leads delivered
+		- Need to be added to SFDC and a campaign
+		- Nurture needed
+		- *May not have a lot of value*
 - **Learnk8s Campaign** (Silver Package, signed March 2025):
     - Multiple interviews to be scheduled
     - Event syndication (1 of 2 completed, 2nd pending)
     - Content syndication links pending
+    - **4/14 Update**: 
+	    - SOW may be able to be submitted to AWS for MDF
+	    - Organic Social posts via Joanne
+	    - 2 of 2 content pieces to be marketed
+		    - Java Heap-related
+		    - etc? 
 - **The Cube Campaign**:
     - Awareness package services including podcast video asset for lead gen
     - 50 leads to be delivered
     - Multiple content pieces and distribution channels
+    - **4/14 Update**: 
+	    - Podcast finalized today
+	    - Live on Wednesday 
+		    - Need to add to website(s)
+		    - Social content for promotion
+		    - Need to make Joanne aware
+		    - Caleb to track down
+- **AWS Webinar**:
+	- Webinar assets
+		- Host 
+		- Promote via social 
+		- Add to site(s)
+			- CB
+			- YouTube
+		- Sales channel
 
 ### Digital Advertising
 - **Adwords**: Currently active
@@ -47,6 +74,9 @@
 - **IMG Media**: Program on hold due to vendor updates
     - Includes display ads on The New Stack and Roadmap.sh
     - Sponsored article contributions that have been strong sources of trial signups
+    - **4/14 Update**: 
+	    - Meeting in place (Charles)
+
 ### Content Management
 - **Inbound Squared**: Vendor project management for content creation
 - **Content Planning**: Managed via Asana board
