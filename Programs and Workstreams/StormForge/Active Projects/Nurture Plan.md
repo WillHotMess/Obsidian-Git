@@ -14,10 +14,7 @@
 - **Path A**: User does not install (HubSpot nurture)    
     - Reminder Email 1 (Day 2): Installation instructions and video
     - Reminder Email 2 (Day 5): Additional prompting with support options
-    - ~~CE Personalized Outreach (Day 7): Human touchpoint if still no installation~~
-    - ~~CE Follow-up (Day 30): Secondary outreach attempt~~
-    - ~~CE Final Outreach (Day 45): Last engagement attempt~~
-    - If no engagement: Added to CloudBolt general nurture
+    - If no engagement: Added to CloudBolt general nurture OR Business Development Rep
 
 - **Path B**: User installs (HubSpot nurture)
     - Preliminary Recommendations Email (Day 1): Initial platform orientation
