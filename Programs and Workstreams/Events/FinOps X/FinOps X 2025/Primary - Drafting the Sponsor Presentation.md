@@ -1,12 +1,12 @@
 # Working
-**Title:** "The Fast-Get-Faster Effect: Breaking the FinOps Status Quo" 
+**Title:** The Fast-Get-Faster Effect: Breaking the FinOps Status Quo
 **Subhead:** Accelerating from Insight to Action in a Cloud+ World
 
 ## Slide 1: How many of you have seen _Interstellar_?
 
 - **Tell:**  
 	- Let’s start with a show of hands—who here has seen _Interstellar_? If you have, you’ll remember the scene on Miller’s planet, where every hour spent on the surface equals seven years back on Earth. That’s time dilation: the closer you are to a massive gravitational force, the slower time moves for you compared to everyone else.  
-	- Now, think about your FinOps process. While you’re stuck in a slow, manual optimization loop—spending weeks deliberating—companies with advanced automation are completing dozens of optimization cycles. Your cloud waste isn’t standing still while you wait; it’s compounding every hour, just like the years ticking by for Cooper’s daughter back on Earth."
+	- Now, think about your FinOps process. While you’re stuck in a slow, manual optimization loop—spending weeks deliberating—companies with advanced automation are completing dozens of optimization cycles. Your cloud waste isn’t standing still while you wait; it’s compounding every hour, just like the years ticking by for Cooper’s daughter back on Earth.
     
 ## Slide 2: Let’s use a more relevant metaphor: Jetstream Travel
 
@@ -45,7 +45,7 @@
 ## Slides 6–XX: The Waypoints (Examples)
 
 - **Detection:**  
-	- If you're relying on monthly cost reports to identify issues, you're already too late. We've consistently seen that organizations need multi-cloud telemetry that processes in real-time. Not tomorrow, not next week—NOW. What's your current detection latency? Hours? Days? That's all waste you're accumulating."
+	- If you're relying on monthly cost reports to identify issues, you're already too late. We've consistently seen that organizations need multi-cloud telemetry that processes in real-time. Not tomorrow, not next week—NOW. What's your current detection latency? Hours? Days? That's all waste you're accumulating.
     
 - **Insight:**  
 	- You're probably getting plenty of data from your current tools, but let's be honest—how much of it leads to actual optimization? We've developed a three-tier approach to insights: inherent baseline metrics, ML-recognized patterns, and what really matters—shaped insights that align with your specific business priorities.
