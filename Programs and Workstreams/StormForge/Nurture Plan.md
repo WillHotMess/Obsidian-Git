@@ -5,12 +5,10 @@
 ### 1. User Journey Overview
 
 #### Initial Engagement
-
 - **Sign-up**: User registers for StormForge free trial
 - **Welcome Email**: Immediate HubSpot email with installation instructions and security FAQ
 
 #### Bifurcated Path Based on Installation Status
-
 - **Path A**: User does not install (HubSpot nurture)    
     - Reminder Email 1 (Day 2): Installation instructions and video
     - Reminder Email 2 (Day 5): Additional prompting with support options
