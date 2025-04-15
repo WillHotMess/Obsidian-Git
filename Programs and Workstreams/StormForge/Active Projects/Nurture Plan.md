@@ -10,11 +10,10 @@
 	- **Welcome Email**: Immediate HubSpot email with installation instructions and security FAQ
 
 #### Bifurcated Path Based on Installation Status
-
 - **Path A**: User does not install (HubSpot nurture)    
     - **Reminder Email 1 (Day 2):** Installation instructions and video
     - **Reminder Email 2 (Day 5):** Additional prompting with support options
-    - **Reminder Email 3 (Day 20):** Still looking for Kubernetes optimization
+    - **Reminder Email 3 (Day 20):** Still looking for Kubernetes optimization? 
 	    - If no engagement: Added to CloudBolt general nurture OR Business Development Rep
 
 - **Path B**: User installs (HubSpot nurture)
