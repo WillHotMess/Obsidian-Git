@@ -1,4 +1,76 @@
-# Continuous Optimization Framework Presentation Outline
+[# Working
+**Title:** "The Fast-Get-Faster Effect: Breaking the FinOps Status Quo" 
+**Subhead:** Accelerating from Insight to Action in a Cloud+ World
+
+## Slide 1: How many of you have seen _Interstellar_?
+
+- **Tell:**  
+    "Let’s start with a show of hands—who here has seen _Interstellar_? If you have, you’ll remember the scene on Miller’s planet, where every hour spent on the surface equals seven years back on Earth. That’s time dilation: the closer you are to a massive gravitational force, the slower time moves for you compared to everyone else.  
+    Now, think about your FinOps process. While you’re stuck in a slow, manual optimization loop—spending weeks deliberating—companies with advanced automation are completing dozens of optimization cycles. Your cloud waste isn’t standing still while you wait; it’s compounding every hour, just like the years ticking by for Cooper’s daughter back on Earth."
+    
+
+## Slide 2: Let’s use a more relevant metaphor: Jetstream Travel
+
+- **Show:**  
+    A striking visual: a map with a fast-moving jet stream (250 mph) slicing across the globe, contrasted with sluggish, stagnant air masses.
+    
+- **Tell:**  
+    "Let’s bring it back to Earth. In the atmosphere, jet streams are narrow bands of fast-moving air that can reach speeds of 250 mph. Climate science shows that the fastest parts of the jet stream are accelerating 2.5 times faster than average winds.  
+    Organizations with fast optimization cycles are like planes riding the jet stream—they don’t just maintain their advantage, they expand it exponentially. Meanwhile, those stuck in slow-moving air fall further and further behind. The gap isn’t just persistent—it’s widening."
+
+## Slide 3: So how do we get our organizations into the jet stream?
+
+- **Tell:**  
+    "How do we move from the stagnant, slow-moving air into the high-velocity jet stream of continuous optimization? The answer is to reimagine our FinOps process—not as a monthly reporting exercise, but as a continuous, automated loop that’s always moving, always learning, always optimizing."
+    
+
+## Slide 4: The Continuous Optimization Loop
+
+**What Your FinOps Process Should Look Like**
+
+- **Show:**  
+    A circular loop model with waypoints: anomaly occurrence, insight, evaluation, prioritization, action.
+    
+- **Tell:**  
+    "The industry has been selling you on reporting tools, but what you really need is a continuous action framework. When this loop is working, you’re not waiting for the next monthly report—you’re detecting, evaluating, and acting in near real-time.  
+    Organizations that operate in this mode don’t just keep up—they accelerate, compounding their advantage with every cycle
+
+
+## Slide 5: Two-Speed Reality: Insight to Action
+
+- **Show:**  
+    A dual-loop visual:
+- Outer loop (manual): slow, red, with a waste ticker rapidly climbing.
+- Inner loop (automated): fast, green, with waste quickly addressed and reset.
+    
+- **Tell:**  
+    "Let’s bring back the _Interstellar_ analogy. While you’re spending weeks in the outer loop, companies with advanced automation are completing dozens of optimization cycles. Your cloud waste isn’t standing still while you deliberate—it’s compounding every hour.  
+    The difference between the slow lane and the jet stream isn’t just speed—it’s survival."
+    
+
+## Slides 6–XX: The Waypoints (Examples)
+
+- **Detection:**  
+    "Like a weather satellite tracking jet stream shifts in real time, your system should detect anomalies instantly—not days or weeks later."
+    
+- **Insight:**  
+    "Don’t drown in data. Use machine learning to surface actionable insights, just as meteorologists use models to predict storms, not just report on them."
+    
+- **Evaluation:**  
+    "Automate the evaluation of those insights. Let technology handle the obvious, so your experts can focus on the exceptions."
+    
+- **Prioritization:**  
+    "Apply an Eisenhower matrix for impact and effort—just as pilots choose the best flight path based on wind speed and turbulence, not just distance."
+    
+- **Action:**  
+    "Move from recommendations to results. The best pilots don’t just read the weather—they adjust their course in real time."
+    
+
+## Closing: A Nod to _Interstellar_
+
+- **Tell:**  
+    "To close, remember: in _Interstellar_, the tragedy wasn’t just the years lost—it was the opportunity cost. Don’t let your organization spend years in the slow lane while others are compounding their advantage in the jet stream.  
+    The future of FinOps isn’t about waiting for the next cycle. It’s about continuous, real-time action—riding the jet stream, not stuck in the time dilation trap."](<# Continuous Optimization Framework Presentation Outline
 
 ## Slide 1: Title Slide
 
@@ -145,5 +217,28 @@
 - **Tell:** "If you're still running monthly optimization cycles while your cloud costs spiral, it's time for a different approach. I'd like to offer everyone here a complementary assessment of your current optimization gaps and a customized roadmap. Don't wait another 30 days to fix what's broken—let's talk this week about accelerating your path to continuous optimization."
 
 
-# 
+
 The Fast-Get-Faster Effect: Breaking the FinOps Status Quo
+
+
+
+Lets flip this and make it a ted-talk style: 
+- Title
+- Slide 1: How many of you have seen Interstellar? 
+-- Explain the concept of time dilation in Interstellar. 
+-- "Think of this like the time dilation in Interstellar. While you're spending weeks in the outer loop, companies with advanced automation are completing dozens of optimization cycles. Your cloud waste isn't standing still while you deliberate—it's compounding every hour."
+-Slide 2: We will use a more relevant metaphor: Jetstream travel
+--- Begin with a striking visual comparing fast jet streams (250 mph zones) to slow-moving air masses. "Climate science has proven that fast jet stream winds get faster at 2.5 times the rate of average winds. Similarly, organizations with fast optimization cycles don't just maintain their advantage—they expand it exponentially while others fall further behind."
+Slide 3: So how do we get our organizations into the jetstream? 
+Slide 4: The Continuous Optimization Loop
+ What Your FinOps Process Should Look Like
+- **Show:** The circular loop model with all waypoints (anomaly occurrence, insight, evaluation, prioritization, action)
+- **Tell:** "The industry has been selling you on reporting tools, but what you really need is a continuous action framework. Let me show you what this actually looks like when it's working properly."
+- Organizations with fast optimization cycles don't just maintain their advantage—they expand it exponentially while others fall further behind."
+Slide 5: Two Speed Reality: Insight to Action
+- **Show:** Dual-orbit visual comparing slow outer loop (manual) vs. fast inner loop (automated) with real-time waste accumulation ticker
+- **Tell:** "Think of this like the time dilation in Interstellar. While you're spending weeks in the outer loop, companies with advanced automation are completing dozens of optimization cycles. Your cloud waste isn't standing still while you deliberate—it's compounding every hour."
+Slides 6-xx: Waypoints 
+Examples: 
+Close the talk out with a nod to intestellar 
+end.>)
