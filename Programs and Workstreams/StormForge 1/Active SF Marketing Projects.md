@@ -176,7 +176,7 @@
 - [ ] **Yasmin**: Contact Mike Bombard about attending KCD NYC
 - [ ] **Yasmin**: Contact Erwin about feasibility of AWS workshop at KCD San Francisco
 - [ ] **Team**: Make decision on KCD San Francisco sponsorship by end of week (April 18)
-- [ ] **Charles**: Process KCD DC sponsorship
+- [ ] **Charles/William**: Process KCD DC sponsorship
 - [ ] **Charles/William**: Submit KubeCon Atlanta sponsorship ASAP to secure good booth location
 - [ ] **Yasmin**: Inform sales team (Josh) about Axemo store for ordering swag for events
 
@@ -195,7 +195,7 @@
 - [ ] **William**: Contact Nick to establish timeline for Java heap content brief
 - [ ] **William**: Share brief with Joanne for Inbound Squared content development
 - [ ] **William**: Create content brief for Kubernetes cost management chapter
-- [ ] **Charles**: Complete Kubernetes FinOps guide
+- [ ] **Joanne**: Complete Kubernetes FinOps guide
 
 ## Leadership Initiatives
 - [ ] **William**: Set up OpenShift targeting campaign with Josh (Friday, April 18)
