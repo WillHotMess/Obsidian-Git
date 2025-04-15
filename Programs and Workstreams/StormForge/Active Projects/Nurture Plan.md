@@ -7,20 +7,21 @@
 #### Initial Engagement
 
 - **Sign-up**: User registers for StormForge free trial
-- **Welcome Email**: Immediate HubSpot email with installation instructions and security FAQ
+	- **Welcome Email**: Immediate HubSpot email with installation instructions and security FAQ
 
 #### Bifurcated Path Based on Installation Status
 
 - **Path A**: User does not install (HubSpot nurture)    
-    - Reminder Email 1 (Day 2): Installation instructions and video
-    - Reminder Email 2 (Day 5): Additional prompting with support options
-    - If no engagement: Added to CloudBolt general nurture OR Business Development Rep
+    - **Reminder Email 1 (Day 2):** Installation instructions and video
+    - **Reminder Email 2 (Day 5):** Additional prompting with support options
+    - **Reminder Email 3 (Day 20):** Still looking for Kubernetes optimization
+	    - If no engagement: Added to CloudBolt general nurture OR Business Development Rep
 
 - **Path B**: User installs (HubSpot nurture)
-    - Preliminary Recommendations Email (Day 1): Initial platform orientation
-    - Complete Recommendations Email (Day 7): Prompt to review finalized recommendations
-    - GitOps Integration Email (Day 14): Technical integration instructions
-    - Final Engagement Email (Day 21): Additional platform value and conversion prompting
+    - **Preliminary Recommendations Email (Day 1):** Initial platform orientation
+    - **Complete Recommendations Email (Day 7):** Prompt to review finalized recommendations
+    - **GitOps Integration Email (Day 14):** Technical integration instructions
+    - **Final Engagement Email (Day 28):** Additional platform value and conversion prompting
 
 #### Conversion Opportunities (Throughout Journey)
 - **Option 1**: AWS Pay-Go self-service
