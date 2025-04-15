@@ -59,6 +59,15 @@
 - **Action:**  
 	- How many optimization recommendations from your current tools actually get implemented? Our customers tell us it's typically less than 30%. That's because most FinOps tools stop at recommendations. Real value comes from execution integration—turning insights directly into action through your existing workflows, with proper governance.
 
+## Examples
+### Cloud Native Actions
+
+
+### StormForge
+
+
+### CloudEagle
+
 ## Closing: A Nod to _Interstellar_
 
 - **Tell:**  
