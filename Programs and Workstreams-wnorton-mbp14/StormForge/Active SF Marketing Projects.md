@@ -108,7 +108,6 @@
         - Mark recommended discussing with Scratch but focusing on nurture first
 
 ### Content Management
-
 - **Inbound Squared**: Vendor project management for content creation
     - **4/14 Update**:
         - Java heap content in progress (need brief from Nick)
