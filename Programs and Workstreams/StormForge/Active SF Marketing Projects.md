@@ -192,7 +192,7 @@
 - [ ] **William**: Discuss retargeting options with Scratch while focusing on nurture priority
 
 ## Content
-- [ ] **William**: Contact Nick to establish timeline for Java heap content brief
+- [ ] **William**: Contact Nick Walker to establish timeline for Java heap content brief
 - [ ] **William**: Share brief with Joanne for Inbound Squared content development
 - [ ] **William**: Create content brief for Kubernetes cost management chapter
 - [ ] **Charles**: Complete Kubernetes FinOps guide
