@@ -84,6 +84,7 @@ Your categorization is logical, but I recommend these slight refinements:
 | **Cloud/IT Operations & Management** | • Cloud Provisioning (78%)<br>• Automation/ Orchestration (75%)<br>• Cost Optimization (70%)   | • Governance Controls (60%)<br>• Kubernetes Opt. (52%)<br>• Financial Reporting (48%) | Cost focus growing among operational roles |
 | **Cloud Architecture & Engineering** | • Automation/ Orchestration (85%)<br>• Cloud Provisioning (80%)<br>• Governance Controls (75%) | • Cost Optimization (70%)<br>• Billing & Distribution (45%)                           | Governance increasingly important          |
 | **Cloud/IT Strategic Leadership**    | • Cost Optimization (86%)<br>• Governance Controls (80%)<br>• Financial Reporting (70%)        | • Automation/ Orchestration (65%)<br>• Chargeback/ Showback (60%)                     | Financial visibility critical              |
+|                                      |                                                                                                |                                                                                       |                                            |
 
 ## Key Insights from Consolidated Analysis
 
