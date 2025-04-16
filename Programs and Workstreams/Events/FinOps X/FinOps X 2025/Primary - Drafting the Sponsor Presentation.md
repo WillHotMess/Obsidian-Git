@@ -49,15 +49,19 @@
     
 - **Insight:**  
 	- You're probably getting plenty of data from your current tools, but let's be honest—how much of it leads to actual optimization? We've developed a three-tier approach to insights: inherent baseline metrics, ML-recognized patterns, and what really matters—shaped insights that align with your specific business priorities.
+	- **StormForge Example**
     
 - **Evaluation:**  
 	- In our work with enterprise customers, we've found that most of evaluation time is spent on obvious optimizations. Your talented engineers shouldn't be manually reviewing whether an idle instance should be shut down. Your FinOps tooling should handle this automatically through well-defined policies and ML-driven assessment.
+	- **CloudEagle Example**
     
 - **Prioritization:**  
 	- Most organizations are chasing the biggest cost items regardless of implementation complexity. But what if I told you we've helped customers achieve 2x the ROI by focusing on medium-cost, low-complexity optimizations first? Your prioritization needs to account for both impact AND implementation effort. Otherwise, you're leaving the easiest money on the table.
+	- **Cloud Native Actions**
     
 - **Action:**  
 	- How many optimization recommendations from your current tools actually get implemented? Our customers tell us it's typically less than 30%. That's because most FinOps tools stop at recommendations. Real value comes from execution integration—turning insights directly into action through your existing workflows, with proper governance.
+	- **All ecosystems**
 
 ## Examples
 ### Cloud Native Actions
