@@ -5,7 +5,7 @@
 ## Slide 1: How many of you have seen _Interstellar_?
 
 - **Tell:**  
-	- Let’s start with a show of hands—who here has seen _Interstellar_? If you have, you’ll remember the scene on Miller’s planet, where every hour spent on the surface equals seven years back on Earth. That’s time dilation: the closer you are to a massive gravitational force, the slower time moves for you compared to everyone else.  
+	- Let’s start with a show of hands—who here has seen _Interstellar_? If you have, you’ll remember the scene on Miller’s planet, where every hour spent on the surface equals seven years back on Earth. That’s time dilation : the closer you are to a massive gravitational force, the slower time moves for you compared to everyone else.  
 	- Now, think about your FinOps process. While you’re stuck in a slow, manual optimization loop—spending weeks deliberating—companies with advanced automation are completing dozens of optimization cycles. Your cloud waste isn’t standing still while you wait; it’s compounding every hour, just like the years ticking by for Cooper’s daughter back on Earth.
     
 ## Slide 2: Let’s use a more relevant metaphor: Jetstream Travel
