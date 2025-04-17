@@ -1,13 +1,9 @@
 **Marketing Email Cadences for Optimize Live Trial Users**
 
 Overview
-
 # Signup Sequence
-
 [Engagement Studio](https://pi.pardot.com/engagementStudio/studio#/30561/reporting) \- Ops setup, reporting
-
 Email Copy:
-
 * [Activate: Sign up](#bookmark=id.gn5ao2v393mw)  
   * [Template in Pardot](https://pi.pardot.com/emailTemplate/read/id/43231)  
   * Sends after signup
@@ -191,8 +187,6 @@ Are you using GitOps tools in your environment? The StormForge Applier works alo
    * To apply a recommendation you can install the applier, use our CLI to apply it, or export the patch for use with kubectl instructions to do so are [here](https://docs.stormforge.io/optimize-live/getting-started/view-apply/#applying-workload-recommendations)
 
 If you’d like to speak with the StormForge technical team about your recommendations before applying them, please contact us at [support@stormforge.io](mailto:support@stormforge.io).
-
-.
 
 Thank you,
 
