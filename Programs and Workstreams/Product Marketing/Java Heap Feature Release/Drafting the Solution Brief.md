@@ -53,5 +53,7 @@
 1. StormForge Java Optimization - Product Marketing Submission 
 2. Problem Research
 
-# Consider that your 
+# Consider that your audience will be technical in nature, and largely developer and/or platform engineers. And the ultimate goal will be to use Product Marketing best practices for language/tone/etc. 
+
+
    
