@@ -1,7 +1,6 @@
 # Weekly QTD Sales Pipeline Analysis: April 18, 2025
 
 ## Introduction
-
 I've completed the analysis of our current quarter-to-date sales pipeline. We're seeing steady growth with 22 MQLs, 11 SALs, 3 SQLs, and 6 new opportunities, generating $450K in pipeline value. While we're making progress, we need to focus on converting more deals through the funnel and addressing some concerning activity patterns.
 
 ## Pipeline Highlights
