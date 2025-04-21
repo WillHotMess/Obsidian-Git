@@ -1,5 +1,3 @@
-Mark Zembal <mzembal@cloudbolt.io>; Kyle Campos <kcampos@cloudbolt.io>; Steve Francis <sfrancis@cloudbolt.io>; Craig Hinkley <chinkley@cloudbolt.io>; Brendan Dolan <bdolan@cloudbolt.io>; Nicholas Macaione <nmacaione@cloudbolt.io>; Alexandre Augusto da Rocha <auggy@cloudbolt.io>; Sandy Burns <sburns@cloudbolt.io>; Nimesh Manmohanlal <nmanmohanlal@cloudbolt.io>; Ryan Wrenn <rwrenn@cloudbolt.io>; Shawn Petty <spetty@cloudbolt.io>; Frank Rodriguez <frodriguez@cloudbolt.io>; Yasmin Rajabi <yrajabi@cloudbolt.io>; Rodrick Squires <rsquires@cloudbolt.io>
-
 **Leaders,**
 I spent some time navigating CAST.ai's free trial process and discovered several qualification methods they're using to balance frictionless access with quality lead capture.  As our top direct competitor, their approach would be a good one to consider.
 
