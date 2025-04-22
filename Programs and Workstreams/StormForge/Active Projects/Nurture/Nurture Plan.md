@@ -85,3 +85,44 @@
 3. Build automation workflows in HubSpot
 4. Create reporting dashboards
 5. Establish regular review cadence for optimization
+
+
+### Day 14: GitOps Integration Email
+
+```
+From: William Norton <WNorton@cloudbolt.io>
+Subject: Automate your Kubernetes optimization with GitOps
+
+Hi [First Name],
+
+I hope you've had a chance to review your StormForge optimization recommendations. Today, I wanted to highlight how you can seamlessly integrate StormForge with your existing GitOps workflows.
+
+For teams using GitOps for Kubernetes management, StormForge offers several integration options:
+
+1. **Direct Git Repository Integration**
+   Automatically create pull requests with optimization changes
+   [Setup GitOps Integration]
+
+2. **CI/CD Pipeline Integration**
+   Include StormForge in your existing deployment workflows
+   [CI/CD Configuration Guide]
+
+3. **Periodic Export**
+   Schedule regular YAML exports to apply on your schedule
+   [Configure Export Schedule]
+
+By integrating StormForge with your GitOps workflow, you get:
+• Full visibility into all optimization changes
+• Consistent approval processes for all environment changes
+• Automatic version control and audit history
+• Seamless rollbacks if needed
+
+Need help setting this up? Our engineers are available to assist:
+[Schedule GitOps Integration Support]
+
+Already implementing your recommendations? I'd love to hear about your results!
+
+William Norton
+Vice President of Product Marketing
+CloudBolt Software
+```
