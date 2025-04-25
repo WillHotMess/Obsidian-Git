@@ -27,13 +27,13 @@ Based on the updated annual target of $10,915,764 (approximately $2,728,941 per 
 
 ## Target Comparison: Previous vs. New
 
-|Level|Previous Annual|New Annual|% Increase|Previous Quarterly|New Quarterly|% Increase|
-|---|---|---|---|---|---|---|
-|MQLs|405|536|32.3%|101|134|32.7%|
-|SALs|381|504|32.3%|95|126|32.6%|
-|SQLs|99|131|32.3%|25|33|32.0%|
-|Opportunities|75|99|32.0%|19|25|31.6%|
-|Pipeline Value|$8,250,000|$10,915,764|32.3%|$2,062,500|$2,728,941|32.3%|
+| Level          | Previous Annual | New Annual  | % Increase | Previous Quarterly | New Quarterly | % Increase |
+| -------------- | --------------- | ----------- | ---------- | ------------------ | ------------- | ---------- |
+| MQLs           | 405             | 536         | 32.3%      | 101                | 134           | 32.7%      |
+| SALs           | 381             | 504         | 32.3%      | 95                 | 126           | 32.6%      |
+| SQLs           | 99              | 131         | 32.3%      | 25                 | 33            | 32.0%      |
+| Opportunities  | 75              | 99          | 32.0%      | 19                 | 25            | 31.6%      |
+| Pipeline Value | $8,250,000      | $10,915,764 | 32.3%      | $2,062,500         | $2,728,941    | 32.3%      |
 
 This represents approximately a 32.3% increase across all metrics to achieve the new pipeline goal.
 
