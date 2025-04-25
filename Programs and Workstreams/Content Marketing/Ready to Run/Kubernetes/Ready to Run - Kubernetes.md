@@ -12,9 +12,7 @@ Furthermore, the report explores how common usage patterns – choices made by p
 To address these challenges, this paper proposes three strategic levers for FinOps leaders:
 
 1. Achieving Granular Cost Visibility and Allocation: Implementing Kubernetes-aware tooling and robust tagging strategies to understand where money is being spent.
-    
 2. Driving Resource Efficiency Through Optimization: Championing practices like rightsizing, waste elimination, and efficient resource configuration to ensure resources are used effectively.
-    
 3. Mastering Automated Scaling and Capacity Management: Leveraging Kubernetes' native automation capabilities, such as Horizontal Pod Autoscaling (HPA), under guided governance to match capacity dynamically with demand.
     
 
@@ -30,16 +28,12 @@ To understand Kubernetes, one must first grasp the concept of containers. A cont
 
 While containers provide the packaging, Kubernetes provides the orchestration. Imagine needing to manage not just one container, but hundreds or thousands, ensuring they start correctly, can communicate with each other, handle failures, and scale up or down based on user demand. Doing this manually is impractical. Kubernetes automates these complex tasks.1 It groups containers into logical units, manages their lifecycle across a collection of machines (a cluster), handles networking, storage, and ensures the application maintains its desired state.2 Key benefits driving its widespread adoption include:
 
-- Scalability: Kubernetes can automatically scale applications horizontally (adding more instances) or vertically (adjusting resources) based on utilization or other metrics, handling billions of containers per week at Google's scale.1
-    
-- Portability: Designed to run anywhere – on-premises data centers, public clouds (like AWS, Azure, GCP), or hybrid combinations – Kubernetes allows organizations to avoid vendor lock-in and move workloads where needed.2
-    
-- Efficiency: By packing containers densely onto shared hardware and automating management, Kubernetes aims to improve resource utilization and reduce operational overhead.19
-    
-- Self-Healing: It automatically restarts failed containers, replaces and reschedules containers when underlying machines die, and manages application health checks.2
-    
+- Scalability: Kubernetes can automatically scale applications horizontally (adding more instances) or vertically (adjusting resources) based on utilization or other metrics, handling billions of containers per week at Google's scale.
+- Portability: Designed to run anywhere – on-premises data centers, public clouds (like AWS, Azure, GCP), or hybrid combinations – Kubernetes allows organizations to avoid vendor lock-in and move workloads where needed.
+- Efficiency: By packing containers densely onto shared hardware and automating management, Kubernetes aims to improve resource utilization and reduce operational overhead.
+- Self-Healing: It automatically restarts failed containers, replaces and reschedules containers when underlying machines die, and manages application health checks.
 
-In essence, Kubernetes acts as the operating system for the cloud, providing a platform to run distributed applications reliably and efficiently at scale.16
+In essence, Kubernetes acts as the operating system for the cloud, providing a platform to run distributed applications reliably and efficiently at scale.
 
 ### 2.2. Analogy: Kubernetes as the Automated Logistics Hub vs. IaaS as Dedicated Warehouses
 
@@ -65,7 +59,7 @@ These are the essential building blocks of a Kubernetes environment 25:
     
 - Cluster: A cluster is a set of Nodes managed together by a central control plane.1 It represents the entire operational environment – the 'city' or the complete 'logistics hub'. The control plane makes global decisions, schedules applications, and maintains the desired state.26 In IaaS, a cluster might loosely correspond to a data center, a virtual private cloud (VPC), or a specific cloud account/region containing multiple servers.25
     
-- Pods: The smallest and most basic deployable unit in Kubernetes.1 A Pod represents a single instance of an application process and encapsulates one or more containers.28 Containers within a Pod share the same network namespace (IP address, ports) and can share storage volumes.28 Pods are the 'apartments' within the buildings (Nodes) or the 'standardized shipping containers' being processed in the hub. They are typically ephemeral, created and destroyed dynamically by Kubernetes controllers.28 In IaaS, the closest analogue might be an application instance running on a VM, but Pods are significantly more lightweight, numerous, and transient.25
+- Pods: The smallest and most basic deployable unit in Kubernetes.1 A Pod represents a single instance of an application process and encapsulates one or more containers.28 Containers within a Pod share the same network namespace (IP address, ports) and can share storage volumes.28 Pods are the 'apartments' within the buildings (Nodes) or the 'standardized shipping containers' being processed in the hub. They are typically ephemeral, created and destroyed dynamically by Kubernetes controllers.28 In IaaS, the closest analogue might be an application instance running on a VM, but Pods are significantly more lightweight, numerous, and transient.
     
 - Services: An abstraction that defines a logical set of Pods and a policy to access them.1 Services provide a stable IP address and DNS name, acting as an internal load balancer and discovery mechanism, so other applications don't need to track individual, ephemeral Pod IPs.2 This is the 'postal service' or 'directory assistance' ensuring requests reach the right set of Pods, regardless of where they are currently running. The IaaS equivalent is typically a Load Balancer.25
     
@@ -90,8 +84,6 @@ Comparing these concepts reveals fundamental differences impacting cost manageme
 ### 3.3. Table: Kubernetes vs. IaaS Concept Mapping
 
 The following table summarizes the key concepts and their financial implications compared to traditional IaaS:
-
-  
 
 |   |   |   |   |
 |---|---|---|---|
