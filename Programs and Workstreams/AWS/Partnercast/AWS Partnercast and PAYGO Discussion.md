@@ -22,28 +22,23 @@ This meeting focused on aligning AWS partnership strategy following the CloudBol
 ### PAYGO Strategy Discussion
 
 - **Current State Analysis**:
-    
     - PAYGO was implemented at StormForge to address a "black hole" in the mid-to-bottom funnel
     - Currently, ~80% of trial users don't convert, and there's limited follow-up/nurturing
     - PAYGO offers an alternative for customers who don't want to commit to larger contracts
 - **Strategic Questions**:
-    
     - William highlighted the need for executive alignment on PAYGO positioning: "At what level do we want to push PAYGO?"
     - Options range from passive availability to active marketing to "full court press"
     - Need to determine if PAYGO is the primary, secondary, or situational go-to-market approach
 - **Considerations**:
-    
     - PAYGO is critical for co-selling with AWS: "Everything that AWS sells is pay as you go"
     - Potential margin implications and risk of cannibalizing other offerings
     - PAYGO pricing is intentionally premium (~3x higher for enterprise customers) to encourage enterprise deals
 - **AWS Marketplace Program**:
-    
     - StormForge enrolled in AWS Marketplace demand generation program with $40K MDF
     - Program metrics focus on driving 100 unique visitors to marketplace listing, scaling to 300/month
     - Current engagement includes tracking links on StormForge pages
 
 ### AWS PartnerCast Planning
-
 - Need to determine topic and presenter for July PartnerCast opportunity
 - Previous May 28th PartnerCast focused on value propositions for ISVs and service partners
 - Review of AWS PartnerCast examples shows mostly technical content
@@ -54,14 +49,12 @@ This meeting focused on aligning AWS partnership strategy following the CloudBol
     - Need to identify appropriate technical presenter (not exclusively marketing-led)
 
 ### AWS Partnership Philosophy
-
 - William expressed strong support for cloud provider partnerships: "Working with cloud providers to go to market is my bread and butter"
 - Erwin noted StormForge has historically been "AWS-led" in strategy
 - Discussion of potential reassessment of how AWS-centric the go-to-market approach should be
 - Need to audit current AWS engagement across all products, not just StormForge
 
 ## Action Items
-
 - [ ] William to discuss PAYGO strategy with ELT during Wednesday's meeting to determine strategic direction
 - [ ] William and Erwin to schedule follow-up meeting on Thursday to develop opinion on PAYGO and AWS strategy
 - [ ] Erwin to share AWS Marketplace Seller Prime strategic plan and documentation with William
@@ -70,6 +63,27 @@ This meeting focused on aligning AWS partnership strategy following the CloudBol
 - [ ] Mark and Erwin to schedule separate follow-up discussion (topic to be determined)
 
 ## Follow-up
-
 - Next meeting: Thursday morning (William & Erwin)
 - Additional resources: AWS Marketplace Seller Prime documentation to be shared
+
+
+- DXC Event 
+- FinOps X
+	- Content Creation
+	- CloudEagle Partnership
+	- 
+- HCM Webinar Series
+- Caleb / Joanne
+	- ABM
+	- Content
+- Nurture Implementation
+- Magic Quadrant
+- GigaOm
+- Java Optimization Marketing Materials
+- Vendor Relationships 
+	- 6Sense 
+	- Scratch 
+	- NewBreed
+- StoryLane 
+- Demo Talk Track 
+- 
