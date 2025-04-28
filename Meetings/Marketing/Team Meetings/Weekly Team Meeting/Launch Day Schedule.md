@@ -11,7 +11,6 @@ I've reviewed the meeting transcript regarding the CloudBolt acquisition of Stor
     5. Follow-up social posts featuring the Craig and John video
 
 ## Key Assets Being Prepared
-
 - Press release for the wire and websites
 - Customer and marketing emails (different versions for different audiences)
 - Landing page with multiple resources (video, blog, PR, etc.)
@@ -21,7 +20,6 @@ I've reviewed the meeting transcript regarding the CloudBolt acquisition of Stor
 - Video featuring Craig and John discussing the acquisition
 
 ## Advertising Plans
-
 - New K8 Cost Optimization campaigns on Google Ads and 6Sense
 - Refreshed brand ads on Google
 - Updates to StormForge's existing channels (Reddit, Google Ads)
