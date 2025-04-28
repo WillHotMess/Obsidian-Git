@@ -12,7 +12,6 @@ Join us for an exclusive update on the latest features and enhancements to Cloud
 - Connect directly with our product experts during live Q&A
 
 ## Agenda
-
 1. **Welcome & Company Updates** (5 minutes)
     - Brief overview of CloudBolt's recent developments
     - Introduction to StormForge acquisition
@@ -31,13 +30,11 @@ Join us for an exclusive update on the latest features and enhancements to Cloud
 ## Session Details
 
 We're offering three sessions across different time zones to accommodate our global customer base:
-
 - **Americas**: [Date] at 4:30 PM ET
 - **EMEA**: [Date] at [Time]
 - **APAC**: [Date] at [Time]
 
 ## Who Should Attend
-
 This webinar is specifically designed for current CloudBolt CMP customers who want to maximize the value of their investment and stay informed about the latest platform capabilities.
 
 _Registration is required. A recording will be made available to all registered participants following the live sessions.
