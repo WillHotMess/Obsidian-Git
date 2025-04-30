@@ -71,7 +71,6 @@ This meeting focused on aligning AWS partnership strategy following the CloudBol
 - FinOps X
 	- Content Creation
 	- CloudEagle Partnership
-	- 
 - HCM Webinar Series
 - Caleb / Joanne
 	- ABM
