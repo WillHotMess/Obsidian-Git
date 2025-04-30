@@ -27,14 +27,12 @@ The team gathered to discuss the upcoming GigaOm Hybrid Cloud Management (HCM) R
 ## Discussion Notes
 
 ### Product Communication Issues
-
 - Mike and William discussed challenges with internal communication about product releases and feature availability
 - Identified inconsistencies in communicating when features like OCI (Oracle Cloud Infrastructure) and cost reports are available to customers
 - Agreed on need to improve processes for product marketing coordination
 - William emphasized the importance of not announcing features before they're actually available to customers
 
 ### GigaOm Radar Report Context
-
 - Mark explained that AR was initially deprioritized but several reports have emerged, including:
     - Unexpected Gartner MQ for Cloud Financial Management
     - Forrester Wave coming earlier than expected
