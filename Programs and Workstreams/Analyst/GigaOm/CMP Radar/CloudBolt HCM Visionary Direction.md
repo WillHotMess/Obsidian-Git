@@ -70,3 +70,17 @@
 - **Container Governance Framework:** Apply consistent policies and approval workflows to container deployments
 - **Abstracted Complexity:** Hide Kubernetes complexity behind business-friendly service definitions while maintaining Kubernetes-native deployment methods
 
+
+https://share.hsforms.com/2ieaILC7_SZWgW-OW9wfGKA4l7m?Tenant_ID={{contact.tenant_name}}
+
+https://share.hsforms.com/2ieaILC7_SZWgW-OW9wfGKA4l7m?Tenant_ID={{808}}
+
+
+http://www.domain.com/marketing-offer**?firstname=John&lastname=Smith&email=jsmith@email.com  
+&favorite_season=Winter%20Season&favorite_fast_food=Burger;Taco&number_property=7**  
+**&will_you_come_to_the_party=Maybe&do_you_like_parties=true&date_of_party=2018-10-24**
+
+https://share.hsforms.com/2ieaILC7_SZWgW-OW9wfGKA4l7m?tenant_id=lobster-decides-margin
+
+
+https://share.hsforms.com/2ieaILC7_SZWgW-OW9wfGKA4l7m?tenant_id=lobster-decides-margin
