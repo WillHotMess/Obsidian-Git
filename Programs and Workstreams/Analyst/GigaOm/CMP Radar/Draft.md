@@ -741,57 +741,34 @@ While CloudBolt offers powerful capabilities, we recognize that our user interfa
 The first phase of our UX modernization is scheduled for release in Q2 2025, with continuous improvements planned throughout the year based on user feedback and usability testing.
 
 ### Innovation
-
 Over the next 12-36 months, CloudBolt plans to innovate in several key areas that align with emerging market trends and customer needs:
 
 **1. AI-Powered Cloud Optimization and Automation**
-
 We're developing advanced AI capabilities that will transform how organizations manage their cloud environments:
-
 - **Intelligent Workload Placement:** AI algorithms will analyze performance patterns, compliance requirements, and cost considerations to recommend optimal deployment locations for workloads across hybrid environments.
-    
 - **Predictive Resource Planning:** Machine learning models will forecast resource needs based on historical usage patterns, helping organizations right-size infrastructure and avoid both over-provisioning and capacity constraints.
-    
 - **Natural Language Blueprint Creation:** Users will be able to describe their deployment requirements in plain language, with AI interpreting these descriptions to construct appropriate technical blueprints.
-    
 - **Anomaly Detection and Remediation:** AI-powered monitoring will identify unusual usage patterns or potential issues before they impact performance or costs, triggering automated remediation workflows when possible.
-    
-
-Initial AI capabilities will be released in Q4 2025, with enhanced functionality following throughout 2026.
 
 **2. Zero-Touch Release System**
-
 We're developing a comprehensive version-controlled infrastructure approach that will transform how organizations manage their cloud configurations:
-
 - **Environment-as-Code Framework:** Organizations will be able to capture everything from blueprints to cloud states, naming conventions, and RBAC configurations in standardized, versioned code.
-    
 - **Git Integration:** Seamless connections with existing repositories (GitHub, GitLab, Azure DevOps) will enable version tracking and compliance.
-    
 - **Bi-Directional Synchronization:** Changes made through the UI will automatically sync to code repositories and vice versa, maintaining a single source of truth.
-    
 - **State-Aware Configuration Management:** Organizations will be able to maintain snapshots of environment configurations with the ability to roll back or compare changes over time.
-    
-
-This capability will begin beta testing in Q3 2025, with general availability planned for Q1 2026.
 
 **3. Enhanced Cross-Cloud Cost Forecasting**
-
 We're building advanced financial management capabilities that will provide unprecedented visibility into cloud economics:
-
 - **Tenant-Specific Rate Application:** Organizations will be able to incorporate their unique discount structures, custom agreements, and reserved instance benefits into deployment forecasts.
-    
 - **Cross-Environment Cost Comparison:** Accurate comparison between private cloud and public cloud deployment options will be available at provisioning time, enabling truly informed decisions.
-    
 - **Cost Impact Analysis:** Users will be able to simulate the financial impact of architectural decisions before implementation, enabling cost-aware design choices.
-    
 
-Initial forecasting enhancements will be available in Q2 2025, with additional capabilities rolling out quarterly through 2026.
 
 ### Product releases—cadence
 
 CloudBolt maintains a consistent, predictable release schedule designed to balance innovation with stability:
 
-**Major Releases (3x per year):** We deliver three major platform releases annually, spaced approximately four months apart. These releases introduce significant new features, architectural improvements, and major enhancements to existing capabilities.
+**Major Releases (3x per year):** We delivers 1-2 major platform releases annually, which introduce significant new features, architectural improvements, and major enhancements to existing capabilities.
 
 **Minor Releases (Monthly):** Between major releases, we provide monthly updates that include feature refinements, bug fixes, security patches, and minor enhancements. These releases ensure continuous improvement while minimizing disruption.
 
@@ -1179,14 +1156,15 @@ CloudBolt anticipates several key technology trends that will transform cloud ma
 
 ## Deployment Model
 
-|**Deployment Model**|**Y/N**|**Description**|
-|---|---|---|
-|**Physical Appliance**|N||
-|**Virtual Appliance**|Y|CloudBolt HCM is available as a virtual appliance for deployment in VMware, Hyper-V, and other virtualization environments. This option provides complete control over the installation and configuration.|
-|**Public Cloud Image**|Y|CloudBolt HCM is available as a marketplace image for AWS and Azure, enabling quick deployment with consistent functionality.|
-|**Hybrid**|Y|CloudBolt supports hybrid deployment models where components can be distributed across environments based on security and connectivity requirements.|
-|**SaaS**|Y|CloudBolt CSMP (our cloud financial management offering) is available as a SaaS solution, while HCM requires self-hosting.|
-|**Self Managed**|Y|All CloudBolt solutions can be self-managed by customers, providing complete control over the environment and configuration.|
+| **Deployment Model**   | **Y/N** | **Description**                                                                                                                                                                                            |
+| ---------------------- | ------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Physical Appliance** | N       |                                                                                                                                                                                                            |
+| **Virtual Appliance**  | Y       | CloudBolt HCM is available as a virtual appliance for deployment in VMware, Hyper-V, and other virtualization environments. This option provides complete control over the installation and configuration. |
+| **Public Cloud Image** | Y       | CloudBolt HCM is available as a marketplace image for AWS and Azure, enabling quick deployment with consistent functionality.                                                                              |
+| **Hybrid**             | Y       | CloudBolt supports hybrid deployment models where components can be distributed across environments based on security and connectivity requirements.                                                       |
+| **SaaS**               | Y       | CloudBolt CSMP (our cloud financial management offering) is available as a SaaS solution, while HCM requires self-hosting.                                                                                 |
+| **Self Managed**       | Y       | All CloudBolt solutions can be self-managed by customers, providing complete control over the environment and configuration.                                                                               |
+|                        |         |                                                                                                                                                                                                            |
 
 ## Licensing
 
