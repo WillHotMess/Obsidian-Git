@@ -25,3 +25,5 @@ This integration leverages CloudBolt's recently announced FOCUS-ready data platf
 While this initial release focuses on reporting and dashboarding capabilities for OCI, we're actively developing optimization features that will be available in future updates. Our roadmap includes bringing the full power of CloudBolt's Augmented FinOps capabilities to OCI customers, including AI/ML-informed cost insights and automated optimization actions.
 
 Want to see how CloudBolt can help maximize your Oracle Cloud ROI? [Request a demo](https://www.cloudbolt.io/demo) today and discover how our unified approach to cloud financial management can transform your multi-cloud strategy.
+
+
