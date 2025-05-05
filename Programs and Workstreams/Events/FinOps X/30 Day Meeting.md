@@ -7,11 +7,6 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 **Event Details:**
 - **Dates:** June 2-4, 2025
 - **Location:** Marriott Marquis San Diego Marina
-- **Booth Number:** #13 (Gold Sponsor)
-- **Expo Hall Hours:**
-    - Monday, June 2: 4 PM - 7 PM (Welcome Reception)
-    - Tuesday, June 3: 7 AM - 7:30 PM (Sponsor Networking Reception 5:45 PM - 7:30 PM)
-    - Wednesday, June 4: 7 AM - 5 PM
 
 **Travel & Accommodations:**
 - All attendees should have travel booked and added to the Excel spreadsheet
@@ -20,22 +15,26 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 - Breakdown: Wednesday, June 4 (5 PM - 7 PM)
 
 **Confirmed Attendees:**
-- **Kyle C** - Catch-all, primary speaker
-- **Will N** (Yourself) - Catch-all, backup for all functions
-- **Charles Y** - Primary event operations, marketing moments, booth coverage
-- **Mark Z** - Primary content (working with Joanne for blogs, social, recaps) and analyst meetings
-- **Peter E** - Primary booth engagements and customer meetings
-- **Frank R** - Customer meetings and primary booth presence
-- **Yasmin R** - Customer and market insights for company (across booth engagements, sessions, meetings)
-- **Steve F** - Primary customer meetings and booth engagement
-- **Ryan** - Customer and market insights for product (across booth engagements, sessions, meetings)
-- **Erwin** - Primary booth engagements and partner meetings
+- **Kyle C** 
+- **Will N** 
+- **Charles Y** 
+- **Mark Z
+- **Peter E** 
+- **Frank R** 
+- **Yasmin R** 
+- **Steve F** 
+- **Ryan**
+- **Erwin** 
 
 ## Booth Details & Engagement Strategy
 **Booth Setup:**
 - **Booth Number**: #13
-- **Note:** We just learned that the new vendor area is downstairs (see the map)
+	- **Note:** We just learned that the new vendor area is downstairs (see the map)
 - CloudBolt as primary sponsor (per FinOps Foundation rules)
+- - **Expo Hall Hours:**
+    - Monday, June 2: 4 PM - 7 PM (Welcome Reception)
+    - Tuesday, June 3: 7 AM - 7:30 PM (Sponsor Networking Reception 5:45 PM - 7:30 PM)
+    - Wednesday, June 4: 7 AM - 5 PM
 - **Meeting Room:** Dana Point
 
 **Booth Presence:**
@@ -44,6 +43,16 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 - **Customer Meetings:** Steve, Frank, Kyle (focus on scheduled customer meetings)
 - **Technical Customer Meetings:** Peter, Ryan, Yasmin (available for detailed product discussions)
 - **Content and Analyst:** Mark, Charles, Will 
+
+**Lead Capture:**
+1. William Norton [wnorton@cloudbolt.io](mailto:wnorton@cloudbolt.io)
+2. Frank Rodriguez [frodriguez@cloudbolt.io](mailto:frodriguez@cloudbolt.io)
+3. Peter Easler [peasler@cloudbolt.io](mailto:peasler@cloudbolt.io)
+4. Steve Francis [sfrancis@cloudbolt.io](mailto:sfrancis@cloudbolt.io)
+5. Ryan Wrenn [rwrenn@cloudbolt.io](mailto:rwrenn@cloudbolt.io)
+6. Yasmin Rajabi [yrajabi@cloudbolt.io](mailto:yrajabi@cloudbolt.io)
+7. Erwin Daria [edaria@cloudbolt.io](mailto:edaria@cloudbolt.io)
+8. Charles Yoo [cyoo@cloudbolt.io](mailto:cyoo@cloudbolt.io)
 
 **Booth Content Strategy:**
 - Theme: "Breaking the FinOps Status Quo: Why Your Optimization Loop Is Too Slow"
@@ -59,23 +68,15 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 - Lead sharing protocol established (all leads scanned at booth)
 - Video loop will include CloudEagle content (5-10 second clip)
 
-**Lead Capture:**
-1. William Norton [wnorton@cloudbolt.io](mailto:wnorton@cloudbolt.io)
-2. Frank Rodriguez [frodriguez@cloudbolt.io](mailto:frodriguez@cloudbolt.io)
-3. Peter Easler [peasler@cloudbolt.io](mailto:peasler@cloudbolt.io)
-4. Steve Francis [sfrancis@cloudbolt.io](mailto:sfrancis@cloudbolt.io)
-5. Ryan Wrenn [rwrenn@cloudbolt.io](mailto:rwrenn@cloudbolt.io)
-6. Yasmin Rajabi [yrajabi@cloudbolt.io](mailto:yrajabi@cloudbolt.io)
-7. Erwin Daria [edaria@cloudbolt.io](mailto:edaria@cloudbolt.io)
-8. Charles Yoo [cyoo@cloudbolt.io](mailto:cyoo@cloudbolt.io)
-
 ## Speaking Session Details
 
 **Session Information:**
 - Title: "Breaking the Ceiling: How AI and Automation Are Bolstering the Next Generation of FinOps"
 - Duration: 20 minutes
+- Wednesday, 4 June
+	- 10:25 AM - 10:45 AM
+	- Breakout D
 - Feedback from Foundation was "extremely positive"
-- Lead scanning not allowed at door for session (opt-in list shared after conference)
 - Final presentation due: May 9
 
 **Content Focus:**
@@ -109,13 +110,3 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 - We should create a shared calendar to avoid scheduling conflicts
 - Foundation will share analyst information (firm name, analyst name, email) starting April 14
 - Lead scanner instructions will be shared with account owners starting April 28
-
-
---- 
-### Strategic Direction
-
-CloudBolt's strategic direction for HCM aligns with our overarching company vision of converging critical cloud management capabilities - orchestration and governance - across FinOps, resource optimization, and cloud management, into a common user experience. Throughout 2025 and beyond, we're prioritizing the integration of key capabilities across our product portfolio to create a truly comprehensive cloud management experience.
-
-This approach reflects our belief that effective cloud management transcends traditional organizational boundaries. Cost representation, performance optimization, and governance controls aren't the exclusive domain of isolated teams like FinOps, DevOps, or ITOps—they're core concerns for all stakeholders involved in hybrid cloud management within mature organizations.
-
-By converging these capabilities, CloudBolt will empower technical teams with the comprehensive visibility and control they need to make informed decisions across the cloud operations lifecycle. This integrated approach represents the future of multi/hybrid cloud management, enabling organizations to maximize the value of their cloud investments.
