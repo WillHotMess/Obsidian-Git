@@ -25,6 +25,7 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 - **Steve F** 
 - **Ryan**
 - **Erwin** 
+- **Rod** 
 
 ## Booth Details & Engagement Strategy
 **Booth Setup:**
