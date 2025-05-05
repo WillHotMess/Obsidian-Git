@@ -115,36 +115,85 @@ Our approach includes:
 
 This comprehensive financial approach helps organizations achieve the cost predictability and accountability that are often missing in traditional cloud implementations. By making financial implications visible throughout the service lifecycle, CloudBolt enables a true FinOps culture where everyone from developers to IT operations takes ownership of cloud spending.
 
+
 ### Areas for improvement
 
-**1. Advanced Container Orchestration Capabilities**
+**1. Internationalization and Localization Enhancements**
+While CloudBolt provides label internationalization support across most of the platform, we recognize limitations in our current approach to multi-language support. We're addressing these challenges to better serve our global customer base:
+- **User-Specific Language Preferences:** Our current architecture doesn't support individual user locale preferences or easy switching between languages within the same installation.
+- **Storage and Configuration Constraints:** Due to internal storage constraints and our focus on extensibility, implementing comprehensive multi-locale support requires architectural adjustments.
+We're developing a more robust internationalization framework that will enable:
+- Per-user language preferences
+- Seamless switching between locales
+- Expanded language offerings beyond English
+These enhancements are scheduled for implementation in 2026, with initial capabilities appearing in our Q1 2026 release.
 
-While CloudBolt provides basic container management support through our OpenShift and Kubernetes integrations, we recognize the need to enhance our capabilities in this rapidly evolving space. As containerized applications become increasingly central to enterprise strategies, we're investing in three key areas:
+**2. Light-Weight Monitoring Capabilities**
+While CloudBolt excels at integrating with enterprise monitoring solutions, we recognize the need for basic built-in monitoring functionality to provide immediate visibility without requiring external tools:
+- **Complementary Approach:** Similar to how we offer native user management while supporting external identity providers, we're developing light-weight monitoring capabilities that complement rather than replace specialized tools.
+- **Simplified Onboarding:** These capabilities will provide an easier onboarding path for organizations that haven't yet implemented enterprise monitoring solutions.
+Our monitoring enhancements will include:
+- Basic resource health monitoring
+- Simple performance metrics collection
+- Threshold-based alerting
+Initial monitoring capabilities will be available in our Q3 2025 release, with expanded functionality following in subsequent releases.
 
-- **Enhanced Helm Support:** We're expanding our Helm chart capabilities to simplify application deployment and configuration management within Kubernetes environments. This will enable users to leverage Helm's powerful templating and package management while maintaining the governance controls CloudBolt provides.
-    
-- **Improved Container Self-Service:** We're developing a more intuitive, streamlined experience for container provisioning and management through our self-service portal. This includes better visualization of container resources and simplified access to container-specific operations.
-    
-- **Container-Specific Cost Optimization:** We're extending our cost management capabilities to provide granular visibility into container resource consumption and spending. This will help organizations better understand and optimize their container investments.
-    
+### Product releases—looking back
+Over the past year, CloudBolt has delivered significant platform enhancements focused on expanding platform compatibility, improving governance, and strengthening security:
+**1. Expanded Hypervisor Support**
+- Added support for OpenShift Virtualization, enabling unified management of VMs and containers in OpenShift environments
+- Integrated Oracle Linux Virtualization Manager to support enterprise Linux-based virtualization
+- Added Azure Local capability for consistent management of on-premises Azure environments
 
-These enhancements are currently in development, with initial capabilities scheduled for release in Q3 2025, followed by additional functionality throughout the year.
+**2. Enhanced Source Control Integration**
+- Implemented comprehensive Git-based version control for blueprints
+- Added support for branch management and conflict resolution
+- Enhanced collaboration capabilities for multi-developer environments
 
-**2. User Experience Modernization**
+**3. Granular Control of Task Fulfillment**
+- **Flow Control:** Added the ability to pause updates to strategic parts of infrastructure (critical for retail customers during holiday season freezes)
+- **Targeted Job Engine:** Implemented job tagging so specific workers can fulfill sensitive tasks (essential for isolated network environments)
 
-While CloudBolt offers powerful capabilities, we recognize that our user interface needs modernization to match the sophistication of our platform. We're undertaking a comprehensive UX redesign initiative focused on:
+**4. Remote Secret Management**
+- Developed integration with external secret management tools like HashiCorp Vault
+- Implemented scheduled rotation of sensitive credentials like hypervisor access tokens
+- Enhanced security through elimination of credential storage within CloudBolt
 
-- **Persona-Based Interfaces:** Creating tailored experiences for different user types, from developers and operators to financial stakeholders and executives.
-    
-- **Simplified Navigation:** Streamlining workflows to reduce clicks and improve discoverability of key features.
-    
-- **Enhanced Visualization:** Improving dashboards and reporting interfaces to provide clearer insights and more actionable information.
-    
-- **Mobile Responsiveness:** Ensuring the platform is accessible and functional across devices, including tablets and smartphones.
-    
+These enhancements have significantly improved platform flexibility, security, and governance while expanding our support for diverse infrastructure environments.
 
-The first phase of our UX modernization is scheduled for release in Q2 2025, with continuous improvements planned throughout the year based on user feedback and usability testing.
+### Product releases—looking ahead
 
+In the coming year, CloudBolt is focusing on several key initiatives that will enhance our platform's capabilities and address emerging customer needs:
+
+**1. Enhanced Cross-Cloud Cost Forecasting (Q2-Q3 2025)**
+- Implementation of tenant-specific rate application for accurate deployment cost forecasting
+- Development of cross-environment cost comparison capabilities for informed deployment decisions
+- Integration of AI-powered optimization suggestions based on utilization patterns
+- Creation of cost impact analysis tools for simulating financial effects of architectural changes
+
+**2. Zero-Touch Release System (Q3-Q4 2025)**
+- Complete implementation of environment-as-code framework for capturing comprehensive configurations
+- Development of Git integration for version-controlled infrastructure definitions
+- Creation of bidirectional synchronization between UI changes and code repositories
+- Implementation of state-aware configuration management with snapshot and rollback capabilities
+
+**3. Expanded Platform Support**
+- Addition of new hypervisor integrations based on customer demand and market trends
+- Enhancement of existing integrations to support latest platform capabilities
+- Extension of container orchestration support to additional platforms
+
+**4. Security Enhancements**
+- Expansion of remote secret management support to additional platforms and providers
+- Implementation of enhanced security scanning and validation capabilities
+- Development of automated security remediation workflows
+
+**5. Monitoring and Integration Improvements**
+
+- Introduction of light-weight monitoring capabilities for basic resource visibility
+- Development of seamless integration with other CloudBolt portfolio products
+- Enhancement of API capabilities for deeper third-party integration
+
+Our next major release is scheduled for summer 2025, with another significant release planned for late November 2025. Throughout the year, we'll continue our established cadence of monthly minor releases and biweekly content library updates to deliver continuous improvement to our customers.
 ### Innovation
 
 Over the next 12-36 months, CloudBolt plans to innovate in several key areas that align with emerging market trends and customer needs:
