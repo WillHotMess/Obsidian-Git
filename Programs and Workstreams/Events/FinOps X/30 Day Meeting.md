@@ -65,7 +65,7 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 **CloudEagle Co-Sponsorship:**
 - CloudEagle representatives will share the booth (1-2 team members)
 - CloudEagle co-branded materials with joint solution brief
-- Co-sponsored drone giveaway (~$1600) for raffle
+- Co-sponsored drone giveaway for raffle
 - Lead sharing protocol established (all leads scanned at booth)
 - Video loop will include CloudEagle content (5-10 second clip)
 
