@@ -20,14 +20,16 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 - Breakdown: Wednesday, June 4 (5 PM - 7 PM)
 
 **Confirmed Attendees:**
-1. Kyle C (Speaker)
-2. Will N (Yourself)
-3. Charles Y
-4. Mark Z
-5. Peter E (booth engagement specialist)
-6. Frank R (customer meetings/cross-sell)
-7. Yasmin R (StormForge representation)
-8. Steve F
+- **Kyle C** - Catch-all, primary speaker
+- **Will N** (Yourself) - Catch-all, backup for all functions
+- **Charles Y** - Primary event operations, marketing moments, booth coverage
+- **Mark Z** - Primary content (working with Joanne for blogs, social, recaps) and analyst meetings
+- **Peter E** - Primary booth engagements and customer meetings
+- **Frank R** - Customer meetings and primary booth presence
+- **Yasmin R** - Customer and market insights for company (across booth engagements, sessions, meetings)
+- **Steve F** - Primary customer meetings and booth engagement
+- **Ryan** - Customer and market insights for product (across booth engagements, sessions, meetings)
+- **Erwin** - Primary booth engagements and partner meetings
 
 ## Booth Details & Engagement Strategy
 **Booth Setup:**
@@ -36,12 +38,12 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 - CloudBolt as primary sponsor (per FinOps Foundation rules)
 - **Meeting Room:** Dana Point
 
-**CloudEagle Co-Sponsorship:**
-- CloudEagle representatives will share the booth (1-2 team members)
-- CloudEagle co-branded materials with joint solution brief
-- Co-sponsored drone giveaway (~$1600) for raffle
-- Lead sharing protocol established (all leads scanned at booth)
-- Video loop will include CloudEagle content (5-10 second clip)
+**Booth Presence:**
+- **Primary Booth Team:** Frank, Peter, Erwin, Charles
+- **Secondary Booth Support:** Will, Ryan, Steve (available for peak times)
+- **Customer Meetings:** Steve, Frank, Kyle (focus on scheduled customer meetings)
+- **Technical Customer Meetings:** Peter, Ryan, Yasmin (available for detailed product discussions)
+- **Content and Analyst:** Mark, Charles, Will 
 
 **Booth Content Strategy:**
 - Theme: "Breaking the FinOps Status Quo: Why Your Optimization Loop Is Too Slow"
@@ -50,11 +52,22 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 - Highlight CloudBolt, StormForge, and CloudEagle integration points
 - Premium swag items (~$70) for meetings and standard booth items
 
+**CloudEagle Co-Sponsorship:**
+- CloudEagle representatives will share the booth (1-2 team members)
+- CloudEagle co-branded materials with joint solution brief
+- Co-sponsored drone giveaway (~$1600) for raffle
+- Lead sharing protocol established (all leads scanned at booth)
+- Video loop will include CloudEagle content (5-10 second clip)
+
 **Lead Capture:**
-- App-based lead scanner (no physical devices)
-- Gold sponsors receive up to 8 scanner accounts
-- Scanner accounts tied to registered email addresses
-- Send staff info (name, email, phone) to suha@finops.org
+1. William Norton [wnorton@cloudbolt.io](mailto:wnorton@cloudbolt.io)
+2. Frank Rodriguez [frodriguez@cloudbolt.io](mailto:frodriguez@cloudbolt.io)
+3. Peter Easler [peasler@cloudbolt.io](mailto:peasler@cloudbolt.io)
+4. Steve Francis [sfrancis@cloudbolt.io](mailto:sfrancis@cloudbolt.io)
+5. Ryan Wrenn [rwrenn@cloudbolt.io](mailto:rwrenn@cloudbolt.io)
+6. Yasmin Rajabi [yrajabi@cloudbolt.io](mailto:yrajabi@cloudbolt.io)
+7. Erwin Daria [edaria@cloudbolt.io](mailto:edaria@cloudbolt.io)
+8. Charles Yoo [cyoo@cloudbolt.io](mailto:cyoo@cloudbolt.io)
 
 ## Speaking Session Details
 
