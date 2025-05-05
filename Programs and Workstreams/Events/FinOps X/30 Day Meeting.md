@@ -44,6 +44,7 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 - **Customer Meetings:** Steve, Frank, Kyle (focus on scheduled customer meetings)
 - **Technical Customer Meetings:** Peter, Ryan, Yasmin (available for detailed product discussions)
 - **Content and Analyst:** Mark, Charles, Will 
+*Slack Channel for in-the-moment management*
 
 **Lead Capture:**
 1. William Norton [wnorton@cloudbolt.io](mailto:wnorton@cloudbolt.io)
@@ -57,8 +58,7 @@ Good morning! I've analyzed all your materials about the upcoming FinOps X event
 
 **Booth Content Strategy:**
 - Theme: "Breaking the FinOps Status Quo: Why Your Optimization Loop Is Too Slow"
-- Focus on Continuous Optimization framework with the circular loop model
-- Showcase "Two-Speed Reality" - manual vs automated optimization
+- Focus on "Two-Speed Reality" - manual vs automated optimization
 - Highlight CloudBolt, StormForge, and CloudEagle integration points
 - Premium swag items (~$70) for meetings and standard booth items
 
