@@ -1,18 +1,29 @@
 # Sections
 **1. Product or Service (Questions 1-94)** - The largest section focusing on technical capabilities, features, and functional depth of CFM offerings
 **2. Overall Viability (Questions 95-100)** - Financial health, profitability, customer base, and R&D investment
+- Mark / Yasmin
 **3. Sales Execution/Pricing (Questions 101-112)** - Sales strategy, pricing models, contract terms, SLAs, and recent wins
+- Mark / Steve
 **4. Market Responsiveness/Record (Questions 113-120)** - Product development cycle, customer feedback integration, and market adaptation
+- Yasmin
 **5. Marketing Execution (Questions 121-127)** - Marketing campaigns, social media presence, events, and customer engagement
 **6. Customer Experience (Questions 128-136)** - Support structure, implementation process, customer retention, and service levels
+- Mark / Will / Frank
 **7. Operations (Questions 137-148)** - Operational infrastructure, partnerships, global support, and developer community
+- Yasmin
 **8. Market Understanding (Questions 149-158)** - Target markets, competitive landscape, customer needs, and strategic positioning
+- - Will / Yasmin
 **9. Marketing Strategy (Questions 159-167)** - Go-to-market approach, customer targeting, and retention strategies
+- Mark / Will
 **10. Sales Strategy (Questions 168-174)** - Channel strategy, buyer personas, partner network, and MSP relationships
+- Mark
 **11. Offering Strategy (Questions 175-178)** - Product roadmap, deployment options, and ecosystem integrations
+- Kyle / Yasmin
 **12. Business Model (Questions 179-184)** - Business model evolution, partnerships, and customer relationships
+- Mark / Yasmin
 **13. Vertical/Industry Strategy (Questions 185-189)** - Industry-specific capabilities and sales resources
 **14. Innovation (Questions 190-194)** - Acquisitions, R&D investments, patents, and proprietary innovations
+- Yasmin / Kyle
 **15. Geographic Strategy (Questions 195-199)** - Regional support, localization, and MSP partners
 
 # Product Section
