@@ -78,42 +78,35 @@ The team discussed strategy for the upcoming Gartner Magic Quadrant submission a
 Jeff outlined a specific approach for the upcoming 30-minute Gartner briefing presentation:
 
 1. **Business Update** (1-2 slides)
-    
     - Company metrics, growth, customer demographics
     - Business strategy and how it's operationalized
     - Dashboard with multiple charts showing trends and key metrics
     - Highlight hot sectors, growth, high renewal rates
 2. **Market Success & Why We Win** (2-3 slides)
-    
-    - Wind tracker with 15+ customer wins
+    - Win tracker with 15+ customer wins
     - For each win: customer, industry, use case, competitor, and why we won
     - Identify recurring themes in why customers choose CloudBolt
     - Present key differentiators and ideal customer profile
 3. **Product & Architecture** (2-3 slides)
-    
     - High-level architecture graphic showing how components work together
     - Explain how the architecture enables CloudBolt's advantages
     - Highlight key functional areas, especially new capabilities
     - Focus on the StormForge acquisition and its strategic importance
 4. **Case Study** (1 slide)
-    
     - Select a case study that demonstrates CloudBolt's value in cloud financial management
     - Show quantifiable results
     - Use as evidence of a key differentiator or value proposition
 5. **Innovation & Investment** (2-3 slides)
-    
     - List innovations delivered since last submission
     - Organize by investment themes (swim lanes)
     - For each innovation: capability name, customer value, availability date
     - Show structured, prioritized development roadmap (18 months)
 6. **Addressing Previous Cautions** (1-2 slides)
-    
     - New to cloud financial management market
     - Product geared toward technical users
     - Tagging capabilities
     - Address each with evidence of progress without "relitigating the past"
 7. **Summary** (1 slide)
-    
     - Business growth, customer set growth, product growth
     - Strong innovation investment
     - Leave on screen during Q&A as a "commercial"
