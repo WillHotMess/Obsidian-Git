@@ -42,3 +42,7 @@ StormForge was the **first partner in our Technology Alliance Program** because 
 - Move beyond simple proportional cost distribution methods
 
 
+1. **EasyShift Migration:** What other Hypervisors are you seeing customers request support for?
+2. **Roadmap:** Are there other AI/ML features planned beyond Kubernetes optimization for the CMP product?
+3. **Product Enhancements:** What does “Flow Control in Orders” mean in practice?
+4. **Product Enhancements:** Is there a minimal version level I need to upgrade to that allows me to benefit from today’s enhancements?
