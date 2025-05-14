@@ -34,9 +34,9 @@ The team discussed strategy for the upcoming Gartner Magic Quadrant submission a
     - Responses need to highlight "better, best, unique" differentiators to score higher than "fully meets" (3/5)
     - Many answers focused on facts but didn't emphasize what makes CloudBolt special
     - Perceived weaknesses in statistical/forecasting capabilities and future-leaning functionality
-    - Strong in "what was and what is" but not as strong in "what will be"
+    - ~Strong in "what was and what is" but not as strong in "what will be"
     - Gartner perceives CloudBolt as operations-oriented rather than financial management-focused
-    - Some responses were repetitive across different segments and missed opportunities to show tailored approaches
+    - Some responses were repetitive across different segments and missed opportunities to show tailored approaches~
 - **2025 MQ Response Strategy**:
     
     - Create a Jira system to compare last year's responses with new submissions
