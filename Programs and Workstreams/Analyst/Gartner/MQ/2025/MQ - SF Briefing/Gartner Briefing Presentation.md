@@ -51,7 +51,7 @@ Combined power "absolute best "
 ```
 
 **Market Signals**
-- CAG
+- CAGR is 24% YoY
 - 98% of IT leaders state that Kubernetes optimization is a priority for their business in 2025-26
 - Only 8% say that their business is able to perform Kubernetes optimization effectively
 
@@ -73,3 +73,80 @@ Combined power "absolute best "
 
 ### The Outcome: 1 + 1 = 2
 _Comprehensive optimization from infrastructure through applications, with unified financial visibility and automated rightsizing across the entire cloud estate_
+
+
+--- 
+# StormForge Edits
+# Slide Improvement Recommendations: "Extending Our Customer Value"
+
+## Proposed Title Change
+
+**From**: "Extending Our Customer Value" **To**: "Addressing the $100B+ Kubernetes Optimization Gap" _or_ "Complete Kubernetes Financial Management - From Visibility to Action"
+
+## Key Structural Improvements
+
+### 1. Lead with Market Opportunity (New Opening Section)
+
+**Add a compelling market context banner at the top:**
+
+> **Market Reality**: 98% of IT leaders prioritize Kubernetes optimization, yet only 8% can execute effectively **Growth**: 24% YoY Kubernetes adoption creating massive optimization demand **Opportunity**: CloudBolt + StormForge = Complete solution for the 90% left behind
+
+### 2. Restructure the Three Pillars
+
+#### **Pillar 1: Strategic Integration (not just "Partner to Platform")**
+
+- **From Partner to Platform Leader**
+    - 3+ year proven partnership foundation
+    - 90%+ team integration (not acquisition)
+    - Dedicated R&D investment across product integration
+    - Natural extension addressing customer #1 request
+
+#### **Pillar 2: Complete Solution (strengthen portfolio message)**
+
+- **Infrastructure to Application Optimization**
+    - Only platform offering visibility AND automated action
+    - Bridges critical Platform Engineering + FinOps gap
+    - Extends optimization from infrastructure to application layer
+    - Competitors offer visibility-only solutions (KubeCost, CloudAbility)
+
+#### **Pillar 3: Measurable Customer Impact (strengthen benefits)**
+
+- **Immediate Value, Zero Disruption**
+    - Best-in-class Kubernetes optimization available day one
+    - 90%+ StormForge team continuity ensures expertise retention
+    - Cross-product integration roadmap delivering compound value
+    - Existing customers already piloting combined capabilities
+
+### 3. Add Compelling Bottom Section
+
+**"Why Now?"**
+
+- Market timing: 24% CAGR in Kubernetes adoption
+- Competitive gap: We deliver action, others deliver only visibility
+- Customer demand: Platform Engineering + FinOps convergence
+- Proven success: 3+ years of joint customer implementations
+
+## Visual Enhancements
+
+1. **Add market statistics as eye-catching callouts**
+2. **Include a visual representation of the 8% vs 92% gap**
+3. **Use icons that show progression/integration rather than static boxes**
+4. **Add a timeline element showing the partnership-to-platform journey**
+
+## Key Messaging Principles Applied
+
+1. **Lead with customer pain point** (90%+ can't optimize effectively)
+2. **Position as solution leader** (complete platform vs. point solutions)
+3. **Emphasize integration over acquisition** (team, technology, roadmap)
+4. **Include proof points** (3-year partnership, customer success, market growth)
+5. **Create urgency** (market timing, competitive advantage)
+
+## Suggested Slide Flow
+
+1. **Hook**: Market gap statistics
+2. **Solution**: How StormForge integration addresses the gap
+3. **Proof**: Integration depth and customer benefits
+4. **Differentiation**: Complete solution vs. competitor limitations
+5. **Call to Action**: Why this positions CloudBolt uniquely
+
+This approach transforms the slide from a defensive "here's what we acquired" message to a compelling "here's how we're solving your biggest problem" narrative.
