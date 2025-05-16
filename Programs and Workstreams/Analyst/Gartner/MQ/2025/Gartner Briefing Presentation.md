@@ -35,3 +35,41 @@
 ## Summary Section
 
 15. **CloudBolt's trajectory as a cloud financial management leader is confirmed through consistent growth, innovative product development, and proven customer success in optimizing cloud investments**
+
+
+--- 
+# StormForge Acquisition
+
+## Extending our customer value
+
+### Why StormForge Made Strategic Sense
+
+``` 
+Best Market Leading Platform for Kubernetes users
+Bringing together Platform Engineering teams and FinOps teams - a fundamental goal of CloudBolt
+Combined power "absolute best "
+```
+
+**Market Signals**
+- CAG
+- 98% of IT leaders state that Kubernetes optimization is a priority for their business in 2025-26
+- Only 8% say that their business is able to perform Kubernetes optimization effectively
+
+**From Partner to Platform**
+- Existing OEM integration partner since 2024
+- Proven customer success with combined solution
+- Natural extension of CloudBolt's optimization capabilities
+
+**Functional Portfolio Completion**
+- Fills critical gap in Kubernetes optimization
+- Extends optimization from infrastructure to application layer
+- Creates comprehensive cloud financial management platform
+
+### Customer-Centric Benefits
+✓ **One Team:** 90%+ of StormForge team joined CloudBolt 
+✓ **Integrated Innovation**: Dedicated R&D investment in cross-product integration with short-, medium-, and long-term development goals
+✓ **Better-Together Value**: Customers get broader optimization and visibility functionality without complexity 
+✓ **No Disruption**: Existing StormForge customers maintain service continuity
+
+### The Outcome: 1 + 1 = 2
+_Comprehensive optimization from infrastructure through applications, with unified financial visibility and automated rightsizing across the entire cloud estate_
