@@ -42,3 +42,66 @@ Chad Torbin - [chad@speakeasystrategies.com](mailto:chad@speakeasystrategies.co
 Register for [FinOps X](https://x.finops.org/) | Get [FinOps Certified](https://learn.finops.org/) | Get [FOCUS Certified](https://learn.finops.org/page/focus)
 
 ![](data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAEAAAABAQMAAAAl21bKAAAABlBMVEUAAAAAAAClZ7nPAAAAAXRSTlMAQObYZgAAAApJREFUeF5jYAAAAAIAAd6ej78AAAAASUVORK5CYII=)
+
+
+--- 
+# Email Drafts
+Subject: Meet CloudBolt's Leadership Team at FinOps X San Diego
+
+Hello,
+
+I hope you're looking forward to FinOps X San Diego as much as we are!
+
+As a valued industry analyst covering our space, I'd like to personally invite you to meet with CloudBolt's leadership team during the event. We're excited to share details about our recent StormForge acquisition and discuss our upcoming product roadmap.
+
+**Who you'll meet:**
+- Kyle Campos, Chief Technology & Product Officer
+- Yasmin (former StormForge Product Leader, now Chief Strategy Officer)
+- Mark Zembal, CMO
+- Will Norton, VP of Product Marketing
+
+**What we'll cover:**
+- Strategic vision behind the StormForge acquisition
+- Customer impact and how this enhances our capabilities
+- Roadmap: Preview of upcoming product innovations
+- Q&A with our leadership team
+
+Please use this link to schedule a time that works for you: [https://cloudbolt-io.chilipiper.com/me/william-norton/finops-x-2025](https://cloudbolt-io.chilipiper.com/me/william-norton/finops-x-2025)
+
+We value your insights and look forward to a productive conversation at FinOps X.
+
+Best regards,
+
+Will Norton VP of Product Marketing CloudBolt Software
+
+
+Subject: Private Briefing: How CloudBolt's StormForge Acquisition Addresses the Kubernetes Optimization Gap
+
+Hello,
+
+As we approach FinOps X San Diego, I wanted to extend a personal invitation to meet with CloudBolt's leadership team for an exclusive analyst briefing on our strategic direction following the StormForge acquisition.
+
+Our recent market analysis revealed a significant opportunity: while 98% of IT leaders prioritize Kubernetes optimization, only 8% can effectively execute on it. Our acquisition directly addresses this gap, creating what we believe is the most comprehensive platform bridging FinOps and Platform Engineering personas.
+
+**Who you'll meet:**
+
+- Kyle Campos, Chief Technology & Product Officer
+- Yasmin, Chief Strategy Officer (former StormForge Product Leader)
+- Mark Zembal, CMO
+- Will Norton, VP of Product Marketing
+
+**What we'll discuss:**
+
+- Strategic vision: Unifying financial visibility with automated optimization actions
+- Customer impact: How DirecTV achieved 30-60% infrastructure savings with our combined solution
+- Market differentiation: Moving beyond visibility to automated remediation
+- Roadmap: Our FOCUS-native data platform and continuous optimization capabilities
+- Q&A: Addressing your specific questions about our competitive positioning
+
+We've seen tremendous market validation already, with 21% ASP growth and increasing enterprise adoption. I'd value your perspective on how we're addressing the convergence of financial and operational concerns we're seeing across all cloud stakeholders.
+
+Please select a time that works for you: [https://cloudbolt-io.chilipiper.com/me/william-norton/finops-x-2025](https://cloudbolt-io.chilipiper.com/me/william-norton/finops-x-2025)
+
+Looking forward to a productive conversation,
+
+Will Norton VP of Product Marketing CloudBolt Software
