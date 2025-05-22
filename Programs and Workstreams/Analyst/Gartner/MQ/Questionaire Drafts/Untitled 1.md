@@ -81,14 +81,16 @@ Does your CFM offering integrate with workflow management systems to manage the 
 
 --- 
 
-CloudBolt maintains dedicated vertical-specific sales resources with our most significant investment focused on the federal government sector. Our federal team represents a comprehensive, specialized approach that goes beyond traditional sales coverage to deliver sector-specific expertise and localized support.
+**Large enterprises (5,000-24,999 employees) and Global enterprises (25,000+ employees)** represent CloudBolt's primary focus areas where we concentrate our direct sales and marketing investments. These organizations typically manage substantial cloud expenditures across multiple providers, have distributed teams requiring sophisticated cost allocation and chargeback capabilities, and possess the technical complexity that benefits from our enterprise-grade automation and AI/ML-driven optimization features. The scale of their cloud operations justifies the investment in comprehensive FinOps platforms and professional services.
 
-**Federal Government Specialization**
-Our federal vertical team is strategically based in the Washington D.C. area and includes dedicated account managers, specialized engineers, and customer success professionals who work directly on-site with government agencies and federal partners. This team understands the unique compliance requirements, procurement processes, and operational challenges specific to federal environments, including FedRAMP certification requirements, security protocols, and government-specific cloud adoption patterns.
+**Strategic Secondary Segment**
+Midsize enterprises (250-4,999 employees) constitute a selective secondary target where CloudBolt pursues opportunities through a balanced mix of direct and partner-led initiatives. Our engagement in this segment focuses specifically on companies demonstrating significant cloud spend and CFM maturity, typically those undergoing digital transformation or experiencing rapid cloud adoption. These organizations often serve as stepping stones to larger enterprise relationships and provide valuable use case validation.
 
-**Dedicated Investment Structure**
-The federal vertical receives its own dedicated budget allocation covering marketing initiatives, channel development programs, and specialized sales efforts. This investment structure enables CloudBolt to develop government-specific messaging, participate in federal industry events, maintain necessary security clearances, and build partnerships with federal system integrators and resellers. The dedicated budget ensures our federal team can respond quickly to RFP opportunities and maintain the specialized certifications required for government business.
+**Government Sector Priority**
+The government segment receives special strategic importance with dedicated resources, specialized teams, and sector-specific investments. This vertical represents extremely high value due to the unique compliance requirements, procurement scale, and long-term contract potential that government agencies offer. Our dedicated federal team and D.C.-area presence demonstrate the strategic priority we place on this market.
 
-**Localized Expertise and Support**
-Our D.C.-area presence enables direct, on-site engagement with federal customers, which is often critical for government procurement cycles and ongoing relationship management. The team's proximity to key decision-makers and their understanding of federal budget cycles, procurement timelines, and compliance requirements provides significant advantages in serving this complex vertical market.
+**Volume-Based Approach for SMB**
+Small businesses (1-250 employees) and general SMB markets are served primarily through earned and owned marketing channels rather than direct sales engagement. CloudBolt relies on volume-oriented partners to serve these segments efficiently, recognizing that while individual deal sizes may be smaller, the aggregate market opportunity can be significant when served through appropriate channel strategies rather than high-touch direct sales approaches.
 
+**Note on CloudBolt's Ideal Customer Profile (ICP) Targeting**
+CloudBolt's market segmentation strategy prioritizes cloud count and estate size as the primary indicators for customer targeting rather than relying solely on employee headcount metrics. While the enterprise size categories provide useful framework guidelines, our actual ICP qualification focuses on the scale and complexity of an organization's cloud infrastructure footprint.
