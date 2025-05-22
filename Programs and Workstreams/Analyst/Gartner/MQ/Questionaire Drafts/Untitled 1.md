@@ -47,12 +47,31 @@ Does your CFM offering support the implementation of scheduled actions on target
 
 Yes, CloudBolt's CFM platform supports comprehensive implementation of scheduled actions on target cloud resources across all major cloud environments. CloudBolt enables organizations to automate time-based resource management operations including virtual machine start/stop scheduling, storage tier adjustments, and other lifecycle management tasks that optimize costs while maintaining operational requirements.
 - **Resource Lifecycle Automation**: Beyond basic start/stop operations, CloudBolt automates storage tier adjustments, backup scheduling, snapshot management, and resource tagging for lifecycle policies that align with organizational cost optimization requirements.
-- **Custom Webhook Integration**: CloudBolt provides custom webhook action options that allow users to set policies triggering automated actions to any external software or system. This extensibility enables integration with proprietary tools, ITSM platforms, or specialized automation systems beyond standard cloud provider capabilities.
+- **Orchestration Module Lifecycle Management**: Our Orchestration module provides expiration policies for automated tear down and decommissioning of resources based on configurable timeframes. This ensures temporary resources, development environments, and project-based infrastructure are automatically cleaned up to prevent cost accumulation.
+- **Custom Autoscaling Policies**: CloudBolt supports scheduled resizing policies that enable custom autoscaling beyond standard cloud provider capabilities. Organizations can implement sophisticated scaling schedules based on business patterns, seasonal demands, or operational requirements.
+- **Custom Webhook Integration**: CloudBolt provides custom webhook action options that allow users to set policies triggering automated actions to any external software or system, enabling integration with proprietary tools and specialized automation systems.
 
 --- 
 
 
 Does your CFM offering support automatically stopping resources by detecting their idle/unused state using external metrics? (This capability involves automatically identifying when a system is idle by monitoring external metrics like network traffic or load balancer activity. For instance, if a virtual machine shows no network traffic over a certain period, it is likely unused and can be stopped. Unlike scheduling, this functionality does not rely on internal metrics such as CPU or memory usage, nor does it require the user to set up a scheduling window.) 
+
+
+Yes, CloudBolt's CFM platform supports automatically stopping resources by detecting idle/unused states using external metrics through our Cloud Native Actions framework. Our configurable waste signals monitor monitor performance activity to identify truly idle resources that should be terminated, moving beyond traditional CPU/memory-based detection to provide more accurate idle resource identification.
+
+CloudBolt's external metrics-based idle detection delivers intelligent resource management through:
+
+**1. Configurable External Waste Signals**: Our Cloud Native Actions framework enables creation of waste signals that monitor external metrics including network traffic levels, load balancer activity, and other external indicators to identify idle resources. These signals can be tuned to detect resources with minimal external activity over configurable time periods.
+
+**2. Advanced Idle Detection Logic**: Unlike traditional approaches that rely solely on internal CPU or memory metrics, CloudBolt analyzes external connectivity patterns and traffic flows to determine if resources are genuinely unused. A virtual machine showing no network traffic over a specified period triggers idle detection regardless of internal resource utilization.
+
+**3. Multi-Cloud External Monitoring**: The platform integrates with cloud provider monitoring services and external observability tools to gather network traffic data, load balancer metrics, and other external indicators across AWS, Azure, GCP, OCI, and hybrid environments.
+
+**4. Policy-Driven Automation**: When external metrics indicate idle state based on configured thresholds, CloudBolt automatically executes termination policies without manual intervention. Organizations can customize detection criteria based on environment type, resource tags, and business requirements.
+
+**5. Custom Webhook Integration**: External metrics detection can trigger custom webhook actions to integrate with specialized monitoring systems or external automation platforms beyond standard cloud provider capabilities.
+
+--- 
 
 Does your CFM offering manage the workflow for remediation actions? (A remediation workflow oversees the progression of cost-related actions, coordinating among multiple stakeholders through the stages of detection, notification, validation, execution, or dismissal of a budget violation or optimization opportunity. Answer YES only if your solution handles this workflow natively, without relying on third-party integrations.)
 
