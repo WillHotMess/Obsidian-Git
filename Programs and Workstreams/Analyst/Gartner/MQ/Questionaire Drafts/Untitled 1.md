@@ -24,6 +24,24 @@ CloudBolt's action execution framework operates through a unified orchestration 
 
 Does your CFM offering support automating the execution of recommended actions? (Answer YES only if the automation engine is natively built into your solution.) 
 
+Yes, CloudBolt's Cloud Financial Management platform supports comprehensive automation of recommended action execution through our natively built automation engine. Our Cloud Native Actions framework transforms manual FinOps processes into continuous, automated optimization workflows that execute cost-saving actions without human intervention, reducing insight-to-action time from weeks or months to minutes or hours.
+
+CloudBolt's native automation engine delivers sophisticated policy-driven execution across all cloud environments through four core automation capabilities:
+
+**1. Continuous Policy-Based Automation**: Our Cloud Native Actions framework enables organizations to create custom intelligent policies that automatically execute optimization recommendations based on configurable waste signals and business rules. The automation engine continuously monitors resource utilization patterns and implements cost-saving actions according to predefined policies without requiring manual intervention.
+
+**2. Intelligent Waste Signal Automation**: CloudBolt's automation engine leverages configurable waste signals that detect idle, underutilized, or inefficient resources across all cloud environments. When waste signals fire and meet policy criteria, the system automatically implements appropriate remediation actions including resource right-sizing, termination, scheduling changes, or tagging for lifecycle management.
+
+**3. Multi-Cloud Automated Optimization**: The platform's native automation capabilities extend across AWS, Azure, GCP, OCI, VMware, and hybrid environments, enabling consistent automated optimization policies regardless of cloud provider. Organizations can implement automated right-sizing, commitment management, and resource lifecycle policies that execute seamlessly across their entire multi-cloud infrastructure.
+
+**4. Kubernetes Automated Right-Sizing**: Through our integrated StormForge module, CloudBolt provides machine learning-driven automated optimization for Kubernetes workloads. The system continuously analyzes container resource usage patterns and automatically applies optimized CPU and memory configurations, HPA adjustments, and other container resource modifications to maintain optimal cost-performance balance.
+
+CloudBolt's automation engine operates through a distributed architecture that processes waste signals, evaluates policy conditions, and executes optimization actions through direct cloud provider APIs. The system maintains complete audit trails of all automated actions, supports rollback capabilities for critical resources, and provides configurable safety controls including resource exclusion rules, execution time windows, and approval gates for high-impact changes. The automation framework integrates natively with existing DevOps CI/CD pipelines through webhook APIs and supports custom automation workflows through our extensible policy language.
+
+
+
+---
+
 
 Does your CFM offering support the implementation of scheduled actions on target cloud resources? (Scheduled actions may include tasks such as turning virtual machines on or off and adjusting the storage performance tier.)
 
