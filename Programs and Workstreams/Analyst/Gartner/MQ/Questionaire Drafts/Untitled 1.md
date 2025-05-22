@@ -94,3 +94,17 @@ Small businesses (1-250 employees) and general SMB markets are served primarily 
 
 **Note on CloudBolt's Ideal Customer Profile (ICP) Targeting**
 CloudBolt's market segmentation strategy prioritizes cloud count and estate size as the primary indicators for customer targeting rather than relying solely on employee headcount metrics. While the enterprise size categories provide useful framework guidelines, our actual ICP qualification focuses on the scale and complexity of an organization's cloud infrastructure footprint.
+
+
+--- 
+
+CloudBolt's pricing model follows industry-standard practices for cloud financial management tools, with our core FinOps platform priced as a percentage of cloud spend under management for public cloud environments. This percentage-based pricing aligns CloudBolt's success directly with our customers' cloud investment scale and ensures pricing remains proportional to the value delivered through cost optimization and financial management capabilities.
+
+**Modular Pricing for Extended Capabilities**
+Beyond the core FinOps platform, CloudBolt offers optional pricing for specialized modules that address specific customer requirements. Our Orchestration module, Kubernetes management capabilities, SaaS optimization features, and private cloud management via agent deployment each carry separate pricing structures tailored to their unique value propositions and resource requirements. This modular approach allows customers to expand their CloudBolt implementation incrementally based on their evolving needs and cloud infrastructure complexity.
+
+**Unit-Based Pricing for Infrastructure Management**
+For capabilities like Kubernetes optimization and Orchestration via Agent deployment, CloudBolt employs unit-based pricing models that reflect the underlying infrastructure being managed. Pricing may be based on the number of VMs, nodes, cores, sites, or other relevant infrastructure units under management, depending on the specific module and customer environment. This approach ensures pricing scales appropriately with the actual infrastructure footprint being optimized rather than applying uniform percentage-based models across fundamentally different technology stacks.
+
+**Market-Standard Approach**
+Our percentage-of-spend pricing model for core FinOps capabilities reflects established market practices and customer expectations in the cloud financial management space. This pricing structure provides predictable costs for customers while ensuring CloudBolt remains incentivized to deliver meaningful cost savings and optimization value. The combination of percentage-based and unit-based pricing across different modules allows customers to optimize their investment in CloudBolt based on their specific use cases and infrastructure requirements.
