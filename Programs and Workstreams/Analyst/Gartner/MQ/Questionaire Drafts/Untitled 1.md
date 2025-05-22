@@ -45,6 +45,13 @@ CloudBolt's automation engine operates through a distributed architecture that p
 
 Does your CFM offering support the implementation of scheduled actions on target cloud resources? (Scheduled actions may include tasks such as turning virtual machines on or off and adjusting the storage performance tier.)
 
+Yes, CloudBolt's CFM platform supports comprehensive implementation of scheduled actions on target cloud resources across all major cloud environments. CloudBolt enables organizations to automate time-based resource management operations including virtual machine start/stop scheduling, storage tier adjustments, and other lifecycle management tasks that optimize costs while maintaining operational requirements.
+- **Resource Lifecycle Automation**: Beyond basic start/stop operations, CloudBolt automates storage tier adjustments, backup scheduling, snapshot management, and resource tagging for lifecycle policies that align with organizational cost optimization requirements.
+- **Custom Webhook Integration**: CloudBolt provides custom webhook action options that allow users to set policies triggering automated actions to any external software or system. This extensibility enables integration with proprietary tools, ITSM platforms, or specialized automation systems beyond standard cloud provider capabilities.
+
+--- 
+
+
 Does your CFM offering support automatically stopping resources by detecting their idle/unused state using external metrics? (This capability involves automatically identifying when a system is idle by monitoring external metrics like network traffic or load balancer activity. For instance, if a virtual machine shows no network traffic over a certain period, it is likely unused and can be stopped. Unlike scheduling, this functionality does not rely on internal metrics such as CPU or memory usage, nor does it require the user to set up a scheduling window.) 
 
 Does your CFM offering manage the workflow for remediation actions? (A remediation workflow oversees the progression of cost-related actions, coordinating among multiple stakeholders through the stages of detection, notification, validation, execution, or dismissal of a budget violation or optimization opportunity. Answer YES only if your solution handles this workflow natively, without relying on third-party integrations.)
