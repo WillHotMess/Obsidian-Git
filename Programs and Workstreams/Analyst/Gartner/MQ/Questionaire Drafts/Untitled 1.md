@@ -77,3 +77,18 @@ Does your CFM offering manage the workflow for remediation actions? (A remediati
 
 Does your CFM offering integrate with workflow management systems to manage the remediation workflow? (Answer YES only if you offer this integration out-of-the-box, without the need for customers to write code or use your API. Integrations that are only possible through your SDK or API do not qualify for this question. Common external workflow management systems used for this purpose include ServiceNow and Jira Software.)
 
+
+
+--- 
+
+CloudBolt maintains a well structured proof of concept approach designed to deliver measurable value within a defined timeframe. 
+
+**Structured POC Framework**
+Our POC engagement spans 15-45 days depending on organizational complexity and scale requirements. Each engagement follows a clearly defined process with specific phases: environment setup and data ingestion, baseline establishment and cost visibility implementation, optimization identification and automated remediation deployment, and results measurement against pre-established success criteria. This structured approach ensures that every POC delivers actionable insights rather than theoretical demonstrations.
+
+**Success Criteria Definition**
+CloudBolt prioritizes establishing mutual agreement on specific, measurable success criteria before any POC begins. We work collaboratively with prospects to define what constitutes success for their unique environment, whether that's achieving specific cost reduction percentages, demonstrating ROI within particular timeframes, or proving integration capabilities with existing enterprise systems. This upfront alignment ensures both parties understand exactly what needs to be proven and eliminates ambiguity around POC outcomes.
+
+**Dedicated Support Structure**
+Each POC receives significant support infrastructure including dedicated Solution Engineering resources, Technical Account Management oversight, and access to CloudBolt's product development team when needed. This ensures that prospects receive enterprise-grade support throughout the evaluation process and can thoroughly test platform capabilities against their specific use cases and technical requirements.
+
