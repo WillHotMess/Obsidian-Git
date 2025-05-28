@@ -37,13 +37,13 @@ _"Let me show you what this looks like in practice. I'll demonstrate our action-
 
 ## Alternative Condensed Flow (If Time is Tight)
 
-_"Your dashboards show costs - ours show actions. See these KPIs? 'Optimization value identified' and 'remediation velocity' - metrics that drive outcomes._
+_"Your dashboards show costs - ours show actions. See these KPIs? 'Insight to Action' 'Optimization Score' and 'Cost Health Score' - metrics that drive outcomes._
 
-_Through FOCUS compliance and our CloudBolt Agent, we unify costs across your entire fabric - public cloud, private infrastructure, Kubernetes - with true normalization._
+_CloudBolt is built on the FOCUS specification and features innovations such as CloudBolt Agent, to unify costs across your entire fabric - public cloud, private infrastructure, Kubernetes - with true normalization._
 
-_But here's the game-changer: continuous optimization. We don't just find waste; we eliminate it automatically, 24/7._
+_But here's the game-changer: continuous optimization. Users don't just get notified about waste; they can create policies to eliminate it automatically, 24/7._
 
-_Plus, with partners like StormForge for Kubernetes and CloudEagle for SaaS, you get specialized optimization everywhere. One platform, complete coverage, continuous action._
+_Plus, with powerful integrations like StormForge for Kubernetes and CloudEagle for SaaS, you get automated optimization everywhere. One platform, complete coverage, continuous action._
 
 _Want to see it live?"_
 
@@ -52,7 +52,7 @@ _Want to see it live?"_
 ## Key Phrases to Weave In
 
 - **For Action KPIs:** _"Metrics that matter" / "Outcomes, not just observations"_
-- **For FOCUS:** _"Industry-standard normalization" / "True apples-to-apples"_
+- **For FOCUS:** _"Industry-standard normalization" / "True total cost of ownership"_
 - **For Continuous Optimization:** _"From insight to action in minutes" / "Optimization that never sleeps"_
 - **For Partners:** _"Best-of-breed, seamlessly integrated" / "Multiply your impact"_
 
