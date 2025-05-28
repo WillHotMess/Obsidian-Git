@@ -1,5 +1,88 @@
 
 
+## 1. **"We Don't Just Show Costs - We Eliminate Them"**
+
+### The Action-Oriented FinOps Platform Message
+
+- **Hook:** _"While everyone else gives you another dashboard, we give you automated remediation"_
+- **Key Stat:** _"99% reduction in insight-to-action time - from weeks to minutes"_
+- **Proof Point:** _"Our Cloud Native Actions automatically fix what others just report"_
+- **Remember:** Always contrast "reporting" vs "doing" - this is our biggest differentiator
+
+---
+
+## 2. **"Your Entire Cloud Fabric, Not Just Public Cloud"**
+
+### The FOCUS + Agent Unified Visibility Message
+
+- **Hook:** _"We're the only platform that gives you FinOps for AWS, Azure, GCP AND your VMware, OpenStack, and on-prem environments"_
+- **Key Stat:** _"Most enterprises have 40% of costs siloed in private infrastructure - we illuminate it all"_
+- **Proof Point:** _"Our CloudBolt Agent + FOCUS compliance means TCO reporting for ANY environment"_
+- **Remember:** Emphasize "entire cloud fabric" - this resonates with enterprises struggling with hybrid complexity
+
+---
+
+## 3. **"Specialized Optimization Through Strategic Partnerships"**
+
+### The Kubernetes & SaaS Ecosystem Message
+
+- **Hook:** _"We've partnered with best-in-breed solutions to optimize what others can't even see"_
+- **Key Points:**
+    - **Kubernetes:** _"StormForge brings ML-powered container optimization - save 60-80% on K8s costs"_
+    - **SaaS:** _"CloudEagle integration coming Q1 - finally get control of SaaS sprawl"_
+    - **Commitments:** _"Automated RI/Savings Plan optimization through our ecosystem"_
+- **Remember:** Position as "we integrate the best" not "we build everything" - shows maturity and focus
+
+---
+
+## Quick Delivery Framework
+
+**For 15-second interactions:** Just hit point #1 - _"We're the FinOps platform that actually DOES something about costs, not just reports them"_
+
+**For 90-second pitches:** Weave all three naturally:
+
+1. Start with action/automation
+2. Expand to unified visibility
+3. Highlight specialized capabilities
+
+**For demos:** Show all three in action:
+
+1. Demo continuous optimization
+2. Show multi-cloud unified view
+3. Highlight partner integrations
+
+---
+
+## Memory Aids for Booth Staff
+
+### The "ACE" Framework:
+
+- **A**ction (Not just insights - we DO)
+- **C**overage (Entire cloud fabric via FOCUS/Agent)
+- **E**cosystem (K8s, SaaS, and beyond through integrations)
+
+### The Rule of Contrast:
+
+Always position against what prospects currently experience:
+
+- _"They show, we do"_
+- _"They see public cloud, we see everything"_
+- _"They build alone, we integrate the best"_
+
+### The One-Liner That Captures All Three:
+
+**"CloudBolt is the only FinOps platform that automatically optimizes costs across your entire cloud fabric - public cloud, private infrastructure, Kubernetes, and SaaS."**
+
+---
+
+## Don't Forget:
+
+- These aren't just features - they're solutions to real pain
+- Always tie back to ROI and business outcomes
+- Use the stats that matter: 32% waste, 99% faster action, 40% hidden costs
+- Make it about THEIR problems, not our capabilities
+
+**Every conversation should leave them thinking: "Finally, someone who doesn't just point out problems - they solve them."**
 # CloudBolt FinOps X Event Talk Track
 
 ## 15-Second Hook (Refined)
