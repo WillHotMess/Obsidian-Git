@@ -1,4 +1,71 @@
 
+## Opening & Hook
+
+**Compliment/Traditional Belief System:**  
+_"I'm sure you've got dashboards tracking all your cloud KPIs - spend trends, budget variance, maybe even unit costs. That visibility is essential for any FinOps practice."_
+
+**Zinger 1: "But here's the thing" -**  
+_"But here's the thing - most dashboards show trailing indicators. They tell you what already happened, not what to do about it. CloudBolt shows action-oriented KPIs - like 'optimization opportunity value' and 'time-to-remediation' - metrics that actually drive outcomes, not just track history."_
+
+## Unified Visibility (FOCUS)
+
+**Zinger 1 Explained: "Why? Because..."**  
+_"Why does this matter? Because real FinOps requires complete visibility AND actionability. That's why we built our platform on FOCUS - the FinOps Foundation's open standard. This means we can normalize costs across ANY environment - AWS, Azure, GCP, but also VMware, OpenStack, even Kubernetes. One unified view, apples-to-apples comparison, no blind spots."_
+
+**Introduce Zinger 2: "In addition...."**  
+_"In addition, we don't stop at showing you this unified view. Our CloudBolt Agent extends FinOps principles to your private cloud - something no one else does. Imagine having the same optimization capabilities for your on-prem VMware that you have for AWS."_
+
+## Continuous Optimization
+
+**Move to the "Even though":**  
+_"So even though you can now see everything, the real challenge remains: how do you act on thousands of optimization opportunities without overwhelming your teams?"_
+
+**The Magic Pivot to Hope and Relief = "Unless":**  
+_"Unless you could automate the entire optimization lifecycle. CloudBolt's continuous optimization engine doesn't just identify waste - it eliminates it automatically. Set your policies once, and watch as resources get rightsized, idle instances get terminated, and costs optimize 24/7. We've reduced that insight-to-action gap from weeks to literally minutes."_
+
+## Partner Ecosystem
+
+**Highlight Specialized Capabilities:**  
+_"And here's where it gets really powerful - we've partnered with best-in-breed solutions for specialized optimization. StormForge for Kubernetes? Integrated. Their ML engine continuously optimizes your container resources. CloudEagle for SaaS management? Coming Q1. ProsperOps for commitment optimization? Part of our ecosystem. You get world-class optimization for every part of your cloud fabric, all through one platform."_
+
+## Demo Setup
+
+**Set up canned demo:**  
+_"Let me show you what this looks like in practice. I'll demonstrate our action-oriented dashboards, how FOCUS enables true multi-cloud visibility, our continuous optimization in action, and how our partner integrations multiply your savings. You'll see why enterprises are achieving 40% cost reductions in 90 days."_
+
+---
+
+## Alternative Condensed Flow (If Time is Tight)
+
+_"Your dashboards show costs - ours show actions. See these KPIs? 'Optimization value identified' and 'remediation velocity' - metrics that drive outcomes._
+
+_Through FOCUS compliance and our CloudBolt Agent, we unify costs across your entire fabric - public cloud, private infrastructure, Kubernetes - with true normalization._
+
+_But here's the game-changer: continuous optimization. We don't just find waste; we eliminate it automatically, 24/7._
+
+_Plus, with partners like StormForge for Kubernetes and CloudEagle for SaaS, you get specialized optimization everywhere. One platform, complete coverage, continuous action._
+
+_Want to see it live?"_
+
+---
+
+## Key Phrases to Weave In
+
+- **For Action KPIs:** _"Metrics that matter" / "Outcomes, not just observations"_
+- **For FOCUS:** _"Industry-standard normalization" / "True apples-to-apples"_
+- **For Continuous Optimization:** _"From insight to action in minutes" / "Optimization that never sleeps"_
+- **For Partners:** _"Best-of-breed, seamlessly integrated" / "Multiply your impact"_
+
+## Remember
+
+- Each element builds on the previous one
+- Always connect features to business outcomes
+- Use contrast: what they have vs. what they could have
+- Keep energy building toward the demo reveal
+
+**The flow should feel like a journey from "seeing problems" to "solving them automatically at scale."**
+
+--- 
 
 ## 1. **"We Don't Just Show Costs - We Eliminate Them"**
 
@@ -17,45 +84,39 @@
 
 - **Hook:** _"We're the only platform that gives you FinOps for AWS, Azure, GCP AND your VMware, OpenStack, and on-prem environments"_
 - **Key Stat:** _"Most enterprises have 40% of costs siloed in private infrastructure - we illuminate it all"_
-- **Proof Point:** _"Our CloudBolt Agent + FOCUS compliance means TCO reporting for ANY environment"_
+- **Proof Point:** _"Our CloudBolt Agent + FOCUS reporting means TCO reporting for ANY environment"_
 - **Remember:** Emphasize "entire cloud fabric" - this resonates with enterprises struggling with hybrid complexity
 
 ---
 
-## 3. **"Specialized Optimization Through Strategic Partnerships"**
+## 3. **"Specialized Optimization Through Strategic Integrations"**
 
 ### The Kubernetes & SaaS Ecosystem Message
 
 - **Hook:** _"We've partnered with best-in-breed solutions to optimize what others can't even see"_
 - **Key Points:**
-    - **Kubernetes:** _"StormForge brings ML-powered container optimization - save 60-80% on K8s costs"_
-    - **SaaS:** _"CloudEagle integration coming Q1 - finally get control of SaaS sprawl"_
-    - **Commitments:** _"Automated RI/Savings Plan optimization through our ecosystem"_
+    - **Kubernetes:** _"StormForge brings ML-powered container optimization - save 50% or more on K8s costs"_
+    - **SaaS:** _"CloudEagle integration - finally get control of SaaS sprawl"_
+    - **Commitments:** _"Automated RI/Savings Plan optimization via archera"_
 - **Remember:** Position as "we integrate the best" not "we build everything" - shows maturity and focus
 
 ---
 
-## Quick Delivery Framework
+## Quick Delivery
 
 **For 15-second interactions:** Just hit point #1 - _"We're the FinOps platform that actually DOES something about costs, not just reports them"_
 
 **For 90-second pitches:** Weave all three naturally:
-
-1. Start with action/automation
-2. Expand to unified visibility
-3. Highlight specialized capabilities
-
-**For demos:** Show all three in action:
-
-1. Demo continuous optimization
-2. Show multi-cloud unified view
-3. Highlight partner integrations
+1. Start with action-oriented KPIs in dashboards
+2. Expand to unified visibility (lean in on FOCUS)
+3. Continuous optimization
+4. Highlight specialized capabilities via partner integrations
 
 ---
 
 ## Memory Aids for Booth Staff
 
-### The "ACE" Framework:
+### "ACE":
 
 - **A**ction (Not just insights - we DO)
 - **C**overage (Entire cloud fabric via FOCUS/Agent)
