@@ -157,32 +157,27 @@ _[Pause for reaction, then ask:]_**"What's your biggest cloud cost challenge rig
 ## 90-Second Pitch + Demo Setup
 
 **Compliment/Traditional Belief System:**
-
 "You know, most organizations have made significant investments in FinOps tools and practices. You've got dashboards, you're tracking costs, maybe even have a dedicated FinOps team. That's a great foundation."
 
 **Zinger 1: "But here's the thing" -**
-
 "But here's the thing - despite all those reports and insights, cloud waste keeps growing. The average enterprise wastes 32% of their cloud spend. That's millions of dollars annually."
 
 **Zinger 1 Explained: "Why? Because..."**
-
 "Why? Because there's a massive gap between identifying waste and actually eliminating it. Your FinOps team finds optimization opportunities, creates tickets for engineering, but those tickets sit in backlogs for weeks or months. Meanwhile, that waste compounds daily. It's like watching your house burn while waiting for someone to turn on the hose."
 
 **Introduce Zinger 2: "In addition...."**
-
 "In addition, this only covers your public cloud. What about VMware environments? Kubernetes clusters? SaaS sprawl? Most organizations have zero visibility into 40% of their actual cloud fabric."
 
 **Move to the "Even though":**
-
-_"So even though you've invested in FinOps tools and built processes, you're still manually chasing optimization opportunities while costs spiral across an increasingly complex multi-cloud environment."_
+"So even though you've invested in FinOps tools and built processes, you're still manually chasing optimization opportunities while costs spiral across an increasingly complex multi-cloud environment."
 
 **The Magic Pivot to Hope and Relief = "Unless":**
 
-_"Unless you could transform optimization from a manual process to an automated system. Imagine cutting that insight-to-action time from weeks to minutes. CloudBolt's Augmented FinOps platform does exactly that - with continuous optimization that automatically eliminates waste across your entire cloud fabric: public cloud, private cloud, Kubernetes, even SaaS. We're not just showing you problems; we're solving them 24/7."_
+"Unless you could transform optimization from a manual process to an automated system. Imagine cutting that insight-to-action time from weeks to minutes. CloudBolt's Augmented FinOps platform does exactly that - with continuous optimization that automatically eliminates waste across your entire cloud fabric: public cloud, private cloud, Kubernetes, even SaaS. We're not just showing you problems; we're solving them 24/7."
 
 **Set up canned demo:**
 
-_"Let me show you what continuous optimization actually looks like. In the next 2 minutes, you'll see how we're helping enterprises reduce cloud waste by up to 40% without adding headcount or disrupting operations."_
+"Let me show you what continuous optimization actually looks like. In the next 2 minutes, you'll see how we're helping enterprises reduce cloud waste by up to 40% without adding headcount or disrupting operations."
 
 ---
 
