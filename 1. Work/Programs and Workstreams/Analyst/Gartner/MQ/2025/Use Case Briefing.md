@@ -245,7 +245,8 @@ Promote accountability among cloud service consumers by engaging them in cost vi
     - **GMQCFM25-67:** Does your CFM offering integrate with collaboration platforms such as Microsoft Teams or Slack? (Facilitates Remediation and communication)
         
     - **GMQCFM25-73:** Does your CFM offering manage the workflow for remediation actions? (Involves stakeholders in Remediation)
-        
+
+
     - **GMQCFM25-74:** Does your CFM offering integrate with workflow management systems to manage the remediation workflow? (Involves stakeholders in Remediation)
         
     - **GMQCFM25-78:** Does your CFM offering monitor KPIs and offer a dashboard with metrics to assess the success and effectiveness of a CFM/FinOps practice? (Core to KPI Tracking & Incentives)
