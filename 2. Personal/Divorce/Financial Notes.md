@@ -1,0 +1,3 @@
+- Hannah routed a significant travel reimbursement to her new personal checking account, even though a large portion was spent on my Amex card. 
+- On 5/23/2025, she paid her credit card with our joint account. 
+- On 5/21/2025, she wrote herself a check for $8,329.00 (Check Paid #1052)

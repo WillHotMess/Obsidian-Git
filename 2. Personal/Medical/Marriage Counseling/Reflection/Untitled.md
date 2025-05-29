@@ -1,0 +1,5 @@
+I want to acknowledge that I understand your intention wasn't to hurt me by discussing our issues with Jen. I recognize the value of having support from another mom nearby, and I respect your need for that connection.
+
+That said, I need to express that my feelings were hurt when I felt a boundary was crossed. While I'm not trying to control who you speak with or what you discuss, I'm asking for sensitivity around how these conversations impact my relationships with your family—relationships I've worked hard to build and that matter deeply for our marriage and for Miller's wellbeing.
+
+What's shared during our difficult moments can leave lasting impressions. I appreciated your genuine apology yesterday, and if we're aligned on understanding each other's needs going forward, I think we're in a good place to move forward.
