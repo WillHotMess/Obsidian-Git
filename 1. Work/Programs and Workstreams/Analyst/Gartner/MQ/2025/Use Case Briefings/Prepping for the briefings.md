@@ -223,7 +223,7 @@ Accurately estimate cloud spending for applications using models and historical 
 
 ## Slide 5: Bottom-Line Conclusion (1 minute)
 
-**Market Leadership:** "While competitors offer basic trend projections, CloudBolt delivers the AI-powered, multi-cloud forecasting platform that incorporates your contracted rates, your resource cost fluxuations, and your business patterns. That's why enterprises managing complex cloud estates choose CloudBolt for their financial planning."
+**Market Leadership:** While competitors offer basic trend projections, CloudBolt delivers the AI-powered, multi-cloud forecasting platform that incorporates your contracted rates, your resource cost fluxuations, and your business patterns. That's why enterprises managing complex cloud estates choose CloudBolt for their financial planning.
 
 ## Demo Focus Recommendations:
 1. Show the new AI-powered forecasting
