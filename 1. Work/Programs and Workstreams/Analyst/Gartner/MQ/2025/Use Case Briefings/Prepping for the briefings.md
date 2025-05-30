@@ -73,12 +73,9 @@ Edits:
 ```
 This is really good, but looking at the criteria, I want to lean in on:
 - budgeting features (pre- and post- deployment)
-- Intelligent forecasting
 - Anomaly detection
 
 For budgeting, we should lean in on how users can set quotas and budgets at any level of the business via our orchestration module that can block or steer net-new deployments (using explicit rules, approvals, or t-shirt sizing). (E.g., if a user exsits in a abusiness unit that has exhausted their quarterly budget, we can require an additional approval. We also can push/pull budgets from external sources of truth (jira, servicenow, etc)
-
-For Intelligent Forecasting, 
 
 Finally, for Anomaly Detection, 
 
@@ -93,60 +90,44 @@ Some of the questions that are relevant for this section:
 
 ## Slide 1: Opening Thesis (1 minute)
 
-**CloudBolt's Approach:** "Financial risk management isn't about putting up roadblocks - it's about intelligent steering. We believe the best risk mitigation happens when you empower teams with the right insights at the right moments, from provisioning through production. While the industry focuses on reactive cost controls and hard governance policies that stifle innovation, CloudBolt takes a different approach: we combine proactive planning capabilities with continuous, automated optimization that adapts to your actual usage patterns."
+**CloudBolt's Approach:** Financial risk management isn't about putting up roadblocks - it's about intelligent steering. We believe the best risk mitigation happens when you empower teams with the right insights at the right moments, from provisioning through production. While the industry focuses on reactive cost controls and hard governance policies that stifle innovation, CloudBolt takes a different approach: we combine proactive planning capabilities with continuous, automated optimization that adapts to your actual usage patterns.
 
-**Bold Positioning:** "We're the only platform that successfully bridges Day 1 provisioning controls with Day 2 operational intelligence, creating a continuous risk management lifecycle that doesn't sacrifice agility for control."
+**Bold Positioning:** We're the only platform that successfully bridges Day 1 provisioning controls with Day 2 operational intelligence, creating a continuous risk management lifecycle that doesn't sacrifice agility for control.
 
 ## Slide 2: Key Differentiators (3 minutes)
 
 **1. Anomaly Detection That Actually Works**
-
 - ML models that identify cost anomalies flowing from real-time data APIs
 - Full UI with table views of anomalies, not just alerts
 - Contextual business impact analysis - understanding which anomalies matter
 
 **2. Shift-Left Without the Friction**
-
 - T-shirt sizing and cost modeling across clouds during provisioning
 - Not just "you can't do this" but "here's the cost impact of your choices"
 - Integration with engineering workflows, not obstruction
 
 **3. Continuous Optimization as Governance**
-
 - Automated policy enforcement through continuous optimization
 - Custom guardrails ("tuned way signals") that adapt to your business
 - Governance through action, not just roadblocks
 
 ## Slide 3: Customer Success Story (3 minutes)
 
-**US Bank: From Reactive Surprises to Proactive Planning**
 
-"US Bank exemplifies our approach to financial risk management. They implemented what they call the 'fitting room' - using CloudBolt to model costs before migrating workloads to the cloud.
-
-Instead of discovering cost overruns after deployment, they:
-
-- Model different cloud scenarios before migration
-- Compare costs across providers with their specific workloads
-- Set up proactive governance that doesn't slow down innovation
-
-The result? They've essentially eliminated cost surprises by addressing risk at the architectural planning stage, while maintaining the agility their development teams need."
 
 ## Slide 4: Investment Themes (2 minutes)
 
 **The Intelligent Incident Workflow**
-
 - Moving beyond simple anomaly detection to full incident management
 - Anomaly workflows that learn from your resolutions
 - Integration with your existing ITSM tools
 
 **Self-Tuning Risk Management**
-
 - Rule-based thresholds that reduce noise (e.g., "ignore anything under X dollars")
 - Scope controls by tenant, metric, or business unit
 - Models that get smarter based on your team's actions
 
 **Risk as Part of Overall Cloud Health**
-
 - Anomaly patterns integrated into our FinOps Performance Index (FPI)
 - Cost health scoring that includes risk indicators
 - Predictive risk analysis based on historical patterns
@@ -170,6 +151,13 @@ The result? They've essentially eliminated cost surprises by addressing risk at 
 ```
 
 
+Relevant Questions:
+3. Does your CFM offering allow customers to compare current list prices for similar resource SKUs across different cloud providers?
+4. Does your CFM offering provide cost modeling capabilities that enable users to model workloads and estimate costs based on user-defined characteristics and consumption forecasts?
+5. Does your CFM offering provide cloud-agnostic cost models that allow users to generate cost estimates for deploying workloads to multiple cloud providers?
+6. Does your CFM offering enable customers to perform simulated “what if” analysis on existing workloads to assess the impact of potential changes to their current cloud configuration?
+8. Does your CFM offering support cloud migration planning by discovering a source environment and using the discovered data to predict future cloud costs if the environment is migrated to a target cloud provider?
+23. Does your CFM offering provide capabilities to forecast future cloud costs based on historical data?
 
 ```
 
@@ -203,6 +191,14 @@ Accurately estimate cloud spending for applications using models and historical 
 
 ## Slide 3: Customer Success Story (3 minutes)
 
+**US Bank: From Reactive Surprises to Proactive Planning**
+- US Bank exemplifies our approach to financial risk management. They implemented what they call the 'fitting room' - using CloudBolt to model costs before migrating workloads to the cloud.
+- Instead of discovering cost overruns after deployment, they:
+	- Model different cloud scenarios before migration
+	- Compare costs across providers with their specific workloads
+	- Set up proactive governance that doesn't slow down innovation
+- The result? They've essentially eliminated cost surprises by addressing risk at the architectural planning stage, while maintaining the agility their development teams need.
+
 **Alstom** integrated CloudBolt with their C&P blueprint system, creating an innovative forecasting model that incorporates OpenAI for enhanced accuracy. Before any resource is provisioned, they get intelligent cost estimates based on their actual usage patterns and architectural standards.
 
 **Allegis** built a service catalog with CloudBolt that provides real-time cost comparisons across Azure, AWS, and OCI. Their end users can see exactly what their choices will cost across different platforms before submitting requests. With t-shirt sizing and automated approval workflows, they've turned cost estimation from a finance exercise into a self-service capability.
@@ -232,3 +228,7 @@ Accurately estimate cloud spending for applications using models and historical 
 1. Show the new AI-powered forecasting
 2. Demonstrate effective cost per core comparison across clouds
 3. Show forecast over time with ML model learning
+
+--- 
+
+# 
