@@ -91,7 +91,7 @@ Some of the questions that are relevant for this section:
 
 ## Slide 1: Opening Thesis (1 minute)
 
-**CloudBolt's Approach:** Financial risk management isn't about putting up roadblocks - it's about intelligent steering. We believe the best risk mitigation happens when you empower teams with the right insights at the right moments, from provisioning through production. While the industry focuses on reactive cost controls and hard governance policies that stifle innovation, CloudBolt takes a different approach: we combine proactive planning capabilities with continuous, automated optimization that adapts to your actual usage patterns.
+**CloudBolt's Approach:** Financial risk management isn't about putting up roadblocks - it's about awareness and steering. We believe the best risk mitigation happens when you empower teams with the right insights at the right moments, from provisioning through production. While the industry focuses on reactive cost controls and hard governance policies that stifle innovation, CloudBolt takes a different approach: we combine proactive planning capabilities with continuous, automated optimization that adapts to your actual usage patterns.
 
 **Bold Positioning:** We're the only platform that successfully bridges Day 1 provisioning controls with Day 2 operational intelligence, creating a continuous risk management lifecycle that doesn't sacrifice agility for control.
 
@@ -238,7 +238,7 @@ Accurately estimate cloud spending for applications using models and historical 
 
 **CloudBolt's Approach:** Here's the uncomfortable truth: the average enterprise wastes 32% of their cloud spend. Not because they don't know about it - they have dashboards full of optimization recommendations. The problem is the massive gap between identifying waste and actually eliminating it. While the industry builds more reporting tools, CloudBolt built something fundamentally different: a continuous optimization platform that doesn't just find waste - it eliminates it automatically, 24/7, across your entire cloud fabric.
 
-**Bold Positioning:** "We're the only FinOps platform that measures success not by how many recommendations we generate, but by how much waste we actually eliminate. Because showing you the problem isn't solving it."
+**Bold Positioning:** We're the only FinOps platform that measures success not by how many recommendations we generate, but by how much waste we actually eliminate. Because showing you the problem isn't solving it.
 
 ## Slide 2: Key Differentiators (3 minutes)
 
