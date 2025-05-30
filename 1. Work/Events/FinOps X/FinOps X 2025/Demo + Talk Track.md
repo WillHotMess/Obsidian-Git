@@ -2,10 +2,10 @@
 ## Opening & Hook
 
 **Compliment/Traditional Belief System:**  
-_"I'm sure you've got dashboards tracking all your cloud KPIs - spend trends, budget variance, maybe even unit costs. That visibility is essential for any FinOps practice."_
+I'm sure you've got dashboards tracking all your cloud KPIs - spend trends, budget variance, maybe even unit costs. That visibility is essential for any FinOps practice.
 
 **Zinger 1: "But here's the thing" -**  
-_"But here's the thing - most dashboards show trailing indicators. They tell you what already happened, not what to do about it. CloudBolt shows action-oriented KPIs - like 'optimization opportunity value' and 'time-to-remediation' - metrics that actually drive outcomes, not just track history."_
+But here's the thing - most dashboards show trailing indicators. They tell you what already happened, not what to do about it. CloudBolt shows action-oriented KPIs - like 'optimization opportunity value' and 'time-to-remediation' - metrics that actually drive outcomes, not just track history.
 
 ## Unified Visibility (FOCUS)
 
