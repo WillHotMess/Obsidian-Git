@@ -7,7 +7,7 @@
 
 ---
 
-**Product Demo Focuses (Building on CPO's Notes):**
+**Product Demo Focuses (Building on Kyle's Notes):**
 
 1. **Start with Action-Oriented KPIs in Dashboards:**
     - Show real-time multi-cloud visibility with unified KPIs.
@@ -21,9 +21,11 @@
     - Demonstrate automated remediation (Cloud Native Actions) – rightsizing, terminating idle instances based on policies.
     - Shift from weeks/months to minutes for remediation.
 4. **Highlight Specialized Capabilities via Partner Integrations:**
-    - **4.1 StormForge (Kubernetes):** Show ML-powered container rightsizing, performance tuning, and automated remediation. Mention integration with Optimization Dashboard.
-    - **4.2 CloudEagle (SaaS):** Demo SaaS optimization (sandbox).
+    - **StormForge (Kubernetes):** Show ML-powered container rightsizing, performance tuning, and automated remediation. Mention integration with Optimization Dashboard.
+    - **CloudEagle (SaaS):** Demo SaaS optimization (sandbox).
     - **Committed Use:** Mention ProsperOps; demo Archera (sandbox).
+
+[ ] Archera vs. ProsperOps
 
 ---
 
@@ -35,7 +37,6 @@
 - **Partners:** "Best-of-breed, seamlessly integrated," "Build the right toolbox for your company" "Specialized optimization for every part of your cloud fabric."
 
 ---
-
 **Key Stats (from CII Report - use to add weight/urgency):**
 
 - "Nearly **80%** of organizations struggle with cloud ROI."
