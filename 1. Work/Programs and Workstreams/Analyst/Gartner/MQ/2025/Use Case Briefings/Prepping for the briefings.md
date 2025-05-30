@@ -69,8 +69,8 @@ Then I will kick off on the next chat.
 
 # Financial Risk Management 
 
-Edits
-<
+Edits:
+```
 This is really good, but looking at the criteria, I want to lean in on:
 - budgeting features (pre- and post- deployment)
 - Intelligent forecasting
@@ -88,7 +88,8 @@ Some of the questions that are relevant for this section:
 - Does your CFM offering trigger alerts when actual spending hits a predefined threshold of the set budget?
 - Does your CFM offering trigger alerts when projected end-of-period spending is forecasted to exceed the defined budget?
 - Does your CFM offering trigger alerts on detected cost anomalies?
-/>
+```
+
 
 ## Slide 1: Opening Thesis (1 minute)
 
@@ -166,16 +167,24 @@ The result? They've essentially eliminated cost surprises by addressing risk at 
 --- 
 # **Forecasting and Estimation**:
 
+```
+
+
+
+```
+
+Accurately estimate cloud spending for applications using models and historical data to set expectations, optimize designs, manage budgets, and support contract negotiations.
+
 ## Slide 1: Opening Thesis (1 minute)
 
-**CloudBolt's Approach:** "Accurate cloud forecasting isn't just about projecting last month's spend forward with a linear model. It's about understanding the complex interplay between your business patterns, technical decisions, and market dynamics. While the industry relies on simplistic trend lines, CloudBolt delivers true predictive intelligence through AI-powered models that understand your unique consumption patterns across every cloud and service you use."
+**CloudBolt's Approach:** Accurate cloud forecasting isn't just about projecting last month's spend forward with a linear model. It's about understanding the complex interplay between your business patterns, technical decisions, and market dynamics. While the industry relies on simplistic trend lines, CloudBolt delivers true predictive intelligence through AI-powered models that understand your unique consumption patterns across every cloud and service you use.
 
 **Bold Positioning:** "We're transforming cloud forecasting from a financial exercise into a strategic planning tool - where every forecast incorporates your contracts, your seasonality, your architectural choices, and your business goals into a unified prediction engine."
 
 ## Slide 2: Key Differentiators (3 minutes)
 
 **1. Multi-Cloud Intelligence Through FOCUS**
-- Normalized cost modeling across AWS, Azure, GCP, and VMware
+- Normalized cost modeling across public and private clouds 
 - Effective average cost per core metric for true apples-to-apples comparison
 - List price vs. effective rate analysis incorporating your negotiated discounts
 - Built into our Cost Health Score for continuous tracking
@@ -183,7 +192,7 @@ The result? They've essentially eliminated cost surprises by addressing risk at 
 **2. AI-Powered Forecasting That Learns**
 - ML models that replaced simplistic linear projections
 - Account-level forecasting that captures your unique patterns
-- Integration with StormForge for seasonality-aware predictions
+- Advanced seasonality-aware predictions for more complex workloads (Kubernetes)
 - Not just "what will we spend" but "what should we spend"
 
 **3. Architectural Intelligence**
@@ -217,7 +226,7 @@ The result? They've essentially eliminated cost surprises by addressing risk at 
 
 ## Slide 5: Bottom-Line Conclusion (1 minute)
 
-**Market Leadership:** "While competitors offer basic trend projections, CloudBolt delivers the industry's only AI-powered, multi-cloud forecasting platform that incorporates your contracts, your architecture, and your business patterns. That's why enterprises managing complex cloud estates choose CloudBolt for their financial planning."
+**Market Leadership:** "While competitors offer basic trend projections, CloudBolt delivers the AI-powered, multi-cloud forecasting platform that incorporates your contracted rates, your resource cost fluxuations, and your business patterns. That's why enterprises managing complex cloud estates choose CloudBolt for their financial planning."
 
 ## Demo Focus Recommendations:
 1. Show the new AI-powered forecasting
