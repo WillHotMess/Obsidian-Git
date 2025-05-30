@@ -67,6 +67,23 @@ Then I will kick off on the next chat.
 
 --- 
 
+# Financial Risk Management 
+
+Edits
+<
+This is really good, but looking at the criteria, I want to lean in on:
+- budgeting features (pre- and post- deployment)
+- Intelligent forecasting
+- Anomaly detection
+
+For budgeting, we should lean in on how users can set quotas and budgets at any level of the business via our orchestration module that can block or steer net-new deployments (using explicit rules, approvals, or t-shirt sizing). (E.g., if a user exsits in a abusiness unit that has exhausted their quarterly budget, we can require an additional approval. We also can push/pull budgets from external sources of truth (jira, servicenow, etc)
+
+For Intelligent Forecasting, 
+
+Finally, for Anomaly Detection, 
+
+/>
+
 ## Slide 1: Opening Thesis (1 minute)
 
 **CloudBolt's Approach:** "Financial risk management isn't about putting up roadblocks - it's about intelligent steering. We believe the best risk mitigation happens when you empower teams with the right insights at the right moments, from provisioning through production. While the industry focuses on reactive cost controls and hard governance policies that stifle innovation, CloudBolt takes a different approach: we combine proactive planning capabilities with continuous, automated optimization that adapts to your actual usage patterns."
