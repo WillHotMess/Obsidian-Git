@@ -82,6 +82,12 @@ For Intelligent Forecasting,
 
 Finally, for Anomaly Detection, 
 
+
+Some of the questions that are relevant for this section: 
+- Does your CFM offering support the management of cloud budget approvals before deploying resources in a cloud environment?
+- Does your CFM offering trigger alerts when actual spending hits a predefined threshold of the set budget?
+- Does your CFM offering trigger alerts when projected end-of-period spending is forecasted to exceed the defined budget?
+- Does your CFM offering trigger alerts on detected cost anomalies?
 />
 
 ## Slide 1: Opening Thesis (1 minute)
@@ -156,3 +162,64 @@ The result? They've essentially eliminated cost surprises by addressing risk at 
 2. Demonstrate the fitting room concept with cost modeling
 3. Walk through an anomaly to resolution workflow
 4. Show how continuous optimization policies act as adaptive governance
+
+--- 
+# **Forecasting and Estimation**:
+
+## Slide 1: Opening Thesis (1 minute)
+
+**CloudBolt's Approach:** "Accurate cloud forecasting isn't just about projecting last month's spend forward with a linear model. It's about understanding the complex interplay between your business patterns, technical decisions, and market dynamics. While the industry relies on simplistic trend lines, CloudBolt delivers true predictive intelligence through AI-powered models that understand your unique consumption patterns across every cloud and service you use."
+
+**Bold Positioning:** "We're transforming cloud forecasting from a financial exercise into a strategic planning tool - where every forecast incorporates your contracts, your seasonality, your architectural choices, and your business goals into a unified prediction engine."
+
+## Slide 2: Key Differentiators (3 minutes)
+
+**1. Multi-Cloud Intelligence Through FOCUS**
+- Normalized cost modeling across AWS, Azure, GCP, and VMware
+- Effective average cost per core metric for true apples-to-apples comparison
+- List price vs. effective rate analysis incorporating your negotiated discounts
+- Built into our Cost Health Score for continuous tracking
+
+**2. AI-Powered Forecasting That Learns**
+- ML models that replaced simplistic linear projections
+- Account-level forecasting that captures your unique patterns
+- Integration with StormForge for seasonality-aware predictions
+- Not just "what will we spend" but "what should we spend"
+
+**3. Architectural Intelligence**
+- StormForge instance class recommendations inform future costs
+- Integration with blueprint systems for pre-deployment estimation
+- T-shirt sizing that actually reflects your environment's reality
+- CloudEagle integration for SaaS contract optimization
+
+## Slide 3: Customer Success Story (3 minutes)
+
+**Alstom** integrated CloudBolt with their C&P blueprint system, creating an innovative forecasting model that incorporates OpenAI for enhanced accuracy. Before any resource is provisioned, they get intelligent cost estimates based on their actual usage patterns and architectural standards.
+
+**Allegis** built a service catalog with CloudBolt that provides real-time cost comparisons across Azure, AWS, and OCI. Their end users can see exactly what their choices will cost across different platforms before submitting requests. With t-shirt sizing and automated approval workflows, they've turned cost estimation from a finance exercise into a self-service capability.
+
+## Slide 4: Investment Themes (2 minutes)
+
+**What-If Scenarios: The Next Frontier**
+- Interactive scenario modeling for architectural changes
+- Migration cost analysis with confidence intervals
+- Contract optimization modeling
+
+**Intelligent Forecasting Tunability**
+- Multi-modal forecasting at cloud, account, and service levels
+- User-configurable seasonality patterns
+- Business event integration (product launches, seasonal peaks)
+
+**From Forecasting to Prescriptive Analytics**
+- Not just "what will happen" but "what should we do"
+- Proactive recommendations based on forecast insights
+- Integration with commitment planning and architectural decisions
+
+## Slide 5: Bottom-Line Conclusion (1 minute)
+
+**Market Leadership:** "While competitors offer basic trend projections, CloudBolt delivers the industry's only AI-powered, multi-cloud forecasting platform that incorporates your contracts, your architecture, and your business patterns. That's why enterprises managing complex cloud estates choose CloudBolt for their financial planning."
+
+## Demo Focus Recommendations:
+1. Show the new AI-powered forecasting
+2. Demonstrate effective cost per core comparison across clouds
+3. Show forecast over time with ML model learning
