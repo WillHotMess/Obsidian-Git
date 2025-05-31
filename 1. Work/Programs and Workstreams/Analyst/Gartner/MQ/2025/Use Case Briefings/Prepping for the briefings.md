@@ -305,3 +305,78 @@ The key? Both organizations transformed optimization from a manual process to an
 3. Demonstrate SaaS optimization with CloudEagle
 4. Display the FPI dashboard showing improvement over time
 5. Quick view of automated remediation logs showing actual savings achieved
+
+--- 
+# Service Provider
+
+## Slide 1: Opening Thesis (1 minute)
+
+**CloudBolt's Approach:** "Most FinOps vendors treat service providers as an afterthought - they build for enterprises, then try to retrofit multi-tenancy. That's backwards. Service providers aren't just large enterprises - they're fundamentally different businesses with unique requirements around billing, distribution, and customer management. CloudBolt is uniquely positioned because we didn't just add billing features - we built a distinct platform that serves both enterprise FinOps AND the complex needs of cloud distributors. Until 2023, service providers were our largest customer base. We know this market."
+
+**Bold Positioning:** "We're the only vendor that offers true billing and distribution capabilities alongside enterprise-grade FinOps - because we understand that service providers need to transform cloud financial management from a cost center into a profit center."
+
+## Slide 2: Key Differentiators (3 minutes)
+
+**1. Purpose-Built Multi-Tenant Architecture**
+- Event-driven processing pipelines avoiding noisy neighbor issues
+- Safe tenancy with logical separation and workload isolation
+- Parent-child architecture enabling precise cost allocation
+- Scales to hundreds of tenants without performance degradation
+
+**2. Sophisticated Billing & Re-rating Engine**
+- Flexible "price book" adaptability with unlimited custom rates
+- Re-rating with percentage, fixed, and threshold-based mutations
+- Multi-currency support for global operations
+- Near real-time cost display with up-to-date visibility
+
+**3. Complete Financial Control**
+- Granular reporting profiles for each client
+- White-labeled portals maintaining your brand identity
+- Automated invoice generation based on custom rules
+- Margin analysis - see your profitability while customers see their costs
+
+## Slide 3: Customer Success Story (3 minutes)
+
+**Redapt: Transforming Distribution at Scale**
+"Let me share what this means for a real service provider. When we worked with Rackspace, they faced the classic MSP challenge - managing costs across thousands of customer accounts while maintaining profitability and delivering value-added services.
+
+With CloudBolt, Redapt achieved:
+- Unified management across AWS CSP, Azure CSP, and direct relationships
+- Automated billing reconciliation eliminating manual processes
+- Custom optimization recommendations for each customer tier
+- White-labeled portals that strengthened their brand
+- 200+ API integrations enabling full automation
+
+The key differentiator? They weren't just reselling cloud - they were adding intelligence and optimization as a service. Their customers got enterprise-grade FinOps capabilities without building it themselves, while Redapt maintained healthy margins through our sophisticated re-rating engine.
+
+This wasn't possible with traditional FinOps tools - it required a platform built specifically for distribution."
+
+## Slide 4: Investment Themes (2 minutes)
+
+**Enhanced Distribution Capabilities**
+- **Commitment Pooling**: Advanced algorithms for distributing savings across tenants
+- **Automated Margin Optimization**: AI-driven pricing recommendations
+- **Enhanced Partner Ecosystem**: Deeper integrations with cloud provider programs
+
+**Next-Gen Platform Architecture**
+- **FOCUS++ for Distributors**: Extended normalization for multi-tenant scenarios
+- **GitOps-Driven Pipelines**: Infrastructure as code for customer onboarding
+- **Advanced QoS Controls**: Guaranteed performance SLAs per tenant
+
+**Value-Added Services Platform**
+- **Optimization as a Service**: Package our capabilities for resale
+- **Compliance Automation**: Industry-specific governance packages
+- **Financial Advisory Tools**: Help MSPs become trusted advisors
+
+## Slide 5: Bottom-Line Conclusion (1 minute)
+
+**Business Impact:** "CloudBolt transforms service providers from low-margin resellers into high-value cloud advisors. Our partners report 30% improvement in gross margins while reducing operational overhead by 60%. More importantly, they're winning larger, strategic deals by offering capabilities their competitors can't match - turning FinOps into a competitive advantage."
+
+**Market Leadership:** "While others try to retrofit enterprise tools for service providers, CloudBolt offers the industry's only purpose-built platform that combines enterprise FinOps with true billing and distribution capabilities. That's why the world's leading cloud distributors trust CloudBolt to power their business - not just manage their costs."
+
+## Demo Focus Recommendations:
+1. Show the multi-tenant architecture with parent-child relationships
+2. Demonstrate white-label portal customization
+3. Walk through the re-rating engine with margin visibility
+4. Show automated invoice generation
+5. Display the scalability - handling thousands of accounts efficiently
