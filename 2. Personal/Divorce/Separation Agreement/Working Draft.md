@@ -23,98 +23,62 @@
     - **William:** Has Miller for 3 nights (Wed-Fri) in Week 1 + 4 nights (Mon-Wed) in Week 2 = 7 nights.
     - **Hannah:** Has Miller for 4 nights (Fri-Mon) in Week 1 + 3 nights (Wed-Sat) in Week 2 = 7 nights.
     - We can use the Friday and Saturday exchanges as a moment to spend with each other.
-    
 - **Custody Transitions:** Primarily occur at school, unless weekends, school closure, or mutually agreed prior in writing (text or other).
-    
-    - **Alternative locations:** Hannah or William’s residence, or mutually agreed location in writing (text or other)
-        
+    - **Alternative locations:** Hannah or William’s residence, or mutually agreed location in writing (text or other).
 - **Transportation:** Transportation for Miller, including transitions and non-medical activities, will be provided by the parent whose custodial time the activity falls in, unless mutually agreed upon otherwise in writing.
-    
 - **Work Travel Notice**: 2-3 weeks advance notice in writing.
-    
 - **Relocation Restrictions**: Both parents remain within same state and within 1 hour driving time of Miller's current ABA location.
-    
     - Default custody favors the parent who can keep Miller near her current school location if an extreme circumstance necessitates a move.
-        
 - **Base Child Support Amount:** Calculation of the base child support amount using the NC Child Support Guidelines based on both parents' confirmed incomes. This calculation is presumed correct unless there's a documented reason for deviation.
-    
     - **Missing:** Precise legal language detailing how the agreed-upon proportional sharing of **extraordinary** medical/therapy costs and childcare costs will integrate with (or be added to/deviate from) the base guidelines amount.
 
-
 - **Healthcare Insurance**: William to provide insurance if actively employed, unless Hannah's medical plans mutually determined to better support Miller's needs.
-    
 - **Additional Therapy & Childcare Expenses**: Split proportionally based on income
-
 - **Initial Moving Plan:** Hannah moves out week of June 2nd while William is in San Diego. To avoid disruption, Miller stays with Hannah at their current house; upon William's return, Hannah moves to her new place, and William has Miller until Wednesday, at which point 3/3/4/4 schedule (outlined above) begins.
 
 ### 3. Other Financial & Logistical Items
-
 - **Dispute Resolution**: Family mediation (mediator to be selected within 3 months)
-    
 - **Communication Method**: Co-parenting app, text, calls, emails, bi-weekly in-person check-ins (where possible)
-    
 - **Cellphone Plan**: William maintains ownership of T-Mobile plan ($150/month total) for 21 more months
-    
     - When the contract ends in 21 months, Hannah will transition to her own plan, and William is obligated to assist by ensuring authority to release her number.
-        
     - **Missing:** Precise detail on how the $75/month cost (Hannah's share) and Hannah's iPhone 16 ($6.25/month, $760.81 balance) is factored or offset in the agreement.
-        
 - **Tax Filing Status**: Married Filing Separately for current year
-    
     - **Tax Dependency Exemption/Child Tax Credit:** Alternate claiming Miller every other year; Hannah to assume the first year (2025).
-        
 
 ## What Still Needs Discussion
 
 ### 1. Property Division
 
 - **Marital Home Plan**:
-    
     - Long-term disposition (sale vs. buyout)
-        
     - Timeline for resolution
-        
     - Process for dividing proceeds/losses if sold
-        
     - Mechanism for buyout calculation (if decided)
-        
     - Financial feasibility for William to maintain the home long-term
         
 - **Furniture Division**: Specific items Hannah will take (now and later) need to be inventoried
-    
 
 ### 2. Child Custody & Support
 
 - **Expense Tracking & Payment Process**:
-    
     - Payment/reimbursement timeframes
-        
     - Minimum threshold for reimbursement
-        
     - Definition of proportional cost determination
-        
     - Which specific "other" expenses beyond medical/therapy/childcare are shared
         
 - **Medical Costs**: How deductibles/co-pays will be handled
     
 - **Life Insurance**:
-    
     - Beneficiary/trustee designation (cannot be Miller directly)
-        
     - Legal definition of when dependency ends (especially considering Miller's autism)
-        
     - Minimum amount determined
         
 - **Future Education Expenses**: College/post-secondary education funding plan
     
 - **Custody Transition Details**:
-    
     - Specific transition times
-        
     - Alternative locations during school breaks (partially covered, but times/specifics needed)
-        
     - Transportation responsibilities for Miller's belongings (partially covered by new clause, but specifics like who packs what might be needed)
-        
     - Transportation to activities (partially covered by new clause, but specifics might be needed)
         
 - **Care Contingency Plan**: Right of first refusal if parent cannot care for Miller during scheduled time
@@ -125,20 +89,15 @@
 ### 3. Other Financial & Logistical
 
 - **Communication Plan Details**:
-    
     - Purpose for each communication method
-        
     - Response time expectations
-        
     - Prohibited communication topics
-        
     - Consequences for violation
-        
 
 ## Questions You Should Ask
 
 1. **Housing**: Can William afford the mortgage, taxes, insurance, and maintenance long-term? What happens if he can't? Is a professional home appraisal needed to establish current value?
-    
+
 2. **Support Calculation**: Have you run the official NC Child Support Worksheet to determine the guideline amount? What are both current incomes for this calculation?
     
 3. **Special Needs Planning**: How does Miller's autism affect long-term support needs beyond typical Miller emancipation age? Should you include provisions for adult disabled Miller support?

@@ -5,13 +5,10 @@ I took some time to review the Partial Separation and Child Custody Agreement dr
 **Separation Date:** The agreement claims we separated on May 20, 2025, but Hannah will continue residing in our home until June 5th.  We cannot have legally separated while still living together, making June 6th the earliest possible separation date.
 
 **Newland v. Newland Reference:** The agreement cites this case, but our situation is fundamentally different from Newland:
-
 - We're still in active marriage counseling (attempting reconciliation - last appointment was Monday May 2nd)
 - We still largely function as a married couple, (though my wife is sleeping in another bedroom)
-    
 
 **Financial Concerns:**
-
 1. Hannah verbally requested I pay the mortgage "from my own checking account" for May, despite her residing there the entire month.
 2. I plan to pay from our joint account as usual. Additionally, all household expenses (mortgage, gas, electricity, utilities) paid from the joint account through June 5th will reduce the total amount available for our 50/50 split.
 	1. Is this the correct approach?
@@ -24,16 +21,13 @@ I took some time to review the Partial Separation and Child Custody Agreement dr
 - Can we be legally separated while actively trying to reconcile and living in the same house?
 - How enforceable is this "partial" agreement without specified child support amounts?
 - Can we insist the final document include our complete property division agreement (retirement waivers, RSUs, investment accounts)?
-    
 - **We need to clarify whether this is truly "interim"** - the waivers in Section 5 suggest everything remains open
-    
 
 This document appears to be a placeholder/boilerplate that doesn't reflect our actual agreements and contains materially false statements about our separation status. 
 
 We can chat through this next week. 
 
 _Thanks,_ 
-
 _Will_
 
   

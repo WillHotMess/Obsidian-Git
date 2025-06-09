@@ -15,9 +15,7 @@
 - **Retirement Accounts**: Each keeps their own 401(k)s, each waives rights to the other's 401(k)
     
 - **RSUs/Stock Options**: Each waives rights to the other's company equity
-    
     - William's CloudBolt RSUs: 131,601 total options, 20,800 vested as of May 18, 2025
-        
     - Hannah's Guidewire RSUs: (Details need to be specified)
         
 - **Credit Card Debts and Point Balances:** Each assumes their primary accounts:
@@ -34,7 +32,7 @@
 - **Custody Schedule**: 3/3/4/4 rotation, resulting in equal 7 nights per parent over 2 weeks
     
     - **Week 1:**
-        
+
         - William: Thursday, Friday, Saturday (3 nights)
             
         - Hannah: Sunday, Monday, Tuesday, Wednesday (4 nights)
