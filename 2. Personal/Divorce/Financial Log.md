@@ -1,3 +1,9 @@
+$1,894.68
+−$3,911.00
+−$620.00 
+|DOMINION ENERGY DRAFT|−$84.69|$2,425.68|
+|May 28, 2025|Piedmont Electri WEB PMTS|−$197.10||
+
 Joint Account Use: 
 - 5/29 Faustino and Son (Landscaping): $620 
 - 5/31 Mortgage for home ($)
