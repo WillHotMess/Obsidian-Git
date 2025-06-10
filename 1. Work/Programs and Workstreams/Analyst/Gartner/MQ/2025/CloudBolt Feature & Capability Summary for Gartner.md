@@ -138,8 +138,7 @@
         
 - **Maturity KPIs:** CloudBolt offers FinOps maturity scoring based on KPI performance and utilization of platform capabilities. Leaderboards can be used to rank team performance and foster healthy competition.
         
-- **Cross-Customer Benchmarking:** CloudBolt performs ongoing analysis of KPIs across all customer organizations (anonymized and aggregated).
-    - **Differentiator:** This unique and powerful capability allows customers to receive regular reporting that benchmarks their FinOps performance and maturity against industry verticals and similar organizations.
+- **Cross-Customer Benchmarking:** CloudBolt performs ongoing analysis of KPIs across all customer organizations (anonymized or aggregated).
 
 ### **10. Critical Capability: Cloud Reselling**
 
