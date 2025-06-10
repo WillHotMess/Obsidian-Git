@@ -3,6 +3,7 @@
 ## Financial Statements & Accounts
 
 - [ ] **Bank Account Statements** - Copies of all bank account statements (checking, savings, money market, etc.) for one (1) year prior to date of separation to present time. If any account existed on date of marriage, provide statement showing date of marriage balance.
+	- [ ] 
 - [ ] **Debt Statements** - Monthly statements for any and all debts held in your name or jointly with a third party (credit cards, student loans, etc.) for one (1) year prior to date of separation to present time. If any account/debt existed on date of marriage, provide statement showing date of marriage balance.
 - [ ] **Retirement Plan Statements** - Copies of all retirement plan statements (IRA, 401(k), Keogh, pension, profit-sharing, etc.) for one (1) year prior to date of separation to present time. If any account existed on date of marriage, provide statement showing date of marriage balance.
 - [ ] **Stock Documentation** - Documentation reflecting any stock, stock options, restricted stock units, and participating preferred stock for one (1) year prior to date of separation to present time, including vesting schedules. If any interest in stock existed on date of marriage, provide documentation reflecting the same.
