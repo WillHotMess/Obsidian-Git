@@ -29,18 +29,24 @@ The two reports together paint a devastating picture:
 
 ### For the "Execution Gap" Campaign:
 - **"78% can't prove cloud ROI. But hey, nice dashboard!"**
-- **"65% of your optimizations die in committee"**
+- **"65% of your optimization opps die in a backlog"**
 - **"It takes you WEEKS to fix known waste. Feeling automated yet?"**
 
 ### For the "Kubernetes Reality Check":**
-- **"91% can't optimize Kubernetes. Time to stop pretending."**
+- **"91% can't optimize Kubernetes. Time for a new way."**
 - **"Your K8 spend is a black box. 98% agree."**
+- 91% can't optimize Kubernetes. Time to admit defeat?
 
 ### For the "Automation Illusion":**
 - **"Only 17% have real automation. Which one are you?"**
-- **"'We're automated!' Also them: 58% take weeks to act"**
+- **"'We're automated!' Also them: weeks later..."**
+	- Meme
+	- SpongeBob meme
 
 ### For the "Beyond Pretty Reports":**
 - **"80% can't enforce governance. But the dashboards look great!"**
 - **"Visibility ≠ Control. 80% learned this the hard way."**
 
+
+- 78% of IT leaders can't demonstrate cloud ROI. Can you?"
+- 65% of optimizations never happen. What about you?"
