@@ -34,7 +34,6 @@ Saurabh: SRE and FinOps Lead ([LinkedIn](https://www.linkedin.com/in/saurabhvich
 - GCP Procurement preferred with potential private offer arrangement
 
 ## Recommended Next Steps
-
 - POC scoping call with deeper technical dive
 - Find Easy + Early Wins before diving into more advanced needs (telemetry integration)
 - Roadmap mapping session covering short-, medium-, and long-term capabilities
