@@ -26,31 +26,26 @@
 - [ ] **Other Assets or Liabilities** - Documentation of any other assets or liabilities you had on the date of separation that are not specified above.
 
 ## Income Documentation
-
 - [ ] **Gross Income Documentation** - Documentation of all gross income of any type received by you for six (6) months prior to date of separation to present time including, but not limited to, paystubs.
 - [ ] **Anticipated Compensation** - Documentation reflecting any anticipated bonus, commission, deferred compensation, severance package or the like you are eligible to receive for six (6) months prior to date of separation to present time, including a description of how the benefit is calculated or determined and when you expect to receive it.
 - [ ] **Tax Returns** - Copies of all federal and state income tax returns, including all schedules, W-2s, and attachments, for the past three (3) years.
 
 ## Required Forms & Recent Statements
-
 - [ ] **Financial Affidavit (Budget)** - A completed financial affidavit (budget) – see excel attachment to email.
 - [ ] **Recent Bank Statements** - Bank statements for the last six (6) months including cancelled checks and online statements.
 - [ ] **Recent Credit Card Statements** - Credit card statements for the last six (6) months for any credit card for which you are an authorized user.
 - [ ] **Financial Accounts List** - List of all financial accounts, including account number, in which you have had any interest in the last twelve (12) months.
 
 ## Business-Related Documentation
-
 - [ ] **Business Tax Returns** - Business tax returns for the past three (3) years, including K-1 and all attachments and schedules.
 - [ ] **Business Bank Statements** - Business bank statements including cancelled checks and online statements.
 - [ ] **Business Credit Card Statements** - Credit card statements used for business expenses for the last six (6) months for any credit card for which you are an authorized user.
 
 ## Child-Related Expenses
-
 - [ ] **Work-Related Childcare Expenses** - Documentation reflecting the work-related childcare expenses incurred for the minor child(ren), if any. For example, daycare, preschool, after-school care, summer camps, etc.
 - [ ] **Health Insurance Breakdown** - Documentation reflecting the breakdown of the family’s health, dental, and vision insurance premiums, specifically the portion associated with the child(ren)’s coverage.
 
 ## Additional Documents
-
 - [ ] **Estate Documents** - Any estate documents, including Wills and Power of Attorney documents.
 - [ ] **Trust Documents** - Any documents showing trusts in which you, your spouse, or minor children is a beneficiary.
 
