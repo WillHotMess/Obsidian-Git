@@ -274,3 +274,39 @@ William Norton
 39. [https://cic.gsa.gov/acquisitions/procurement-process](https://cic.gsa.gov/acquisitions/procurement-process)
 40. [https://www.gep.com/blog/strategy/differences-between-direct-and-indirect-spend](https://www.gep.com/blog/strategy/differences-between-direct-and-indirect-spend)
 41. [https://www.vertice.one/explore/cloud-spend-management](https://www.vertice.one/explore/cloud-spend-management)
+
+
+
+Here are SPIN discovery questions tailored for the BillOps use case:
+
+## Situation Questions
+- Walk me through your current monthly billing process from data collection to invoice delivery
+- How many cloud providers and resale programs are you currently managing?
+- What tools are you using today for billing consolidation and customer invoicing?
+- How many FTEs are involved in your monthly billing cycle?
+- What's your current monthly/annual cloud services revenue under management?
+- How many customer accounts do you process billing for each month?
+
+## Problem Questions
+- Where do errors typically occur in your billing process?
+- How often do customers dispute invoices or request corrections?
+- What happens when billing data from different cloud providers doesn't reconcile?
+- How difficult is it to apply customer-specific markups and discounts accurately?
+- When customers ask for real-time spend visibility, what challenges do you face?
+- How much time do you lose to manual data manipulation and validation?
+
+## Implication Questions
+- What impact do billing delays have on your cash flow and working capital?
+- How does poor billing accuracy affect customer retention and satisfaction scores?
+- What opportunities are you missing because your team is stuck in manual billing tasks?
+- If billing errors increase as you scale, how will that impact your growth plans?
+- What happens to your competitiveness if other MSPs offer real-time cost visibility?
+- How does extended billing cycles affect your ability to recognize revenue?
+
+## Need-Payoff Questions
+- If you could reduce billing cycles from weeks to hours, how would that transform your business?
+- What would 24/7 customer cost visibility do for your competitive differentiation?
+- How valuable would it be to eliminate billing disputes and improve customer satisfaction?
+- If your team spent less time on manual billing, what strategic initiatives could they focus on?
+- What would automated compliance with cloud provider programs mean for your partnerships?
+- How would accurate, automated billing help you scale your cloud services profitably?
