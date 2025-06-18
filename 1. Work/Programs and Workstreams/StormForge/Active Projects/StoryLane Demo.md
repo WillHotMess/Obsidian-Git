@@ -137,3 +137,26 @@ Here's a potential outline for your interactive click-through demo in StoryLane,
 - Maintain a **fast pace** to stay within the 5-minute timeframe.
 
 This outline provides a structure based on the information in the provided transcript, focusing on the value proposition and key differentiators of StormForge Optimize Live for a product marketing-oriented demo.
+
+
+**Ready to tame your Kubernetes costs and complexity?**
+
+If you're struggling with unpredictable EKS expenses and operational overhead, I've got something exciting for you! CloudBolt is partnering with AWS for a hands-on workshop that goes way beyond the usual theory-heavy sessions.
+
+**Join us in San Francisco on July 23rd** for a workshop where you'll actually get your hands dirty with the tools that make a real difference:
+
+**Learn Amazon EKS Auto Mode** - see how it streamlines cluster management in real-time  
+**Experience StormForge by CloudBolt** - watch ML eliminate waste before your eyes  
+**Walk away with a proven cost-cutting strategy** you can implement immediately
+
+This isn't your typical "death by PowerPoint" event. You'll be deploying, tuning, and optimizing in a live environment alongside solutions architects from both AWS and CloudBolt who actually know what they're talking about.
+
+**Perfect for:** DevOps Engineers, SREs, Platform Engineers, Cloud Architects, and anyone tired of cloud bills that make CFOs nervous
+
+**The Details:** 📅 Wednesday, July 23, 2025  
+⏰ 9:00 AM - 2:30 PM  
+📍 AWS Gen AI Lounge, 525 Market St, San Francisco  
+🍳 Breakfast & lunch included
+
+Space is intentionally limited to keep this hands-on and valuable - reserve your spot today!
+
