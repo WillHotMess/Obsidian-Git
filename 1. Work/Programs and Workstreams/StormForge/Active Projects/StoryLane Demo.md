@@ -153,7 +153,8 @@ This isn't your typical "death by PowerPoint" event. You'll be deploying, tuning
 
 **Perfect for:** DevOps Engineers, SREs, Platform Engineers, Cloud Architects, and anyone tired of cloud bills that make CFOs nervous
 
-**The Details:** 📅 Wednesday, July 23, 2025  
+**The Details:** 
+📅 Wednesday, July 23, 2025  
 ⏰ 9:00 AM - 2:30 PM  
 📍 AWS Gen AI Lounge, 525 Market St, San Francisco  
 🍳 Breakfast & lunch included
