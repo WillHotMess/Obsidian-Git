@@ -1,93 +1,85 @@
-### TL;DR for the CEO
+### ROI snapshot for the **“$500-cash ➜ unlock $500 credit”** plan
 
-- **Budget in play:** $1 000 (our $500 cash + Reddit’s $500 match)
-- **Delivery window:** 30 days at $36 – $43.50/day → **~1 900-3 600 clicks** from r/Pickleball.
-- **Breakeven bar:**
-    - **Annual plan ($24.99)** – we break even **immediately** at ≥ 3 % conversion.
-    - **Monthly plan ($2.99)** – we break even:
-        - **High-traffic case (3 600 clicks):** at 10 % conversion in month 1, ≥ 5 % by month 3, ≥ 3 % by month 6.
-        - **Low-traffic case (1 900 clicks):** at 8-10 % by month 3, 5 % by month 6, 3 % by month 9.
-    - Anything ≤ 1 % conversion loses money on both plans.
----
+_(14 days to spend $500 cash → credit appears → 14 days to burn $500 credit; total media value $1000, total **cash outlay $500**)_
 
-## 1. Assumptions used
+| Assumption                  | Value                                                       |
+| --------------------------- | ----------------------------------------------------------- |
+| Cash spent                  | **$500** (first 14 days)                                    |
+| Credit spent                | $500 (days 15-28)                                           |
+| Daily delivery              | ≈ $36                                                       |
+| 28-day click range          | **1,760 – 3,400** (based on Reddit’s 63-119 clicks per $36) |
+| CPC range                   | ≈ $0.30 – $0.57                                             |
+| Conversion scenarios        | **1 %, 3 %, 5 %, 8 %, 10 %**                                |
+| Plans modelled              | $2.99 / month & $24.99 / year                               |
+| Cash CAC = $500 �� sign-ups | $1.52 – $28.41                                              |
 
-| Parameter                       | Value                                                   |
-| ------------------------------- | ------------------------------------------------------- |
-| Total ad spend (cash + credit)  | **$1 000**                                              |
-| Daily spend range               | $36 – $43.50                                            |
-| 30-day click range              | **1 890 – 3 570**                                       |
-| Subscription price (monthly)    | **$2.99**                                               |
-| Subscription price (annual)     | **$24.99**                                              |
-| Evaluation windows              | 1, 3, 6, 9, 12 months                                   |
-| Conversion scenarios            | **1 %, 3 %, 5 %, 8 %, 10 %** of clicks to paid sign-ups |
-| Churn, refunds, processing fees | **Not modeled** (assumes full retention over horizon)   |
+**Why only $500 cash?** Reddit’s credit drops _after_ we’ve spent the first $500 and is consumed automatically until it hits $0 – with no warning ([business.reddithelp.com](https://business.reddithelp.com/s/article/Advertiser-credits?utm_source=chatgpt.com "Terms & Conditions: Ad Credits | Reddit Ads Help")).  
+Hitting the $500 threshold within the first 14 days is required to earn the credit ([business.reddithelp.com](https://business.reddithelp.com/s/article/Advertiser-credits?utm_source=chatgpt.com "Terms & Conditions: Ad Credits | Reddit Ads Help")).
 
 ---
 
-## 2. Customer acquisition cost (CAC)
+## 1. ROI matrix — **$2.99 monthly plan** (mid-traffic ~2,600 clicks)
 
-| Scenario                | 1 %    | 3 %    | 5 %    | 8 %   | 10 %  |
-| ----------------------- | ------ | ------ | ------ | ----- | ----- |
-| **Low clicks (1 890)**  | $52.91 | $17.64 | $10.58 | $6.61 | $5.29 |
-| **High clicks (3 570)** | $28.01 | $ 9.34 | $ 5.60 | $3.50 | $2.80 |
+| Conv-rate | Sign-ups | **Cash CAC** | 1 mo      | 3 mo       | 6 mo       | 9 mo        | 12 mo       |
+| --------- | -------- | ------------ | --------- | ---------- | ---------- | ----------- | ----------- |
+| **1 %**   | 26       | $19.23       | –84 %     | –53 %      | –7 %       | +40 %       | +87 %       |
+| **3 %**   | 78       | $ 6.41       | –53 %     | +40 %      | **+180 %** | **+320 %**  | **+460 %**  |
+| **5 %**   | 130      | $ 3.85       | –22 %     | **+133 %** | **+366 %** | **+600 %**  | **+833 %**  |
+| **8 %**   | 208      | $ 2.40       | **+24 %** | **+273 %** | **+646 %** | **+1019 %** | **+1393 %** |
+| **10 %**  | 260      | $ 1.92       | **+55 %** | **+366 %** | **+833 %** | **+1299 %** | **+1766 %** |
 
----
+**Break-even speed (monthly plan)**
 
-## 3. ROI matrices
-
-_ROI = (Revenue – $1 000) / $1 000_  
-_Green = positive return, Red = negative._
-
-### 3a. **Monthly plan – $2.99**
-
-#### Low-delivery case (≈ 1 900 clicks)
-
-| Conv. Rate | 1 mo  | 3 mo      | 6 mo       | 9 mo       | 12 mo      |
-| ---------- | ----- | --------- | ---------- | ---------- | ---------- |
-| **1 %**    | -94 % | -83 %     | -66 %      | -49 %      | -32 %      |
-| **3 %**    | -83 % | -49 %     | **+2 %**   | **+53 %**  | **+103 %** |
-| **5 %**    | -72 % | -15 %     | **+70 %**  | **+154 %** | **+239 %** |
-| **8 %**    | -55 % | **+36 %** | **+171 %** | **+307 %** | **+443 %** |
-| **10 %**   | -43 % | **+70 %** | **+239 %** | **+409 %** | **+578 %** |
-
-_Break-even months:_ 3 % (9 mo), 5 % (6 mo), 8 %+ (≤ 3 mo).
+- Low traffic (≈ 1,760 clicks): 
+	- 5 % → 6 mo 
+	- 3 % → 9 mo 
+	- 1 % never recovers inside 12 mo
+- Mid traffic (≈ 2,600): 
+	- 5 % & 8 % → 3 mo 
+	- 3 % → 3-6 mo 
+	- 1 % → 9 mo
+- High traffic (≈ 3,400): 
+	- 5 % → 1-3 mo 
+	- 3 % → 3 mo
+	- 1 % → 6 mo
 
 ---
 
-#### High-delivery case (≈ 3 600 clicks)
+## 2. ROI — **$24.99 annual plan** (mid-traffic, day 0)
 
-| Conv. Rate | 1 mo     | 3 mo       | 6 mo       | 9 mo       | 12 mo        |
-| ---------- | -------- | ---------- | ---------- | ---------- | ------------ |
-| **1 %**    | -89 %    | -68 %      | -36 %      | -4 %       | **+28 %**    |
-| **3 %**    | -68 %    | -4 %       | **+92 %**  | **+188 %** | **+284 %**   |
-| **5 %**    | -47 %    | **+60 %**  | **+220 %** | **+380 %** | **+540 %**   |
-| **8 %**    | -15 %    | **+156 %** | **+412 %** | **+669 %** | **+925 %**   |
-| **10 %**   | **+7 %** | **+220 %** | **+540 %** | **+861 %** | **+1 181 %** |
+| Conv-rate | Sign-ups | Cash CAC | **Immediate ROI** |
+| --------- | -------- | -------- | ----------------- |
+| **1 %**   | 26       | $19.23   | +30 %             |
+| **3 %**   | 78       | $ 6.41   | +290 %            |
+| **5 %**   | 130      | $ 3.85   | +550 %            |
+| **8 %**   | 208      | $ 2.40   | +940 %            |
+| **10 %**  | 260      | $ 1.92   | +1199 %           |
 
-_Break-even months:_ 10 % (1 mo), 5 - 8 % (3 mo), 3 % (6 mo), 1 % (≈ 12 mo).
-
----
-
-### 3b. **Annual plan – $24.99**
-
-_(Revenue is collected up-front, so ROI is the same at every horizon)_
-
-| Scenario                | 1 %   | 3 %        | 5 %        | 8 %        | 10 %       |
-| ----------------------- | ----- | ---------- | ---------- | ---------- | ---------- |
-| **Low clicks (1 900)**  | -53 % | **+42 %**  | **+136 %** | **+278 %** | **+372 %** |
-| **High clicks (3 600)** | -11 % | **+168 %** | **+346 %** | **+614 %** | **+792 %** |
-
-_Break-even threshold:_ **≥ 3 % conversion** in both traffic ranges.
+_Annual plan is profitable even at 1 % conversion; 3 %+ is a windfall._
 
 ---
 
-## 4. Key take-aways & recommendations
+## 3. What this tells us
 
-1. **Traffic matters almost as much as conversion.** Doubling clicks nearly halves CAC and pulls the breakeven point forward by 3-6 months on the monthly plan.    
-2. **Annual plan is the safety net.** A 3 % conversion to annual subscribers puts us in the black on day 1; offering an annual-only intro price could derisk the test.
-3. **Monthly plan needs either volume or patience.**
-    - If we hit Reddit’s upper-range traffic **or** ≥ 5 % conversion, payback drops to ≤ 3 months.
-    - At low traffic and 1 - 3 % conversion, expect a **6-12 month** payback.
-4. **Creative & targeting calibration is crucial.** r/Pickleball is highly niche; consider A/B testing headlines and creative aimed at “new players,” “gear junkies,” and “league captains” to nudge conversion toward the 5-8 % zone.
-5. **Next step:** run a 7-day pilot capped at $300 spend (~600-1 000 clicks). We’ll know by day 8 whether we’re pacing toward ≥ 3 % conversion; if so, scale to the full $1 000 promo. If not, iterate creative before burning the credit
+1. **Cut-in-half cash risk, doubled ROI.** Because the credit pays for half the media, every dollar of revenue is offset against only $500 cash, halving CAC and pushing ROI curves sharply upward. 
+2. **Monthly plan needs either volume _or_ conversion.**
+    - Mid-traffic + 5 % conversion → payback inside **3 months**.
+    - Low traffic + 3 % conversion → payback drifts to **9 months**.
+3. **Annual plan derisks the test.** A 3 % conversion rate covers cash _immediately_; even the pessimistic 1 % scenario is above water.
+4. **Operational guard-rails**
+    - Pace $500 cash by **July 7** or the promo never unlocks.
+    - Once credit arrives, **watch the balance daily** — Reddit won’t warn when it flips to your card.
+    - If CPC rises above **$0.70** or sign-ups track below **3 %**, pause when the credit hits $0; worst-case loss remains $500.
+
+---
+
+### Recommendation
+
+_Run the full $1 000 media value, but measure two checkpoints:_
+
+|Checkpoint|What to look for|Action|
+|---|---|---|
+|**July 1** (≈ $500 spent)|CPC ≤ $0.70 _and_ conversion ≥ 3 %|If not, tweak bids/creative before credit phase.|
+|**Credit hits $0**|ROI vs targets in table above|Pause if ROI target unmet; otherwise continue on cash.|
+
+This approach secures the promo’s upside while capping downside to $500. Let me know if you’d like an automated alert on credit balance or a shareable pacing sheet.
