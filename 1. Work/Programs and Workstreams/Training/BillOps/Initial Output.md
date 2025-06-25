@@ -52,18 +52,18 @@ The following table provides a clear, side-by-side comparison of the financial a
 
 **Table 1: Cloud Resale Financial Flow Analysis**
 
-|Tier|1-Tier (Direct Resale) Scenario|2-Tier (Indirect Resale) Scenario|
-|---|---|---|
-||**Financial Flow**|**Financial Flow**|
-|**Cloud Provider**|Charges Direct Reseller **$8,500** (15% discount on $10,000 list price).|Charges Distributor **$8,500** (15% discount on $10,000 list price).|
-|**Distributor**|_Not Applicable_|Charges Indirect Reseller **$9,000** (10% discount). **Earns $500 margin (5%).**|
-|**Direct Reseller**|Charges End Customer **$9,500** (5% discount). **Earns $1,000 margin (10%).**|_Not Applicable_|
-|**Indirect Reseller**|_Not Applicable_|Charges End Customer **$9,500** (5% discount). **Earns $500 margin (5%).**|
-|**End Customer**|Pays **$9,500**.|Pays **$9,500**.|
-||**Service & Billing Responsibility**|**Service & Billing Responsibility**|
-|**Billing & Invoicing**|Direct Reseller is responsible for invoicing the end-customer and reconciling the master bill from the Cloud Provider.|Distributor invoices the Indirect Reseller. Indirect Reseller invoices the end-customer.|
-|**First-Line Support**|Direct Reseller provides all first-line support to the end-customer.|Indirect Reseller provides first-line support, with escalation path to the Distributor.|
-|**Value-Add Services**|Direct Reseller provides all value-added services (e.g., managed services, FinOps consulting).|Indirect Reseller provides value-added services. Distributor may offer platform tools and enablement.|
+| Tier                    | 1-Tier (Direct Resale) Scenario                                                                                        | 2-Tier (Indirect Resale) Scenario                                                                     |
+| ----------------------- | ---------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------- |
+|                         | **Financial Flow**                                                                                                     | **Financial Flow**                                                                                    |
+| **Cloud Provider**      | Charges Direct Reseller **$8,500** (15% discount on $10,000 list price).                                               | Charges Distributor **$8,500** (15% discount on $10,000 list price).                                  |
+| **Distributor**         | _Not Applicable_                                                                                                       | Charges Indirect Reseller **$9,000** (10% discount). **Earns $500 margin (5%).**                      |
+| **Direct Reseller**     | Charges End Customer **$9,500** (5% discount). **Earns $1,000 margin (10%).**                                          | _Not Applicable_                                                                                      |
+| **Indirect Reseller**   | _Not Applicable_                                                                                                       | Charges End Customer **$9,500** (5% discount). **Earns $500 margin (5%).**                            |
+| **End Customer**        | Pays **$9,500**.                                                                                                       | Pays **$9,500**.                                                                                      |
+|                         | **Service & Billing Responsibility**                                                                                   | **Service & Billing Responsibility**                                                                  |
+| **Billing & Invoicing** | Direct Reseller is responsible for invoicing the end-customer and reconciling the master bill from the Cloud Provider. | Distributor invoices the Indirect Reseller. Indirect Reseller invoices the end-customer.              |
+| **First-Line Support**  | Direct Reseller provides all first-line support to the end-customer.                                                   | Indirect Reseller provides first-line support, with escalation path to the Distributor.               |
+| **Value-Add Services**  | Direct Reseller provides all value-added services (e.g., managed services, FinOps consulting).                         | Indirect Reseller provides value-added services. Distributor may offer platform tools and enablement. |
 
 Understanding this financial and operational reality is paramount for a successful sales engagement. It allows the sales team to move beyond a generic product pitch and speak directly to the partner's business model. For the Direct Reseller, who has a larger potential margin to defend, the conversation centers on **protecting that margin** by automating the costly and error-prone operational tasks of billing and support. For the Indirect Reseller, whose margins are thinner, the conversation focuses on **enabling them to capture more value** by using CloudBolt to power new, high-margin managed services, such as a FinOps advisory practice, that they can sell to their customers. The table provides the essential financial context for these tailored and far more effective sales narratives.
 
