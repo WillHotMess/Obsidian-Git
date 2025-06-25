@@ -111,3 +111,29 @@ Unlike solutions that create tool sprawl or rely on imprecise estimates, CloudBo
 Stop accepting multi-million-dollar blind spots in your cloud strategy. CloudBolt's Augmented FinOps platform doesn't just restore visibility—it creates a strategic data asset that drives intelligent, profitable cloud decisions across your entire organization.
 
 **Ready to master your specialized compute costs? See how leading enterprises achieve 100% cost attribution and unlock 30%+ in savings with CloudBolt.**
+
+
+Hey Sales Team! 👋
+
+**Bottom line up front:** If we don't have **24 customers registered by the end of July**, we may need to cancel the customer event.
+
+## What We Need From You:
+
+- **Target audience:** Champions (buying committee) from your **late-stage Q3/Q4 deals** (high confidence opportunities)
+- **Focus on strategic prospects** where this event could help advance the deal
+- **Quality over quantity** - we want the right people in the room
+
+## The Ask:
+
+Please reach out to your key prospects and customers THIS WEEK to invite them. This is a great opportunity to: 
+✅ Strengthen relationships with strategic accounts  
+✅ Advance deals by showcasing our platform vision  
+✅ Get valuable face-time with decision makers
+
+## Need a Gut Check?
+
+If you want to run a prospect by someone before inviting them, feel free to ping me, I'm to help you think through whether they'd be a good fit.
+
+**Remember:** No cost to customers except airfare - we're covering everything else.
+
+Let's make this happen! Drop your registrations in this thread so we can track progress.
