@@ -346,13 +346,13 @@ A successful discovery process moves beyond generic questions to probe the speci
 
 These questions are designed to uncover the immediate, operational pain felt by personas like Sandra.
 
-- "Could you walk me through your current, end-of-month billing process, from the moment you receive the provider bill to the moment the customer receives their invoice? How many people and how many business days does that entire process typically take?" 1
+- "Could you walk me through your current, end-of-month billing process, from the moment you receive the provider bill to the moment the customer receives their invoice? How many people and how many business days does that entire process typically take?" 
     
-- "How are you handling the application of customer-specific discounts, markups, and tiered pricing today? How much of that is a manual process?" [Image 2]
+- "How are you handling the application of customer-specific discounts, markups, and tiered pricing today? How much of that is a manual process?" 
     
-- "When a customer has a question about their bill, what is the process to get them an answer? How satisfied are they with the timeliness and detail of the information you can provide?" 1
+- "When a customer has a question about their bill, what is the process to get them an answer? How satisfied are they with the timeliness and detail of the information you can provide?"
     
-- "What would you estimate is the financial cost of a single billing error to your business, considering both the lost revenue and the time your team spends resolving the dispute?" 1
+- "What would you estimate is the financial cost of a single billing error to your business, considering both the lost revenue and the time your team spends resolving the dispute?"
     
 
 #### Questions for Strategic, Compliance, and Profitability Pain:
