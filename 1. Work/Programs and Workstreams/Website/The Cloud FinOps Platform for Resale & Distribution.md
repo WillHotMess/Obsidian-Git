@@ -50,9 +50,3 @@ Evolve your business model by launching the value-added FinOps services your cus
 Stop wrestling with spreadsheets and start scaling your cloud business. Join global cloud leaders who trust CloudBolt to automate billing, protect margins, and power their growth.
 
 **[Request a Demo]**
-
-In your personalized demo, you will see:
-- Your current, manual billing process fully automated on our platform.
-- How to eliminate revenue leakage with 100% reconciliation accuracy.
-- A clear ROI projection based on your specific cloud spend and operational costs.
-- Your go-live implementation plan to transform your operations in 90 days.
