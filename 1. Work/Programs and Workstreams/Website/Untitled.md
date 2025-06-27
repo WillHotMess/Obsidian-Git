@@ -19,12 +19,14 @@ You're stuck in one of three scenarios:
 
 ## Transform Your Cloud Business from a Reseller to a Strategic Partner
 
-CloudBolt is the only platform purpose-built for the unique challenges of cloud distribution, allowing you to **Protect Margins, Control Visibility, and Drive Services.**
+CloudBolt is the only platform purpose-built for the unique challenges of cloud distribution and FinOps, allowing you to **Protect Margins, Control Visibility, and Drive Services.**
 
 #### **Protect Your Margins**
 
 Stop leaving money on the table and eliminate operational overhead.
 - **Automate Billing & Reconciliation:** Reduce your billing cycle from weeks to hours.
+	- We were surprised at how few vendors offer both comprehensive infrastructure cost management together with automation and even governance capabilities. I wanted a single solution. One vendor to work with." Phil Redmond, General Manager of Services, Data#3
+
 - **Eliminate Revenue Leakage:** Use automated validation and parent-child hierarchies to ensure 100% billing accuracy and precise cost allocation. No more costly errors or credits for your mistakes.
 - **Protect Incentives:** Hide your margins and incentives, ensuring your profitability is never exposed to the end customer.
 
@@ -33,24 +35,21 @@ Stop leaving money on the table and eliminate operational overhead.
 Build trust by giving customers and internal teams the accurate, real-time data they need.
 
 - **Deliver Accurate Self-Service Reporting:** Provide white-labeled customer portals with 24/7 access to cloud spend data that perfectly matches their final invoice.
-    > **Proof:** "Quote"
+    > **Proof:** "If you've ever sold Azure, you've probably come across issues like monitoring usage and being able to show your customers their spend, including their margins; CloudBolt solves these issues." Desirre Kaluza, Product Manager, Giacom
 - **Unify Multi-Cloud Data:** Consolidate AWS, Azure, and Google Cloud data into a single, easy-to-understand view for allocation, chargeback, and reporting.
-    > **Proof:** "Quote"
 
 #### **Drive New High-Margin Services**
 
 Evolve your business model by launching the value-added FinOps services your customers want.
 - **Provide Modern FinOps Capabilities:** Offer sophisticated cost analysis, forecasting, and optimization recommendations to help customers understand and control their cloud spend.
+	- **Proof:** "From application developers to senior leaders, our clients have come to love the CloudBolt platform compared to their existing manual reporting processes." Bill Meeks, Azure Practice Lead, Marquam
 - **Differentiate from the Competition:** Stand out in a crowded market by moving beyond pure resale to become a strategic FinOps advisor, increasing customer loyalty and creating new revenue streams.
-    > **Proof:** "
-
-
 
 ### See How CloudBolt Transforms Your Billing Operations
 
 Stop wrestling with spreadsheets and start scaling your cloud business. Join global cloud leaders who trust CloudBolt to automate billing, protect margins, and power their growth.
 
-**[Request Your Custom Demo]**
+**[Request a Demo]**
 
 In your personalized demo, you will see:
 - Your current, manual billing process fully automated on our platform.
