@@ -2,11 +2,11 @@
 
 _Focus on the content "above the fold" that creates the critical first impression._
 
-|#|Guiding Question|Core Principle (Why it Matters)|
-|---|---|---|
-|**1**|What **market category** are we placing our product in with our headline, and does this choice make our unique strengths obvious?|Your headline sets the context. A good category choice makes your value instantly understandable; a bad one creates confusion.|
-|**2**|Does the sub-header immediately identify **who this is for** and hint at the primary **value** they will receive?|Attract your "best-fit" customers and signal the core benefit right away. This acts as a powerful filter.|
-|**3**|Does the hero section's content (text and visuals) pass the **"quacks like a duck" test** for our chosen market category?|Your design and tone must match the expectations of your declared market. Mismatches erode trust.|
+| #     | Guiding Question                                                                                                                  | Core Principle (Why it Matters)                                                                                                |
+| ----- | --------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **1** | What **market category** are we placing our product in with our headline, and does this choice make our unique strengths obvious? | Your headline sets the context. A good category choice makes your value instantly understandable; a bad one creates confusion. |
+| **2** | Does the sub-header immediately identify **who this is for** and hint at the primary **value** they will receive?                 | Attract your "best-fit" customers and signal the core benefit right away. This acts as a powerful filter.                      |
+| **3** | Does the hero section's content (text and visuals) pass the **"quacks like a duck" test** for our chosen market category?         | Your design and tone must match the expectations of your declared market. Mismatches erode trust.                              |
 
 ### **Section 2: The Core Narrative (Building the Case)**
 
