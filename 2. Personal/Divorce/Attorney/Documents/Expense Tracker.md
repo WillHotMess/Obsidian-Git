@@ -129,14 +129,15 @@ Housing:
 □ Homeowners Insurance: $151.67/month ($1,820 annual) ✓
 □ Property taxes (if not in mortgage): ?
 □ Routine house maintenance: ?
+	□ Yard maintenance: $450 ✓
+	□ Pest control: $99 ✓
 □ Electricity (Piedmont): $205.04 ✓
 □ Gas/heating (Dominion): $101.63 ✓
-□ Water: N/A - Well Water
+□ Water: 
+	- N/A - Well Water
 □ Garbage: $43.33/month ($130 quarterly) ✓
 □ Internet (Spectrum): $99.99 ✓
 □ Telephone: (part of $218.08 cell?) Yes 
-□ Yard maintenance: $450 ✓
-□ Pest control: $99 ✓
 
 Transportation:
 □ Auto payment: $455 ✓
@@ -192,10 +193,11 @@ From your draft separation agreement, you have:
 ## **Questions for Clarification:**
 
 - Is Miller in daycare or receiving ABA therapy? (This goes in work-related childcare)
-	- 
+	- No daycare. She is in ABA for Autism, 
 - Do you pay for health insurance through CloudBolt?
 	- Yes
 - What’s included in that $218.08 cell phone bill? (yours + Hannah’s + Miller’s line?)
+	- Hannah’s total is 
 - Any 401k contributions or other retirement savings?
 - Property taxes - included in mortgage or separate?
 
