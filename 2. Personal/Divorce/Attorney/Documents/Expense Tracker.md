@@ -29,6 +29,23 @@
 - Cell Phone: $218.08 (Monthly average)
 - Pet Insurance: 
 
+### **Voluntary Monthly Deductions (Page 2 of affidavit):**
+
+```
+Health Insurance: $354.54
+Dental Insurance: $32.61
+Vision Insurance: $4.53
+Life Insurance: $0.00 (employer-paid)
+Disability Insurance: $0.00 (employer-paid)
+```
+
+### **Part 2 - Individual Monthly Expenses (Medical section):**
+
+```
+Medical Insurance premium: $354.54 (covers you + Hannah + Miller)
+Dental/Vision Insurance premium: $37.14 ($32.61 + $4.53)
+```
+
 
 ---
 ```
@@ -182,4 +199,3 @@ From your draft separation agreement, you have:
 - Any 401k contributions or other retirement savings?
 - Property taxes - included in mortgage or separate?
 
-Hey Nicole, I heard about Jonny. I can’t even imagine how traumatizing last night must have been. Stay strong for Jonny and please let me know how I can help in any way. I am so glad he is in good hands at the hospital. Don’t rush leaving, when he is there, he is in good hands. His
