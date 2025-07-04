@@ -181,3 +181,5 @@ From your draft separation agreement, you have:
 - What’s included in that $218.08 cell phone bill? (yours + Hannah’s + Miller’s line?)
 - Any 401k contributions or other retirement savings?
 - Property taxes - included in mortgage or separate?
+
+Hey Nicole, I heard about Jonny. I can’t even imagine how traumatizing last night must have been. Stay strong for Jonny and please let me know how I can help in any way. I am so glad he is in good hands at the hospital. Don’t rush leaving, when he is there, he is in good hands. His
