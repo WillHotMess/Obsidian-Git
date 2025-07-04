@@ -197,7 +197,9 @@ From your draft separation agreement, you have:
 - Do you pay for health insurance through CloudBolt?
 	- Yes
 - What’s included in that $218.08 cell phone bill? (yours + Hannah’s + Miller’s line?)
-	- Hannah’s total is 
+	- Hannah’s total is $81.25 monthly
 - Any 401k contributions or other retirement savings?
+	- Yes. Included in my paystubs
 - Property taxes - included in mortgage or separate?
+	- I 
 
