@@ -1,7 +1,8 @@
 
 
 **Mortgage:**
-- $3,911.00
+- Mortgage: $3,911.00 
+- Home Insurance: 
 
 **Utilities**
 - Internet Spectrum: $99.99
@@ -11,7 +12,7 @@
 **Transportation:** 
 - Auto Lease: $455 
 - Gas: $300
-- Insurance: $158.23 ($949.38 every 6 months)
+-  Car Insurance: $158.23 ($949.38 every 6 months)
 
 **Home Services:**
 - Landscaping: $450
@@ -19,6 +20,7 @@
 - 
 
 **Groceries:**
+- Groceries: $1500 
 
 
 **Other:**
