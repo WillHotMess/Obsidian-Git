@@ -16,7 +16,7 @@
 
 ## Executive Summary
 
-Q2 2025 delivered exceptional pipeline generation with **$4.3M created (157% of target)**, though conversion to closed business remains a challenge with only **$45K closed won (1.1% of pipeline)**. The quarter generated **66 total opportunities (264% of target)**, leaving us with **$3.6M in open pipeline** heading into Q3. While top-of-funnel metrics slightly missed targets, our SQL generation significantly overperformed at 136%, indicating improved lead quality.
+Q2 2025 delivered exceptional pipeline generation with **$4.3M created (157% of target)**, though conversion to closed business remains a challenge with only **$45K closed won.** The quarter generated **66 total opportunities (264% of target)**, leaving us with **$3.6M in open pipeline** heading into Q3. While top-of-funnel metrics slightly missed targets, our SQL generation significantly overperformed at 136%, indicating improved lead quality.
 
 ## Q2 Pipeline Creation & Outcomes
 
@@ -39,12 +39,13 @@ Q2 2025 delivered exceptional pipeline generation with **$4.3M created (157% of 
 
 ## Funnel Metrics Performance
 
-|Stage|Q2 Actual|Q2 Target|% to Target|Conversion Rate|
-|---|---|---|---|---|
-|**MQLs**|128|134|95.5%|-|
-|**SALs**|92|126|73.0% ⚠️|71.9% (Target: 94%)|
-|**SQLs**|45|33|136.4% ✓|48.9% (Target: 26%) ✓|
-|**Opportunities**|66|25|264.0% ✓|146.7% (Target: 76%) ✓|
+| Stage             | Q2 Actual | Q2 Target | % to Target | Conversion Rate        |
+| ----------------- | --------- | --------- | ----------- | ---------------------- |
+| **MQLs**          | 128       | 134       | 95.5%       | -                      |
+| **SALs**          | 92        | 126       | 73.0% ⚠️    | 71.9% (Target: 94%)    |
+| **SQLs**          | 45        | 33        | 136.4% ✓    | 48.9% (Target: 26%) ✓  |
+| **Opportunities** | 66        | 25        | 264.0% ✓    | 146.7% (Target: 76%) ✓ |
+|                   |           |           |             |                        |
 
 ### Key Conversion Insights:
 
@@ -63,15 +64,13 @@ Q2 2025 delivered exceptional pipeline generation with **$4.3M created (157% of 
 |**Callum Murrell**|$1,075,000|$0|$615,000|14|
 |**Samantha Harrison**|$850,000|$0|$850,000|8|
 
-_Note: Josh Sides generated all closed won revenue despite lower average deal size_
-
 ## Q2 Monthly Pipeline Trend
 
-|Month|Opportunities|Pipeline Value|Avg Deal Size|
-|---|---|---|---|
-|**April**|19|$1,600,360|$84,229|
-|**May**|33|$1,668,680|$50,566|
-|**June**|14|$1,010,000|$72,143|
+| Month     | Opportunities | Pipeline Value | Avg Deal Size |
+| --------- | ------------- | -------------- | ------------- |
+| **April** | 19            | $1,600,360     | $84,229       |
+| **May**   | 33            | $1,668,680     | $50,566       |
+| **June**  | 14            | $1,010,000     | $72,143       |
 
 **Trend Analysis**: Pipeline generation peaked in May but average deal size declined, suggesting potential quality vs quantity trade-off
 
@@ -84,14 +83,6 @@ _Note: Josh Sides generated all closed won revenue despite lower average deal si
 |**Other**|6|$760,000|$126,667|
 |**Event/Tradeshow**|12|$514,900|$42,908|
 |**Referrals**|11|$502,600|$45,691|
-
-## Sales Play Analysis
-
-### Most Successful Plays (by pipeline value)
-
-1. **Sell StormForge**: 32 opps, $989K total, $893K open
-2. **CSMP - FinOps**: 11 opps, $965K total, $910K open
-3. **CMP - MSP Data Center + CSMP - FinOps**: 4 opps, $825K total, $825K open
 
 ## Key Wins & Learnings
 
