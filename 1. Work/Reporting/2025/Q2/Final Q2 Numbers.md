@@ -35,17 +35,15 @@ Q2 2025 delivered exceptional pipeline generation with **$4.3M created (157% of 
 |**Closed Lost**|8|$610,400|14.3%|
 |**Remaining Open**|54|$3,623,280|84.7%|
 
-**Win Rate: 33.3%** (vs 15% target) - Strong win rate on limited closed deals
-
 ## Funnel Metrics Performance
 
-| Stage             | Q2 Actual | Q2 Target | % to Target | Conversion Rate        |
-| ----------------- | --------- | --------- | ----------- | ---------------------- |
-| **MQLs**          | 128       | 134       | 95.5%       | -                      |
-| **SALs**          | 92        | 126       | 73.0% ⚠️    | 71.9% (Target: 94%)    |
-| **SQLs**          | 45        | 33        | 136.4% ✓    | 48.9% (Target: 26%) ✓  |
-| **Opportunities** | 66        | 25        | 264.0% ✓    | 146.7% (Target: 76%) ✓ |
-|                   |           |           |             |                        |
+| Stage             | Q2 Actual | Q2 Target | % to Target |
+| ----------------- | --------- | --------- | ----------- |
+| **MQLs**          | 128       | 134       | 95.5%       |
+| **SALs**          | 92        | 126       | 73.0% ⚠️    |
+| **SQLs**          | 45        | 33        | 136.4% ✓    |
+| **Opportunities** | 66        | 25        | 264.0% ✓    |
+|                   |           |           |             |
 
 ### Key Conversion Insights:
 
