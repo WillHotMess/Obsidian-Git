@@ -68,34 +68,40 @@ Our goals for this off-site were the following:
 			4. Why CloudBolt (Build, Manage, Optimize story)
 
 
-What’s listed above are extremely lofty goals that we plan on rolling out throughout Q3. Much of this can be rolled quickly and without much overhead, but some of this will require site architecture changes and support from our website agency. With that said, here is a brief overview of our time horizons: 
-- Next week:
+What’s listed above are extremely lofty goals that we plan on rolling out throughout Q3. Much of this can be rolled quickly and without much overhead, but some of this will require site architecture changes and support from our website agency. 
+
+With that said, here is a brief overview of our time horizons: 
+- This week:
 	- All copy for Home page signed off and ready.
 	- All copy for solution “Hero” pages signed off and ready. 
 	- Final verbiage and layout for navigation signed off and ready
-	- Final Capabilities and Personas selected and signed off
-	- Clear understanding from our website agency as to scope, timeline, and costs of ”good, better, best” project. 
+	- Final Capabilities and Personas selected and signed off (not drafted)
+	- Rough understanding from our website agency as to scope, timeline, and costs of ”good, better, best” project. 
 	- ExComm + ELT “Show and Tell” with early mockups =
 - By July 31st
-	- Hero pages in production
-	- Pesona pages in production 
-	- Capability pages in production 
+	- Hero pages (copy only) in production
+	- Persona pages (copy only) in production 
+	- Capability pages (copy only) in production 
 	- V1 of Home Page in production 
 		- Verbiage updates only
 	- V1 of navigation in production
 	- Home Page graphics and interactive section storyboard, copy, and mock-ups completed. 
 - By August 21st
-	- All in-house graphics (derived product renders, motion graphics / gifs, and non-home page headers) completed. 
+	- All in-house graphics (derived product renders, motion graphics / gifs, and non-home page headers) completed and in production. 
 	- Demo, free trial, and marketplace button placement across pages
 	- Finalize Zinger videos and StoryLane demos and link in relevant sections
 - TBD
 	- Major Home Page changes including 
 		- Interactive form submission
 		- Thematic visual additions 
-		- interactive graphic rails
+			- Header
+			- Background 
+			- etc
+		- Interactive graphic rails
+			- Venn Diagram
 
 Coming Week (July 14-18)
-We’re focused on finalizing all the foundational content, scopinf with our agency, and meeting with ELT to share timelines/mockups/drafts. 
+We’re focused on finalizing all the foundational content, scoping with our agency, and meeting with ELT to share timelines/mockups/drafts. 
 
 
 End of Month:
