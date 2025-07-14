@@ -2,7 +2,8 @@ Opening Context
 	•	Acknowledge this time apart has given me clarity
 	•	Not here to blame, but to be honest about what I’ve learned about myself
 	•	Want to explore if there’s a path forward or if we should focus on co-parenting
-1. Life Engagement & Energy Mismatch
+
+Life Engagement & Energy Mismatch
 The Pattern:
 	•	Constant “Are you okay?” questions
 	•	Always melancholy responses (headache, tired, don’t feel well)
@@ -17,7 +18,8 @@ The Question:
 	•	Is this depression/anxiety you want to work on?
 	•	Or is this just who you are and want to be?
 	•	Because if it’s the latter, we’re incompatible
-2. The Villain Narrative
+
+The Villain Narrative
 The Hurt:
 	•	You’ve rewritten our 11 years as toxic/abusive
 	•	Public social media posts about being in toxic relationship
@@ -31,7 +33,8 @@ The Boundary:
 	•	“I can’t get back with somebody who thinks I’m a villain”
 	•	If you don’t see me as good-hearted person, why would you want me back?
 	•	Why would I run toward someone who thinks I’m toxic?
-3. The Safety Issue - Walking Away
+
+The Safety Issue - Walking Away
 What Broke:
 	•	When you left, something in me broke
 	•	I believe marriages don’t just give up and leave
