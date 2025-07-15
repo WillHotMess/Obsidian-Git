@@ -110,3 +110,7 @@ August 21st (Enhanced Features)
 This phase focuses on functionality and engagement. All in-house graphics go live, demo/trial/marketplace buttons get deployed across every relevant page, and we’ll have Zinger videos and StoryLane demos created and integrated throughout the experience. The full navigation experience will be live at this point.
 TBD - Phase 2 (The Big Stuff)
 The major visual overhaul happens here - interactive homepage form, complete visual transformation of the home page, and interactive graphic rails. Timeline for Phase 2 depends entirely on agency capacity and budget approval. We could either accelerate this into late Q3 or push to Q4 depending on priorities and resource allocation.
+
+Hey Rod, 
+
+I usually keep a personal log of the product that the customer is inquiring about in m 
