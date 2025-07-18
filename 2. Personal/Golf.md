@@ -42,4 +42,6 @@
 - Punch shot under trees: Club down, ball back in stance
 - High soft landing: Club up, open face slightly
 
-**Remember:** Higher loft = higher trajectory and more spin with less distance. Lower loft = lower trajectory and more roll with greater distance[4].
+**Remember:** 
+- Higher loft = higher trajectory and more spin with less distance. 
+- Lower loft = lower trajectory and more roll with greater distance.
