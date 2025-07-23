@@ -14,6 +14,8 @@
 - Cloud Reselling
 - FinOps 
 
+# Additionally, I have attached the best practices from the book Fanatical Prospecting for industry best practices. 
+
 # Finally, I have attached an example of playbooks that our CEO wants to model on. 
 
 ```
