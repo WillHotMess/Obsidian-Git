@@ -110,7 +110,7 @@ Based on the materials provided, here's a comprehensive outline for Block 2 of y
     - Differentiate services
     - Scale efficiently
 
----
+	---
 
 ### **Slide 7: The SPIN Discovery Framework**
 
