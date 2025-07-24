@@ -40,3 +40,38 @@ End the call with clear, simple, and immediate next steps.
 - **My Action Item:** "I will draft the initial talk tracks for Lobster and Cigna and set up interviews with them."
 - **Your Action Item:** "By the end of this week, I need each track owner to send me **3-5 bullet points** outlining the core message of their section. Don't worry about slides, just the key ideas you want to communicate. We'll use those to build the first draft of the presentations."
 - **Next Meeting:** "I'll put another check-in on the calendar for next week to review progress."
+Here is a summary of the meeting for your team's Slack channel.
+
+---
+
+**Quick Recap: Converge Content Planning Call**
+
+Thanks for making time today, everyone. For those who couldn't join, here’s a quick summary of our discussion and next steps.
+
+Our primary focus is to tell one cohesive story across the **Build, Manage, and Optimize** tracks. The goal is to break down silos and show how our solutions work together, ensuring the entire event is engaging for all attendees.
+
+### Session Assignments & Customer Speakers
+
+Here is the confirmed alignment for speakers and customer stories:
+
+- **Build Track**
+    - **Speakers:** @Mike Bombard, @auggy
+    - **Customer:** Lobster _(Confirmed)_
+        
+- **Manage Track**
+    - **Speakers:** @rak, @yasmin
+    - **Customer:** Cigna _(In discussion)_
+        
+- **Optimize Track**
+    - **Speakers:** @kcampos, @yasmin
+    - **Customer:** TBD _(DXC is unlikely; we may lean on Chuck from DXC for a thought leadership spot)_
+
+### Action Items & Next Steps
+
+- **For Speakers:** Please review the draft outlines pinned in this channel. The goal is not for you to build full presentations. Instead, please provide a rough draft of your key talking points and ideas.
+    Once I have your rough outlines, I will do the heavy lifting of building out the initial PowerPoint decks for us to review and refine together.
+    
+- **Timeline:** Let's aim to have the outlines in a good place over the next ~3 weeks. I’ll start creating the PowerPoint decks in the third week of August.
+    
+
+Great discussion today! I hope everyone is feeling good about our path forward.
