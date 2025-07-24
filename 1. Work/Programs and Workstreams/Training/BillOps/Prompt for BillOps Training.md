@@ -44,11 +44,11 @@ Here we will focus on personas, discovery questions, and how our product solves 
 
 # I am going to provide you with the following assets: 
 - A transcript of block one enablement
-- A solution guide of our product 
 - Website copy
 - A list of BANT discovery questions
 - Insight from real customer calls 
-- 
+- The slides I already have built 
 
+# Now, please create an outline with text for each slide we should add to today's presentation. 
 
 ```
