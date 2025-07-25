@@ -8,7 +8,7 @@ To help everyone get on the same page with Kubernetes, here’s a simple analogy
 
 Airlines need to be efficient to be profitable. They can't afford to fly half-empty planes. Their goal is to make sure every flight is as full as possible without causing chaos.
 
-Kubernetes has the exact same goal: it wants to run our servers (our "airplanes") as efficiently as possible. It does this by "overbooking" the resources, betting that not all applications will need their absolute maximum power at the exact same time.
+Kubernetes has the exact same goal: it wants to run our servers (our "airplanes") as efficient ly as possible. It does this by "overbooking" the resources, betting that not all applications will need their absolute maximum power at the exact same time.
 
 Here’s how the pieces map together:
 
