@@ -144,7 +144,3 @@
 
 > _"Move from reactive mode to continuous optimization, where FinOps is operationalized across teams. That's what will separate the teams who stay reactive from those who lead in the AI era."_
 
-
-match tracking, analytics, paddle management
-
-- `Pickleball Journal: Match Tracker`
