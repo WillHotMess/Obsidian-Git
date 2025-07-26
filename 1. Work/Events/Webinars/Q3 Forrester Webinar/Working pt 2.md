@@ -80,11 +80,11 @@
 
 ### Meanwhile, the Execution Gap Widens
 
-|Claimed vs. Reality|Percentage|
-|---|---|
-|**65%**|Say 20%+ of optimization recommendations go unimplemented|
-|**58%**|Take weeks or longer to remediate cloud waste|
-|**17%**|Actually have fully automated environments|
+| Claimed vs. Reality | Percentage                                                |
+| ------------------- | --------------------------------------------------------- |
+| **65%**             | Say 20%+ of optimization recommendations go unimplemented |
+| **58%**             | Take weeks or longer to remediate cloud waste             |
+| **17%**             | Actually have fully automated environments                |
 
 ### The Problem Behind the Problem
 
