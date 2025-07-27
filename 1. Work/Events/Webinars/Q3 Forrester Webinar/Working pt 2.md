@@ -1,21 +1,25 @@
 # The Cloud+ Confidence Crisis
 
-## Teams Think They're Ready for Expanded Scopes, But Are They?
+## 72% of IT Leaders Say Their Teams Are Ready for Cloud+ Scopes. But Are We?
 
-### The Expansion Confidence
+### This Confidence Comes from the Top
+
+**350 senior IT leaders surveyed. 80% VP-level or above.** These aren't isolated voices—they're the executives responsible for translating cloud strategy into business value. The people driving billions in cloud spend.
+
+### The Scope Expansion Confidence
 
 **"How prepared is your team to expand FinOps practices beyond traditional public cloud?"**
 
-|Readiness Level|Percentage|
+|Readiness Level|% of IT Leaders|
 |---|---|
 |**Mostly or Fully Prepared**|**72%**|
 |**At Least Moderately Prepared**|**96%**|
 
 ### The Reality Check Question
 
-> _"If teams are this confident about expanding into SaaS, private cloud, and AI optimization... how are they performing with public cloud-only FinOps?"_
+> _"If IT leaders are this confident about expanding into SaaS, private cloud, and AI optimization... how are their teams actually performing with basic public cloud FinOps?"_
 
-**Let's examine three signals that suggest we might not be as ready as we think:**
+**Let's examine three signals from these same 350 executives that suggest we might not be as ready as we think:**
 
 ---
 
@@ -52,20 +56,20 @@
 
 # Signal #2: The Automation Illusion
 
-## Ready to optimize Across More Scopes? You're Not Even optimizing Current Scope Effectively
+## Ready to Automate Across More Scopes? You're Not Even Automating Current Scope Effectively
 
 ### The Shocking Reality of FinOps Priorities
 
 **What consistently receives priority across organizations? (Select all that apply)**
 
-| Optimization Activity                   | % Organizations |
-| --------------------------------------- | --------------- |
-| **Automated shutdown schedules**        | **41%**         |
-| **Identifying idle resources**          | **36%**         |
-| AI/ML assisted optimization             | **33%**         |
-| Commitment discount management          | **31%**         |
-| **Container/K8s optimization**          | **28%**         |
-| **Rightsizing underutilized resources** | **24%**         |
+|Optimization Activity|% Organizations|
+|---|---|
+|**Automated shutdown schedules**|**41%**|
+|**Identifying idle resources**|**36%**|
+|AI/ML assisted optimization|**33%**|
+|Commitment discount management|**31%**|
+|**Container/K8s optimization**|**28%**|
+|**Rightsizing underutilized resources**|**24%**|
 
 ### The Brutal Truth
 
@@ -80,11 +84,11 @@
 
 ### Meanwhile, the Execution Gap Widens
 
-| Claimed vs. Reality | Percentage                                                |
-| ------------------- | --------------------------------------------------------- |
-| **65%**             | Say 20%+ of optimization recommendations go unimplemented |
-| **58%**             | Take weeks or longer to remediate cloud waste             |
-| **17%**             | Actually have fully automated environments                |
+|Claimed vs. Reality|Percentage|
+|---|---|
+|**65%**|Say 20%+ of optimization recommendations go unimplemented|
+|**58%**|Take weeks or longer to remediate cloud waste|
+|**17%**|Actually have fully automated environments|
 
 ### The Problem Behind the Problem
 
@@ -141,20 +145,23 @@
 
 ## How This Reframes the Entire Webinar
 
-**Opening Hook:** "72% of FinOps teams say they're ready for Cloud+ scopes. But are they?"
+**Opening Hook:** "72% of IT leaders say their teams are ready for Cloud+ scopes. But are we?"
 
-**Tracy's Macro Context:** Sets up the scope expansion imperative and market forces
+**Credibility Anchor:** "This confidence comes from 350 senior IT executives—80% VP-level or above"
 
-**Kyle's Reality Check:** Three concrete signals that suggest current scope mastery is lacking
+**Tracy's Macro Context:** Sets up the scope expansion imperative and market forces driving IT leaders
 
-**The Payoff:** Organizations need to master connected action in their current scope before expanding - making this both a cautionary tale and a roadmap for getting ready for the inevitable scope expansion.
+**Kyle's Reality Check:** Three concrete signals from these same executives that suggest current scope mastery is lacking
+
+**The Payoff:** IT leaders need their teams to master connected action in their current scope before expanding - making this both a cautionary tale and a roadmap for getting ready for the inevitable scope expansion.
 
 **Visual Flow Suggestion:**
 
-- Start with the confidence statistics (72% ready)
-- Build tension with "But let's check three signals..."
-- Each signal reinforces the gap between confidence and capability
-- End with the scope expansion reality check and path forward
+- Start with the leadership confidence statistics (72% of IT leaders ready)
+- Establish credibility with the survey demographics
+- Build tension with "But let's check three signals from these same executives..."
+- Each signal reinforces the gap between executive confidence and operational capability
+- End with the scope expansion reality check and path forward for IT leaders
 
 ---
 
@@ -180,20 +187,20 @@
 
 ---
 
-## Connecting Thread: Are We Ready for Cloud+ Scopes?
+## Connecting Thread: Are IT Leaders Ready for Cloud+ Scopes?
 
-### The Evidence Says No - And Here's Why
+### The Evidence from 350 Executives Says No - And Here's Why
 
 **The Pattern Across All Three Signals:**
 
-- **Signal 1**: Can't prove ROI on current public cloud scope
-- **Signal 2**: Not consistently doing high-impact work (let alone automating it)
-- **Signal 3**: Can't optimize existing container workloads (98% impact, 91% can't optimize)
+- **Signal 1**: IT leaders can't prove ROI on current public cloud scope (78%)
+- **Signal 2**: Their teams aren't consistently doing high-impact work (76% skip rightsizing)
+- **Signal 3**: They can't optimize existing container workloads (98% impact, 91% can't optimize)
 
 **The Scope Expansion Reality:**
 
-> _"72% say they're ready for SaaS, private cloud, and AI scopes. But if you can't prove ROI, consistently optimize, or handle Kubernetes in your current scope... how will you handle 3x the complexity?"_
+> _"72% of IT leaders say their teams are ready for SaaS, private cloud, and AI scopes. But if you can't prove ROI, consistently optimize, or handle Kubernetes in your current scope... how will you handle 3x the complexity?"_
 
 **The Shift That's Needed:**
 
-> _"Before expanding scopes, teams need to master connected action in their current scope. Move from reactive mode to continuous optimization. That's what will separate teams who successfully handle Cloud+ from those who multiply their dysfunction across more domains."_
+> _"Before expanding scopes, IT leaders need their teams to master connected action in their current scope. Move from reactive mode to continuous optimization. That's what will separate leaders who successfully handle Cloud+ from those who multiply their dysfunction across more domains."_
