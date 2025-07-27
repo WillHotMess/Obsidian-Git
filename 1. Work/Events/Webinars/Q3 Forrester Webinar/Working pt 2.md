@@ -98,7 +98,7 @@
 
 - Speedometer/dial graphic showing the gap between perceived vs actual automation
 - Timeline showing weeks of lag time for remediation
-- "Automation Maturity Pyramid" showing where teams think they are vs where they actually are
+	- "Automation Maturity Pyramid" showing where teams think they are vs where they actually are
 
 ---
 
