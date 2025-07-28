@@ -114,13 +114,13 @@
 
 ### Where Teams Are Failing
 
-|Challenge|% of Organizations|
-|---|---|
-|Unable to perform cost optimization on K8s clusters|**49%**|
-|Struggling with horizontal autoscaling|**45%**|
-|Can't allocate costs at workload level|**44%**|
-|Struggling with vertical autoscaling|**43%**|
-|Unable to generate cost reporting|**33%**|
+| Challenge                                           | % of Organizations |
+| --------------------------------------------------- | ------------------ |
+| Unable to perform cost optimization on K8s clusters | **49%**            |
+| Struggling with horizontal autoscaling              | **45%**            |
+| Can't allocate costs at workload level              | **44%**            |
+| Struggling with vertical autoscaling                | **43%**            |
+| Unable to generate cost reporting                   | **33%**            |
 
 ### Why Kubernetes Is Different
 
