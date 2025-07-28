@@ -204,3 +204,50 @@
 **The Shift That's Needed:**
 
 > _"Before expanding scopes, IT leaders need their teams to master connected action in their current scope. Move from reactive mode to continuous optimization. That's what will separate leaders who successfully handle Cloud+ from those who multiply their dysfunction across more domains."_
+
+-- 
+# Prompt: 
+```
+# I think we will begin the webinar with the big statement:
+Slide 1: 
+- "We are going to begin today's webinar with a bold statistic:
+    -- 72% of IT leaders say their teams are ready for SaaS, private cloud, and AI scopes.
+
+# Then, introduce, CloudBolt Industry insights: 
+Slide 2: 
+- CloudBolt Industry Insights is the research arm of CloudBolt Software. CII regularly develops reports on the state of the cloud industry to determine the reality of the challenges IT leaders are facing and how they plan to overcome them.
+- Who took the survey:
+senior voices, strategic stakes
+This year’s CII report speaks from the top.
+Focused geographically on the United States, more than 80% of respondents were VP-level or above, with strong
+representation from CIOs and CTOs—the executives responsible for translating cloud strategy into business value.
+Additional insights:
+• Nearly 90% hold a bachelor’s degree or higher
+• 59% work at enterprises with 6,000+ employees
+• Most responses came from the South (35%) and West (29%), with California (11%) leading by state
+These aren’t isolated voices—they’re the people driving billions in cloud spend. And their responses reveal where
+gaps in execution, alignment, and maturity still persist—even at the highest levels.
+
+	# Our survey found a large gap between perception and actual performance from senior leaders. We will be asking three primary questions today? 
+	1. Are we effectively managing our current scope of resources? 
+	2. Are we effectively keeping costs under control in the public cloud? 
+	3. Are we effectively proving value? 
+
+
+# Then, we will use this slide design for an agenda - talking to the audience in a candid, frank, way,
+Slide 4: 
+"During today's webinar, our goal is the following:
+
+1. Get a pulse from Tracy Woo, who is a foremost expert on the changing nature of the FinOps market and trends in 2025.
+    
+2. Examine the 3 signals, from our own research that suggest, FinOps teams may need to examine their readiness for expanded scopes.
+    
+3. Discuss the best ways to get a grip on the current state
+
+None of this is to suggest that FinOps leaders should shy away from expanded their perview, moreso, ensure that they are not scaling without taming scope debt that will bite them in the future. 
+
+# First, let me introduce our panel: 
+Slide 5: 
+
+
+```
