@@ -37,8 +37,6 @@ Based on the updated annual target of $10,915,764 (approximately $2,728,941 per 
 
 This represents approximately a 32.3% increase across all metrics to achieve the new pipeline goal.
 
-
-
 --- 
 # March 2025 (outdated)
 
