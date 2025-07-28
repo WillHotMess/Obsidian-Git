@@ -1,0 +1,3 @@
+Hey, I've been researching relevant AI certifications for this year. There are a lot of highly technical options, but I'm not sure they strike the right balance of business imperatives. With Keno starting and his emphasis on POV/POC and value selling, it feels like a better understanding of organizational adoption AI is more important - considering it is at the center of most conversations. 
+
+I found PMI's CPMAI certification that hits a sweet spot - covers AI technology selection, business value, implementation and rollout from the adoption perspective. 
