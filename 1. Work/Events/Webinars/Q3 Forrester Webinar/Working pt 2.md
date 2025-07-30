@@ -251,3 +251,44 @@ Slide 5:
 
 
 ```
+
+
+## Slide A – Complex Resources Reality-Check
+
+_(Kubernetes & Next-gen PaaS / Data-warehousing)_
+
+|**Ask Yourself…**|**First 90-Day Playbook**|
+|---|---|
+|1. Which **K8s / PaaS / DW** services are >10 % of spend **and** still a blind spot?|**Inventory & Rank** complex resources (K8s, Databricks, Snowflake, Redshift, Redis-as-a-Service…).|
+|2. Do we capture **granular utilisation telemetry** (pod usage, query labels, etc.) that can map to cost?|**Label at Source** – enforce pod/query/workload labelling in CI/CD or DB schema.|
+|3. Can we trace cost → utilisation → **business owner** in <48 h?|**Intersect Data** – join cost & telemetry, share owner-level dashboards; set success metric = % spend fully allocated.|
+
+_Speaker cue_: “If you answer ‘no’ to any question, start with row 1 of the playbook before chasing new AI workloads.”
+
+---
+
+## Slide B – Automation That Actually Happens
+
+_(Optimisation & Continuous Remediation)_
+
+|**Ask Yourself…**|**First 90-Day Playbook**|
+|---|---|
+|1. What % of our ‘automated’ recommendations are **remediated within 24 h**?|**Redefine Done** – success = closed tickets, not alerts fired. Track MTTR-Cost.|
+|2. How long does waste linger? **Days? Weeks?**|**Kill the Queue** – convert monthly review into always-on policy engine; surface only “can auto-fix” items.|
+|3. Can engineers self-service cost fixes **without FinOps approval loops**?|**Empower Devs** – embed rightsizing scripts or Terraform modules; guardrail with budgets, not gates.|
+
+_Speaker cue_: “Dashboards don’t save dollars—closed loops do. Aim for <7-day waste half-life.”
+
+---
+
+## Slide C – Proving Business Value
+
+_(ROI, Tagging, Chargeback, Unit Economics)_
+
+|**Ask Yourself…**|**First 90-Day Playbook**|
+|---|---|
+|1. Has exec leadership stated **why** we use cloud—growth, agility, QoS, risk?|**Clarify Value Targets** – capture 3 board-level outcomes (e.g., release velocity, SLA hits, margin).|
+|2. Do we talk **monthly** with the top 30 app/product owners about cost vs. value?|**Consultative Cadence** – stand-up “FinOps office hours” with each P&L / product lead.|
+|3. Are **tagging (100 %), chargeback, and optimisation reports** considered _non-negotiable_?|**Operate the Basics** – enforce tag compliance, push cost reports to owners, sync with Finance on show/chargeback rules.|
+
+_Speaker cue_: “Balancing art (stakeholder context) and science (hard tags & chargeback) is the only path to credible ROI.”
