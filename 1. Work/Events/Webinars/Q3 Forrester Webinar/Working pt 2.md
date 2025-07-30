@@ -285,10 +285,55 @@ _Speaker cue_: “Dashboards don’t save dollars—closed loops do. Aim for <7-
 
 _(ROI, Tagging, Chargeback, Unit Economics)_
 
-|**Ask Yourself…**|**First 90-Day Playbook**|
-|---|---|
-|1. Has exec leadership stated **why** we use cloud—growth, agility, QoS, risk?|**Clarify Value Targets** – capture 3 board-level outcomes (e.g., release velocity, SLA hits, margin).|
-|2. Do we talk **monthly** with the top 30 app/product owners about cost vs. value?|**Consultative Cadence** – stand-up “FinOps office hours” with each P&L / product lead.|
-|3. Are **tagging (100 %), chargeback, and optimisation reports** considered _non-negotiable_?|**Operate the Basics** – enforce tag compliance, push cost reports to owners, sync with Finance on show/chargeback rules.|
+| **Ask Yourself…**                                                                             | **First 90-Day Playbook**                                                                                                 |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------- |
+| 1. Has exec leadership stated **why** we use cloud—growth, agility, QoS, risk?                | **Clarify Value Targets** – capture 3 board-level outcomes (e.g., release velocity, SLA hits, margin).                    |
+| 2. Do we talk **monthly** with the top 30 app/product owners about cost vs. value?            | **Consultative Cadence** – stand-up “FinOps office hours” with each P&L / product lead.                                   |
+| 3. Are **tagging (100 %), chargeback, and optimisation reports** considered _non-negotiable_? | **Operate the Basics** – enforce tag compliance, push cost reports to owners, sync with Finance on show/chargeback rules. |
 
 _Speaker cue_: “Balancing art (stakeholder context) and science (hard tags & chargeback) is the only path to credible ROI.”
+
+
+---
+
+---
+
+### **Slide A: Taming Your True Cloud Complexity**
+
+**Subtitle:** _Kubernetes is just the beginning. The real readiness test is mastering the pattern of shared PaaS and data services where cost is disconnected from utilization._
+
+| **Ask Yourself…**                                                                                                                                    | **First 90-Day Playbook: The Path to Mastery**                                                                                                                                                         |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1. Beyond the total cost, can my FinOps team explain to an engineer what "efficiency" looks like for our top data warehouse or PaaS service?         | 1. Inventory & Align: Inventory complex services (>10% of spend). Then, hold joint sessions with engineering owners to formally define what efficiency and waste look like for each one.               |
+| 2. Do we know the specific utilization drivers for these services (e.g., query performance, pod usage) and have we agreed on what telemetry matters? | 2. Instrument at the Source: Enforce granular labeling where value is created (e.g., embed query labels in the DB schema, pod labels in the CI/CD pipeline) so that utilization telemetry isn't blind. |
+| 3. Can we actually intersect that granular utilization telemetry with its cost and trace it back to a specific team or business owner?               | 3. Intersect & Allocate: Build the data pipelines to connect cost and utilization telemetry. Set a clear success metric: "% of complex service spend fully allocated to a business owner."             |
+
+**Speaker Cue:** _“If you can’t answer ‘yes’ to these questions for Databricks or Snowflake today, you’re not ready for the complexity of AI tomorrow. This is about mastering the pattern, not just one service.”_
+
+---
+
+### **Slide B: Breaking the Automation Theater**
+
+**Subtitle:** _92% of organizations claim to have "automated" FinOps, but 65% admit recommendations go unimplemented for weeks. Here's how to stop performing and start executing._
+
+|**Ask Yourself…**|**First 90-Day Playbook: Closing the Loop**|
+|---|---|
+|1. Is my "automation" just creating a longer to-do list of alerts, or is it **actually closing remediation tickets** without human intervention?|**1. Redefine "Done":** Shift your primary KPI from "# of recommendations" to **"Mean Time to Remediate Cost."** Success is a closed ticket and realized savings, not a fired alert.|
+|2. What is the **"half-life" of cloud waste** in our organization? Are we talking hours, days, or weeks? (Be honest.)|**2. Kill the Approval Queue:** Empower engineers to act on optimizations autonomously within pre-defined budget guardrails, not manual gates that introduce friction and delay.|
+|3. Can an engineer fix a cost issue in their own CI/CD pipeline, or are they **stuck waiting for a FinOps review meeting?**|**3. Automate the Action, Not the Ask:** Convert your top 3 most common optimization tasks into self-service scripts or Terraform modules that engineers can run themselves, making the right choice the easy choice.|
+
+**Speaker Cue:** _“Dashboards don’t save dollars—closed loops do. The goal isn't a perfect report; it's to reduce the half-life of waste to less than 7 days.”_
+
+---
+
+### **Slide C: The Balancing Act of Cloud ROI**
+
+**Subtitle:** _Value isn't found in a single report. It's proven by balancing the "art" of stakeholder alignment with the "science" of non-negotiable operational discipline._
+
+|**Ask Yourself…**|**First 90-Day Playbook: Art & Science**|
+|---|---|
+|1. Are my operational basics—100% tag compliance, timely chargeback, owner-facing reports—treated as **truly non-negotiable**, or are they still "best-effort"?|**1. Master the Science (The Non-Negotiables):** Treat operational hygiene like a product. Enforce 100% tagging at provisioning and deliver automated, owner-level cost reports that are always accurate.|
+|2. Am I having **regular, consultative conversations** with my top app owners to understand their business drivers _beyond_ just the cost line item?|**2. Practice the Art (The Consultative Cadence):** Establish "FinOps Office Hours" with your top product/P&L owners. Your first goal isn't to cut costs, but to understand their definition of value.|
+|3. When we evaluate an optimization, are we considering its impact on **Quality of Service (SLOs)** and **engineer toil**, or are we just looking at the price tag?|**3. Synthesize & Prove:** Connect the two. Frame optimization recommendations in the context of business outcomes (e.g., "This lowers cost-per-feature while protecting SLOs"). Report on both financial AND operational metrics.|
+
+**Speaker Cue:** _“Any vendor can sell you a reporting tool. The hard work is building trust. You do that by nailing the basics and showing engineers and product owners that you care about what they care about—performance, reliability, and not getting paged at 2 AM.”_
