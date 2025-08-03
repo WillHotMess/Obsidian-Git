@@ -41,12 +41,15 @@ Unparalleled pipeline visibility
 Integrate your entire tech stack so data goes from siloed to streamlined, ensuring that all forecast rollups are accurate and up-to-date.
 
 
-## EE THE MAGIC OF GONG IN ACTION
+## SEE THE MAGIC OF GONG IN ACTION
 
 Get a demo and discover how 4,500+ raving fans use Gong to add horsepower to their engine.
 />
 
-# Lets start with the Billing and Distribution Page
+# Lets start with the Engineering Teams... focus on: 
+
+
+
 See the following attached documents to get a sense of the problems these users encounter and build a page that helps. 
 
 
