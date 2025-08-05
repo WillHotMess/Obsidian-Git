@@ -116,3 +116,9 @@ Each 10-minute use case video should follow this proven structure:
 
 **Demo Focus:** Demonstrate cross-cloud dashboard and unified optimization recommendations
 
+CMP - Data Center "CMP"
+CMP - Install Base "CMP"
+CSMP - Cloud Billing = "BillOps"
+CSMP - FinOps = "FinOps"
+Sell StormForge = "Kubernetes Rightsizing"
+(Multiple Solutions) = "Multiple Use Cases"
