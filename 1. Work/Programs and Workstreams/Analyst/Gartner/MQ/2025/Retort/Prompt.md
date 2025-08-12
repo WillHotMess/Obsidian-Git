@@ -21,7 +21,7 @@ CONTEXT PROVIDED:
 3. CloudBolt's Critical Capability Score
 4. Question Pool: Derived from original submission
 5. Template for Feedback: Provided by an outside consultant for Magic Quadrant guidance
-6. Our full submission:
+6. Our full submission summary: A single markdown file with all 199 questions and their answer summaries along with a heat-map for capability areas. 
 
 
 OUTPUT FORMAT:
