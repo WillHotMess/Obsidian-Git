@@ -41,6 +41,7 @@ Thank you for the opportunity to review your draft research for the MQ and CC fo
 - This is factually incorrect because CloudBolt is delivered **as SaaS with optional on‑prem/appliance components** (e.g., agent/Helm for K8s),
     
 - [EVIDENCE]: RFI **91**: “**SaaS / On‑Prem Agent**.” RFI **175**: “**Managed Cloud / On‑Prem**” deployment options.  
+- “adapters that can sit directly on‑premise… bring the private cloud context into our unified experience.” (01:10–01:16)
     
 - Suggested rewording: **“CloudBolt is delivered primarily as SaaS, with optional on‑prem agents/appliances when required.”**
     
@@ -119,7 +120,10 @@ Thank you for the opportunity to review your draft research for the MQ and CC fo
 - This is factually incomplete. We **do** ship **cost anomaly detection**; what we **don’t** yet ship is **projection‑based budget alerts**.
     
 - [EVIDENCE]: RFI **39** — anomaly detection **Yes** (trained on prior **60 days**). RFI **38** — projection‑based budget alerts **No**. Related budget features “Yes”: **34–37** (budgets, visualization, approvals, threshold alerts).  
-    In demo minute **[Product Capabilities 14:51 & 17:30]**, we showed anomaly detection and budget threshold alerts.
+	- In demo minute **[Product Capabilities 14:51 & 17:30]**, we showed anomaly detection and budget threshold alerts.
+	- “AI‑powered anomaly detection to identify unexpected cost spikes… automated response actions triggered by a budget alert.” (14:44–14:51)
+	- “expected ranges of where spend should land—the basis for anomaly detection.” (02:02–02:12)
+	- **Forecasting:** “analyzing historical patterns over long stretches of time, then segmenting into days, weeks, months.” (01:02–01:14)
     
 - Suggested rewording: **“CloudBolt includes cost anomaly detection and budget threshold alerts today; projection‑based budget alerts are planned.”**
     
