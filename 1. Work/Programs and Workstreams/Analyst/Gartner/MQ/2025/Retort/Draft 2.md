@@ -187,34 +187,21 @@ Thank you for the opportunity to review your draft research for the MQ and CC fo
 **Coverage vs. ‘Yes’ ratios** highlight inconsistency with ranks.
 
 Requested conservative rescoring based on factual corrections:
-
 - **Commitment Mgmt:** **→ 2.8** (from 1.7)
-    
 - **Architectural Design Support:** **→ 2.7** (from 2.2)
-    
 - **Budget & Incident Mgmt:** **→ 3.0** (from 2.5)
-    
 - **Workload Optimization:** **→ 3.0** (from 2.6)
-    
 - **Unit Economics:** **→ 2.2** (from 1.8)
     
 
 Modeled impact on use‑case scores (algebraic roll‑up using your weights):
-
-- **Forecasting & Estimation:** **→ 2.78** (from 2.26; +0.52) — 25% Commitment, 40% ADS.
-    
+- **Forecasting & Estimation:** **→ 2.78** (from 2.26; +0.52) — 25% Commitment, 40% ADS
 - **Driving Cost Efficiency:** **→ 2.86** (from 2.38; +0.48) — 30% Workload, 25% Commitment, 25% Remediation.
-    
 - **Financial Risk Management:** **→ 2.92** (from 2.57; +0.35) — 45% Budget/Incident.
-    
 - **Maximizing Business Value:** **→ 2.58** (from 2.34; +0.24) — 60% Unit Economics.
-    
 - **Promoting Accountability:** **→ 3.00** (from 2.90; +0.10).
-    
 - **Solution Provider:** **→ 3.25** (from 3.08; +0.17).
-    
 - **Multicloud Management:** **→ 3.12** (from 3.02; +0.10).
-    
 
 ---
 
