@@ -10,7 +10,7 @@ You are tasked with analyzing, categorizing, and summarizing product updates for
 
 1. Analyze each product update summary to identify its primary category or theme
 
-2. Group updates into meaningful categories such as:
+2. Group updates into meaningful categories such as (examples):
 
   - User Experience Improvements
 
