@@ -1,3 +1,98 @@
+Based on the transcripts, can we extrapolate competitive information do we need to know about Morpheus? Strengths, weaknesses, landmines, why we win, why they lose? 
+
+
+## Leidos
+<
+Account: Leidos Holdings, Inc.
+
+Period Aug 19, 24 - Aug 19, 25
+
+- Weaknesses of Morpheus: Difficult to tailor or extend, requires specialized developer skills, lacks governance and compliance capabilities, does not allow UI extensions, requires one-to-one mapping across clouds for standardization.
+- Unclear if Morpheus delivers new cloud-native resources in content libraries as content, allowing users to change the code itself, which CloudBolt does.
+- Morpheus has cost optimization recommendations, but CloudBolt's FinOps product (CloudBolt Platform) handles this, whereas the Morpheus CMP (direct competitor) does not.
+- Morpheus's pricing is at "five percent minimum" higher than CloudBolt's FinOps solution, which is significantly less for larger cloud spend.
+- CloudBolt's key differentiator is its integrations with the customer's technology stack, which would be important for a "good bake off between the two".
+/>
+
+
+## Applied Systems
+<
+Account: Applied Systems
+
+Period Aug 18, 24 - Aug 18, 25  
+
+- Morpheus's strengths include built-in cost management and optimization, as well as offering premium support at a lower cost compared to CloudBolt.
+- Morpheus's weaknesses include imprecise recommendations, lack of flexibility and customization, complex management system, issues with backups, rigid catalog structure, challenges with RBAC and end-user usability.
+- Landmines for Morpheus include unexpected default behavior and potential cost increases due to the HP acquisition.
+- CloudBolt wins by offering a purpose-built FinOps tool, robust RBAC capabilities, flexible customization, and a simpler interface for end-users.
+- Morpheus loses because it was not fully utilized by Applied Systems, faced challenges with QA and dev teams, and ultimately had its contract not renewed due to the issues and pricing.
+/>
+
+## Integris
+
+<
+Account: Integris
+
+Period Aug 14, 24 - Aug 14, 25
+
+
+- Morpheus's strengths include allowing Integris to cater to both managed and unmanaged clients, and supporting carving out tenants with SSO providers and role-based access.
+- Morpheus's weaknesses include Integris not using its advanced functionality, complex automation requiring dedicated programming, issues with permission structures, and inefficient SSO configurations.
+- Landmines for Morpheus include the upcoming contract expiration and concerns about development and support due to the HPE acquisition.
+- Morpheus loses because Integris is not seeing its full value, is looking for simpler, low-code automation, and is likely to move away from Morpheus if a better alternative is found.
+- CloudBolt wins because it offers strong automation, self-service, and governance capabilities, can reuse processes, and has successfully migrated customers from Morpheus.
+
+/>
+
+## FPT Telecom
+<
+Account: FPT Telecom International
+
+Period Aug 12, 24 - Aug 12, 25  
+
+- Morpheus is a strong competitor to CloudBolt, as it is the common CMP solution discussed in Vietnam tenders and CloudBolt often competes against it in big tenders globally.
+- Morpheus's strength is its deeper integration with HP hardware, which may be an advantage in HP-centric environments.
+- Morpheus's weakness is that it is not open architecture and does not use Python, which is CloudBolt's language of automation, suggesting it may lack flexibility and customization capabilities compared to CloudBolt.
+- CloudBolt's potential advantages over Morpheus include its extensible architecture and ability to develop services around the CMP software, which may be more appealing to customers looking for a more customizable solution.
+- Overall, the transcripts suggest that Morpheus is a significant competitor to CloudBolt, but CloudBolt's strengths in integration with non-HP systems and its automation capabilities using Python may give it an edge in certain situations.
+
+/> 
+
+## Transparity
+<
+Account: Transparity
+
+Period Aug 14, 24 - Aug 14, 25  
+
+- Strengths of Morpheus: Great multi-cloud and automation tool, suitable for multi-cloud environments, good for building bespoke applications.
+- Weaknesses of Morpheus: Not extensible, lacks integration with Transparity's icsm platform, does not offer robust finops functionality, not suitable for Azure-only focus, high cost.
+- Why CloudBolt would win: Morpheus' weaknesses, such as lack of extensibility, integration issues, and limited finops capabilities, make it a less suitable solution for Transparity's needs, especially their Azure-only focus.
+- Potential landmines: Since being acquired by HP, Morpheus seems to have a more fixed route, is less extensible, and lacks necessary integrations.
+- Why Transparity would lose with Morpheus: Morpheus' high cost and lack of value for Transparity's Azure-only environment, as well as its reduced extensibility and integration issues, make it an inappropriate solution for their current requirements.
+
+/>
+
+## IT Serwis
+
+<
+Account: IT Serwis
+
+  
+
+Period May 8, 24 - May 8, 25
+
+  
+
+- Strengths of Morpheus: Morpheus seems to focus on automation, which could be a strength for some customers.
+- Landmines for Morpheus: The customer is discouraged by Morpheus's cost and uncertainty around its future sales model after the HPE acquisition, which could be a significant landmine.
+- Weaknesses of Morpheus: Morpheus does not seem to prioritize financial control and cost monitoring, which is a key focus for the customer. Morpheus also lacks the ability to capture all costs of each service, especially for private cloud environments.
+- Why CloudBolt would win: CloudBolt's focus on cost monitoring and financial control appears to be a better fit for the customer's needs compared to Morpheus's emphasis on automation.
+- Why Morpheus would lose: Morpheus's lack of focus on the customer's key requirements, as well as the uncertainty around its future, could lead to the customer choosing a different solution like CloudBolt.
+
+/>
+
+
+
 # Competitive Analysis: Cloud FinOps Capabilities & Market Position
 
 ## 1. Introduction
