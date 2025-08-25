@@ -1,6 +1,6 @@
 # Lobster × CloudBolt: An Engaging Customer-Led Story
 
-Below is a fully structured narrative you can hand to Ludwig. It shifts the tone from a formal “TED-talk” to an interactive, customer-driven story that keeps the spotlight on his real-world experience. The outline is timed for a 20–25-minute slot (including a quick live demo) and maps cleanly to 4-5 slides—so Ludwig can own the delivery while CloudBolt supplies supportive visuals.
+Below is a fully structured narrative you can hand to Ludwig. It shifts the tone from a formavl “TED-talk” to an interactive, customer-driven story that keeps the spotlight on his real-world experience. The outline is timed for a 20–25-minute slot (including a quick live demo) and maps cleanly to 4-5 slides—so Ludwig can own the delivery while CloudBolt supplies supportive visuals.
 
 ---
 
