@@ -5,7 +5,7 @@
 
 ### Main Content:
 
-**Cloud won because of self-service.**
+**Public Cloud won because of self-service.**
 
 - 2006: AWS let developers provision infrastructure in 3 minutes
 - 2025: Your developers still wait weeks or months for cloud infrastructure
@@ -48,8 +48,8 @@ The irony? AWS became a trillion-dollar company doing one thing: removing IT as 
 - Developers leave for competitors
 
 ❌ **"Free-for-All Self-Service"**
-- Monthly AWS surprise bills
-- 43 Azure Subscriptions, nobody knows why
+- Monthly surprise bills from AWS and Azure
+- 43 Azure Subscriptions or Payer Accounts, nobody knows why
 - "Who deployed this?" - Everyone, daily
 
 ✅ **The Reality: It's a Spectrum** Every workload needs self-service. The question is HOW MUCH.
