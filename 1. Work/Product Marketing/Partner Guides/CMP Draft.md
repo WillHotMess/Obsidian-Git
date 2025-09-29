@@ -114,18 +114,16 @@ CloudBolt stands apart through three core differentiators that fundamentally tra
 ### Business Case #1
 
 ## Lobster Transforms from Homegrown Risk to Enterprise-Wide Automation Platform
-
-German data integration leader Lobster GmbH implemented CloudBolt to replace a dangerous custom-built solution and legacy manual processes. What started as a simple goal to automate customer provisioning evolved into an enterprise-wide platform that transformed operations across every department, reducing deployment time by 95% and achieving 99% automation success rates.
+German data integration leader Lobster GmbH implemented CloudBolt to replace a custom-built solution and legacy manual processes. What started as a simple goal to automate customer provisioning evolved into an enterprise-wide platform that transformed operations across every department, reducing deployment time by 95% and achieving 99% automation success rates.
 
 ### Background
-
 Lobster provides a no-code data integration platform connecting enterprise applications, databases, and cloud services for over 4,500 customers. The company faced a critical challenge: their hybrid infrastructure spanning legacy on-premises data centers and AWS cloud environments relied on either manual processes taking 4-6 hours per deployment or a custom-built "click to data" platform that had become an existential business risk.
 
 ### The Build vs. Buy Catalyst
 
 Lobster's homegrown solution appeared sophisticated but hid a terrifying reality:
 
-**Single Point of Failure:** "It was maintained by a single guy who built hundreds of thousands of lines of Python lambda code without documentation and without comments. To make sure nobody is able to support this if he leaves. That was his intention."
+**Single Point of Failure:** "It was maintained by a single guy who built hundreds of thousands of lines of Python lambda code without documentation and without comments. To make sure nobody is able to support this if he leaves."
 
 **Knowledge Transfer Impossible:** After six months of training, the team lead "wasn't able to do simple maintenance if it was really simple, like switching a tag on an EC2 instance."
 
