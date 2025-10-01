@@ -70,3 +70,12 @@ CloudCheckr positions itself as a "single pane of glass" for hybrid cloud manage
 CloudCheckr represents a legacy MSP billing tool struggling to remain relevant in the modern cloud era. While its deep billing and margin management capabilities serve a specific niche, the platform suffers from fundamental technology gaps (no Kubernetes support, weak multi-cloud), operational inefficiencies (no PSA integrations, poor UI), and strategic uncertainty (87% value destruction, unclear Flexera roadmap).
 
 The platform wins in pure MSP billing arbitrage scenarios but fails to address the evolution toward value-based managed services. Modern MSPs need comprehensive workload management, seamless operational integration, and forward-looking capabilities - all areas where CloudCheckr demonstrably falls short. The constant ownership changes and rebrandings signal a product searching for strategic fit rather than confidently executing a vision.
+
+
+--- 
+From Gong calls: 
+- Weaknesses of Cloud Checker: Limited to just cloud cost management for VMware, Azure, and AWS, lacking broader functionality the customer desires such as co-location, storage, and backups.
+- Opportunity for CloudBolt: Demonstrate how CloudBolt can provide a more comprehensive solution that addresses the customer's broader use cases beyond just cloud cost management.
+- Potential Landmines: The customer may be hesitant to switch from their current solution, Cloud Checker, if it is "okay" and meets some of their needs, even if it is not 100% what they want.
+- Why CloudBolt can win: By showcasing CloudBolt's ability to provide feature parity with Cloud Checker while also addressing the customer's additional requirements, CloudBolt can position itself as a superior solution.
+- Why the customer may lose with Cloud Checker: Cloud Checker's limited capabilities may not fully meet the customer's evolving needs, leading them to seek a more comprehensive solution like CloudBolt.
