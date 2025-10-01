@@ -79,3 +79,15 @@ From Gong calls:
 - Potential Landmines: The customer may be hesitant to switch from their current solution, Cloud Checker, if it is "okay" and meets some of their needs, even if it is not 100% what they want.
 - Why CloudBolt can win: By showcasing CloudBolt's ability to provide feature parity with Cloud Checker while also addressing the customer's additional requirements, CloudBolt can position itself as a superior solution.
 - Why the customer may lose with Cloud Checker: Cloud Checker's limited capabilities may not fully meet the customer's evolving needs, leading them to seek a more comprehensive solution like CloudBolt.
+- Strengths of Cloud Checker: Primarily used for generating bills, has security functionality (though Ibexlabs does not find it valuable).
+- Weaknesses of Cloud Checker: Ibexlabs finds it "overkill" for the purpose of generating bills, and does not utilize its security functionality.
+- CloudBolt excels in pushing out technologies beyond standard advisor approaches, offering extensibility and automation for optimization.
+- Strengths of CloudBolt: Can achieve the same security and finops findings as Cloud Checker by deploying a single template at the organization level, simplifying the process. Also has strengths in "data accuracy" and "optimization technologies" compared to Cloud Checker.
+- Why CloudBolt wins: CloudBolt's ability to simplify the security and finops deployment process, as well as its strengths in data accuracy and optimization, give it an advantage over Cloud Checker.
+- - - Cloud Checker's weaknesses include difficulty engaging with some customers, being primarily AWS-focused with deficiencies in Azure, lacking broader orchestration and hybrid cloud capabilities, and having a Kubernetes solution that requires customer commitment.
+    
+- - Cloud Checker's landmines include not having completed its setup for marketplace transactions and Flexera's acquisition strategy of forcing customers to move, which can lead to customer dissatisfaction.
+    
+- - CloudBolt wins by offering competitive pricing, a simpler model, multi-cloud capabilities, pluggable and modular solutions, and being actively worked on for marketplace transactions.
+    
+- - Cloud Checker loses due to being perceived as a "cost center," its Kubernetes solution requiring customer commitment, and Flexera's acquisition strategy leading to customer dissatisfaction.
