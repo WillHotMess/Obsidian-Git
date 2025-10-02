@@ -1,68 +1,64 @@
-# StormForge at KubeCon + CloudNativeCon
+# KubeCon Atlanta: Stop Guessing, Start Optimizing
 
 **November 12-14, 2025 | Atlanta, GA**
 
+Your developers shouldn’t have to guess at resource requests, and your finance team shouldn’t have to guess at Kubernetes costs. Visit StormForge at KubeCon to see how you can move from manual tuning and cost chaos to ML-powered optimization and financial clarity.
+
 ---
 
-## Visit the StormForge Booth
+## Visit StormForge at Booth #[XXX]
 
-**November 12-14 | Booth #[XXX]**
+### **From Autonomous Rightsizing to Bill-Accurate Cost Allocation**
 
-#### **Preview Container-Level Cost Allocation Features
+For years, StormForge has helped engineers eliminate manual toil with ML-powered rightsizing that works at enterprise scale. Now, we're bringing that same financial precision to your cloud bill.
 
-Be the first to see our new platform that delivers **bill-accurate, container-level cost allocation**. 
+Stop by for a **private preview** of our new container-level cost allocation platform. Be the first to see how you can:
 
-With our new capabilities, you can:
-- **Reconcile with Your Actual Bill:** We use your real costs, including enterprise discounts and credits, not generic list prices.
-- **Achieve Container-Level Granularity:** Trace every dollar of spend down to the individual container.
-- **Intelligently Distribute Shared Costs:** Fairly allocate idle capacity, control plane, and system overhead with configurable business logic.
-- **Enable True Chargeback:** Flow precise Kubernetes cost data into CloudBolt’s robust chargeback and invoicing system.
+- **Reconcile to Your Actual Bill:** We use your real costs, including enterprise discounts and credits, not generic list prices.
+    
+- **Achieve Container-Level Granularity:** Trace every dollar of spend directly to the individual container.
+    
+- **Intelligently Distribute Shared Costs:** Fairly allocate idle capacity, control plane, and system overhead with configurable logic.
+    
+- **Enable True Chargeback:** Flow precise cost data into CloudBolt’s robust chargeback and invoicing system.
+    
 
 **CTA Button:** `Book a Meeting`
 
-#### **Meet the Author & Ace Your CKA Exam**
-Get your complimentary, signed copy of the brand new book, **"Acing the Certified Kubernetes Administrator Exam,"** with author **Rafael Brito**!
+### **Meet the Author & Ace Your CKA Exam**
 
-Studying for your CKA? This is your chance to meet the author, ask your toughest exam questions, and walk away with a free, signed study guide to help you get certified.
+Get a complimentary, signed copy of the new book, **"Acing the Certified Kubernetes Administrator Exam,"** with author **Rafael Brito**!
 
-**Booth Signing Times:**
-- **Tuesday, November 12th | 2:00 PM**
+Studying for your CKA? Meet the author, ask your toughest exam questions, and walk away with a free, signed study guide to help you get certified.
 
-**CTA Button:** `Add to Calendar`
+**Booth Signing:**
+
+- Tuesday, November 12th | 2:00 PM
+    
+
+**CTA Button:** `Add to Your Calendar`
 
 ---
 
-## **Unwind With Us Above the Atlanta Skyline** 
+## Unwind With Us Above the Atlanta Skyline
 
-Escape the expo hall and join the StormForge team, industry peers, and special guests for an **exclusive, invite-only dinner.
+Escape the expo hall and join the StormForge team, industry peers, and special guests for an **exclusive, invite-only dinner.**
 
-Enjoy craft cocktails, delicious food, and high-level conversations at a premier Atlanta rooftop venue just a short walk from the convention center. Rafael Brito will also host a special book giveaway and signing for "Acing the Certified Kubernetes Administrator Exam" during. Space is limited, so request your spot today.
+Enjoy craft cocktails, delicious food, and high-level conversations at a premier Atlanta rooftop venue a short walk from the convention center. Rafael Brito will also be hosting a special book giveaway and signing. Space is limited, so request your invitation today.
 
 - **When:** Wednesday, November 13th | 6:00 PM
-- **Where:** Location TBD
+    
+- **Where:** Location details provided upon confirmation.
+    
 
 **CTA Button:** `Request Your Invitation`
 
 ---
 
-## What StormForge Can Do For You
+## Ready to Put Kubernetes Rightsizing on Autopilot?
 
-**Container-level cost allocation**  
-Track Kubernetes spend with granular, bill-accurate breakdowns that reconcile to your actual cloud costs.
+Start reducing your Kubernetes costs without sacrificing performance. See how our ML-powered engine works with your actual workloads—risk-free.
 
-**Shared cost distribution**  
-Fairly allocate idle capacity, control plane, and system overhead using configurable business logic.
+**CTA Button:** `Start Free Trial` **Secondary CTA Button:** `Enter Sandbox`
 
-**Enterprise chargeback integration**  
-Flow precise cost data into CloudBolt's chargeback and invoicing system for real showback and chargeback.
-
-**Real cloud costs**  
-Use your actual costs including enterprise discounts and credits—not generic list prices.
-
----
-
-## Get Started with StormForge
-
-StormForge provides bill-accurate visibility into Kubernetes costs—helping you make informed financial decisions. Start your free trial and see your actual container-level costs in minutes.
-
-**CTA Button:** Start Free Trial
+_Free trial includes full optimization on 1 cluster for 30 days._
