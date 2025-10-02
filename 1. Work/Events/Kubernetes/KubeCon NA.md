@@ -6,7 +6,7 @@ Your developers shouldn’t have to guess at resource requests, and your finance
 
 ---
 
-## Visit StormForge at Booth #[XXX]
+## Visit StormForge at Booth #1050
 
 ### **From Autonomous Rightsizing to Bill-Accurate Cost Allocation**
 
@@ -15,7 +15,6 @@ For years, StormForge has helped engineers eliminate manual toil with ML-powered
 Stop by for a **private preview** of our new container-level cost allocation platform. Be the first to see how you can:
 
 - **Reconcile to Your Actual Bill:** We use your real costs, including enterprise discounts and credits, not generic list prices.
-    
 - **Achieve Container-Level Granularity:** Trace every dollar of spend directly to the individual container.
     
 - **Intelligently Distribute Shared Costs:** Fairly allocate idle capacity, control plane, and system overhead with configurable logic.
