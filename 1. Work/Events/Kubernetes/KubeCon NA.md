@@ -16,9 +16,7 @@ Stop by for a **private preview** of our new container-level cost allocation pla
 
 - **Reconcile to Your Actual Bill:** We use your real costs, including enterprise discounts and credits, not generic list prices.
 - **Achieve Container-Level Granularity:** Trace every dollar of spend directly to the individual container.
-    
 - **Intelligently Distribute Shared Costs:** Fairly allocate idle capacity, control plane, and system overhead with configurable logic.
-    
 - **Enable True Chargeback:** Flow precise cost data into CloudBolt’s robust chargeback and invoicing system.
     
 
