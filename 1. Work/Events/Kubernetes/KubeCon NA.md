@@ -59,3 +59,37 @@ Start reducing your Kubernetes costs without sacrificing performance. See how ou
 **CTA Button:** `Start Free Trial` **Secondary CTA Button:** `Enter Sandbox`
 
 _Free trial includes full optimization on 1 cluster for 30 days._
+
+
+
+
+---
+## Slack Update: Manning Publications Partnership for KubeCon Book Signing
+
+Just wrapped a great call with **Vlado from Manning Publications** about the Rafael Brito book signing at KubeCon. Here's what we locked in:
+
+**Confirmed Details:**
+
+**150 total copies** of "Acing the Certified Kubernetes Administrator Exam" (high confidence level for delivery by Nov 10-13)
+
+**Manning is providing:**
+- Pull-up banner for the signing area
+- 5 complimentary copies of other Manning books for display
+- QR code cards with discount codes for when we run out of physical books
+- Kubernetes book bundle page (buy 2, get 50% off type deals)
+- MEAP (early access) book promotions with significant discounts
+
+**Potential bonus:** Manning checking if other authors will be at KubeCon who could do additional signings - **we'll know early next week**
+
+**Manning Will Help Promote:**
+- Social media push before the conference announcing the signing
+- Real-time social posts during the event (if we send photos)
+- Bundle/discount promotions for attendees
+
+**Their Action Items:**
+- Confirm other potential author signings by early next week
+- Finalize 150 copies shipment details
+- Create bundle page and QR code cards
+- Coordinate logistics (shipping to CEO's address or direct to venue - our choice)
+
+**Moving forward as confirmed** on Rafa's book signing - this is locked and loaded! 
