@@ -8,6 +8,7 @@ Automate resource delivery, enforce governance, and unify control across your hy
 
 **Learn More →**
 
+
 ## **Kubernetes Rightsizing**
 
 Stop firefighting OOMKills and overpaying for idle resources. Machine learning–based optimization continuously rightsizes container resources, harmonizes with HPA, and understands workload nuances—so you can cut costs without sacrificing reliability.
