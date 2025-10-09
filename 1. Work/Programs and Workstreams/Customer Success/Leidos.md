@@ -114,4 +114,20 @@ Cloud adoption without cost accountability is no longer acceptable — major age
 
 
 
+---
+
+
+
+## Proposed Tag Structure
+
+**Format:** `[PRODUCT]-[CHANNEL]-[YYMMDD]-[VARIANT]-[CAMPAIGN_TYPE]`
+
+**Example:** `SF-StO-241001-A0001-TRIAL`
+
+- **SF** = StormForge
+- **STO** = Stack Overflow
+- **2410** = Oct, 2024
+- **A0001** = First variant of this ad
+- **TRIAL** = Campaign type/focus
+
 
