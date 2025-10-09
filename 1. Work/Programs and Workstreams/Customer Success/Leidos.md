@@ -96,3 +96,22 @@ Cloud adoption without cost accountability is no longer acceptable — major age
 
 **References:** Sources: GSA ITVMO FinOps Case Study: U.S. Army CAMO | DoD Cloud FinOps Strategy (Sept 2024) | FinOps Foundation U.S. Public Sector Playbook
 
+
+**FinOps Capabilities:**
+- **FOCUS-compliant visibility + automated optimization** across public cloud, on-premise, and Kubernetes
+- **Policy-driven automation** converts recommendations into executed savings without manual intervention; sophisticated chargeback enables transparent cost recovery
+
+**Industry Recognition:**
+- **2024 InfoWorld Technology of the Year** (Cloud Cost Management) | **Gartner Magic Quadrant Visionary** | **GigaOm Leader**
+- **FinOps Foundation Premier Member** with federal FinOps community leadership and proven defense/civilian agency deployments
+
+
+
+- **Full-Lifecycle Orchestration:** Automates provisioning, day-2 operations, and lifecycle management across any cloud, any agency, any security posture
+- **Financial Transparency:** Embeds cost visibility, optimization, and chargeback from infrastructure through containers to SaaS—making every dollar accountable
+- **Universal Extensibility:** Connects to existing federal tools (ServiceNow, Terraform, Ansible) while enforcing compliance, security, and budget controls automatically
+- **Repeatable Differentiation:** Enables Leidos to build agency-specific services on top of standardized blueprints—balancing efficiency with mission customization
+
+
+
+
