@@ -10,3 +10,4 @@ Rewrite this copy as Kyle Campos, our Chief Product and Technology Officer - emu
 8. Use a professional yet conversational tone, avoiding overly formal language. (optional)
 9. Find opportunities to pragmatically challenge prevailing thinking or groupthink in the technical landscape
 
+The other stuff, like content factory, I guarantee are model-based writing workflows using a N8N, Writr, Gumloop, or similar. We could do that now if we wanted. But, we try and avoid AI automated copy. 
