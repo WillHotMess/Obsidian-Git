@@ -36,16 +36,46 @@ sharing the architecture and content of a finops data Lake to enable Advanced bi
 1. Ingestion & Normalization
 	1. Hosting Fees
 	2. Labor
-	3. Reprocessing & Business Logic Correlation
-		1. Tagging
+	3. (Optional) Reprocessing & Business Logic Correlation
+		1. Tagging data
 		2. Ingestion of other systems CMBD, AD, Observability tooling, etc. 
 			1. More expertise
 			2. More hosting costs
-			3. FOCUS doesnt solve all this, so for larger/more complex, you might need a data fabric tool (SnowFlake, etc) or custom converters. 
-2. Reporting & Visualization (baseline cost reporting )
+			3. FOCUS doesn't solve all this, so for larger/more complex, you might need a data fabric tool (SnowFlake, etc) or custom converters. 
+2. Reporting & Visualization (baseline cost reporting and some allocation)
 	1. BI tooling licensing 
 	2. Creation & Maintenance (people cost)
 3. Budgeting & Forecasting
+	1. Budgeting
+		1. (Required at this level) Reprocessing & Business Logic Correlation
+			1. Tagging
+			2. Ingestion of other systems CMBD, AD, Observability tooling, financial systems etc. 
+				1. More expertise
+				2. More hosting costs
+				3. FOCUS doesn't solve all this, so for larger/more complex, you might need a data fabric tool (SnowFlake, etc) or custom converters. 
+	2. Forecasting
+		1. Basic
+			1. In-BI optionality 
+			2. Or, custom made formulas / logic
+			3. More people, more risk
+		2. Moderate
+			1. Machine Learning
+				1. Cloud hosted model with new datastreams
+				2. Snowflake or Databricks model 
+			2. More people, more risk
 4. Optimization & Insights 
+	1. Basic
+		1. Port over via API the cloud native insights
+	2. Moderate 
+		1. Port over via api with custom joins to correlate to business
+		2. Alerting
+			1. Pager Duty, Slack, or other integration
+	3. Advanced 
+		1. Actually processing observability data
+		2. Building custom algorithms and rules
+		3. All of this requires more storage, more resources, more cache, more everything 
 5. Remediation Actions
+	1. Low-Code/No-Code
+		1. GitHub Actions, Lambda, etc
+		2. IaC
 6. *and all other*
