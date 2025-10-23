@@ -1,1 +1,0 @@
-We wanna thank all of our customers prospective customers and partners
