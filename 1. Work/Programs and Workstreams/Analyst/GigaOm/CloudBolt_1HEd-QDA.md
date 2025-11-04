@@ -863,7 +863,7 @@ CloudBolt's FOCUS-native architecture provides the industry's most comprehensive
 **FOCUS-Native Platform Architecture:**
 
 **Industry-First Implementation:**
-- **Complete Rebuild:** Entire platform reconstructed on FOCUS specification (2024)
+- **Complete Rebuild:** Entire platform reconstructed on FOCUS specification (2023-24)
 - **Not Retrofitted:** Unlike competitors who added FOCUS as an export format
 - **Core Data Model:** Every cost record stored in FOCUS format natively
 - **Zero Translation Loss:** No data transformation between providers
