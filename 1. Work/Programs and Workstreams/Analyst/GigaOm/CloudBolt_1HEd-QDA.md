@@ -144,7 +144,7 @@ CloudBolt supports comprehensive FinOps and cloud management use cases across th
 - **Anomaly Response:** Real-time detection with automated incident management
 
 **Service Provider Use Cases:**
-- **Multi-Tenant Billing:** Automated invoicing for thousands of customers
+- **Multi-Tenant Billing:** Automated billing logic at scale
 - **Margin Management:** Custom pricing rules and markup controls
 - **White-Label Services:** Branded FinOps portals for customer delivery
 - **Commitment Resale:** Pool and redistribute RIs/SPs across customers
@@ -171,7 +171,7 @@ CloudBolt competes across multiple segments of the cloud financial management ma
 
 - **Cloudability (Apptio/IBM):** Traditional reporting-focused approach. Weak Kubernetes support. Complex implementation. We provide faster time-to-value with integrated optimization.
 
-- **FinOut:** Heavy AWS focus with limited multi-cloud capabilities. Newer player with less enterprise maturity. We offer proven enterprise scale with true multi-cloud support.
+- **CloudCheckr:** Heavy AWS focus with limited multi-cloud capabilities. We offer proven MSP scale with true multi-cloud support.
 
 **Cloud-Native Tools:**
 - **AWS Cost Explorer, Azure Cost Management, GCP Cost Management:** Single-cloud only, no unified view. Limited optimization capabilities. No private cloud support. We provide unified multi-cloud visibility with advanced optimization.
