@@ -10,7 +10,6 @@
 ### Question 1: What is the name of your solution?
 
 **The CloudBolt Platform**
-
 The CloudBolt Platform
 
 ---
@@ -23,7 +22,7 @@ Our solution addresses the complete cloud financial lifecycle through three inte
 
 **1. Core Cloud Financial Management:**
 - **Cost Visibility & Reporting:** FOCUS-native dashboards providing unified visibility across AWS, Azure, GCP, OCI, VMware, and Kubernetes with near real-time data updates
-- **Cost Allocation & Chargeback:** Granular attribution down to container level with intelligent handling of shared costs and unallocated capacity
+- **Cost Allocation & Chargeback:** Granular attribution across on-premise and public clouds as well as modern services such as kubernetes (down to the container level) and hosted services (such as AVS) with intelligent handling of shared costs and unallocated capacity
 - **Budgeting & Forecasting:** AI-powered predictive analytics with anomaly detection and automated incident response
 - **Commitment Management:** Intelligent purchase recommendations with unique "Guaranteed RI" sellback flexibility through Archera partnership
 
