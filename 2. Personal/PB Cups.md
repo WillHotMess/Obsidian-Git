@@ -2,6 +2,10 @@ https://healthyishappetite.com/salted-white-chocolate-sunflower-seed-butter-cups
 
 
 
+https://healthyishappetite.com/salted-white-chocolate-sunflower-seed-butter-cups/
+
+
+
 **You can make peanut butter cups safe for someone with a peanut allergy by using alternative nut-free or seed-based spreads as the filling.**
 
 ## Ingredients
