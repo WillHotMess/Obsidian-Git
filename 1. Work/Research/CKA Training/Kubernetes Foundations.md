@@ -61,9 +61,6 @@ The following are add-ons:
 	- Layer 7 load balancers 
 
 
-### Pod Operations 
-
-
 
 
 
