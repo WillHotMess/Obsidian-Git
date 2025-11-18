@@ -35,17 +35,35 @@ Where is data stored?
 - Node start/maintain the containers
 - Contributes to resources needed
 - Virtual or Physical Machines
-
-
 #### Components
 The following services run on all Nodes: 
 - Kubelet 
 	- Monitors API server for changes
+	- Responsible for Pod Lifecycle
+	- Reports Node & Pod state
+	- Pod probes
 	- Engages / Monitors API
 - Kube-proxy
 	- Network
-	- Engages / Monitors API
+	- iptables
+	- Implement Service 
+	- Routing traffic to Pods
+	- Load Balancing
 - Container Runtime
-	- Container-D 
-	- Docker
+	- Downloads images & run containers
+	- CRI (Container Runtime Interface)
+	- containerd is standard (OOTB)
+		- Docker used to be the standard
+
+The following are add-ons:
+- DNS 
+- Ingress controller
+	- Layer 7 load balancers 
+
+
+### Pod Operations 
+
+
+
+
 
