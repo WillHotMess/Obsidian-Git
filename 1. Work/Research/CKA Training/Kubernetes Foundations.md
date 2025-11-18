@@ -64,3 +64,8 @@ The following are add-ons:
 
 
 
+Host my-server
+  HostName server.example.com
+  User your-username
+  IdentityFile C:\Users\Work\OneDrive - CloudBolt Software\Desktop\ckaubuntubox_key.pem
+
