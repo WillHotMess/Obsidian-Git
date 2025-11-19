@@ -43,3 +43,6 @@ https://kubernetes.io/docs/reference/setup-tools/kubeadm/kubeadm-init/
 ## Creating a Control Plane Node
 wget https://raw.githubusercontent.com/projectcalico/calico/master/manifests/calico.yaml
 
+
+
+
