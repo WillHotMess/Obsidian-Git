@@ -16,7 +16,7 @@
 	- EMEA Amsterdam event coming quick (many EU community members were not sent)
 - Too many employees in attendance
 	- Moving forward a largely technical sales team is needed.
-	- It is evident that we need people that can speak to K8s, language/terminology was most important. 
+	- It is evident that we need people that can speak to K8s, language/ terminology was most important. 
 - Swag could have been more creative.
 	- Too many shirts
 	- Books were a hit (rinse and repeat in Amsterdam)
