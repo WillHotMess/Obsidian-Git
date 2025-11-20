@@ -8,7 +8,7 @@
 - Will, from Acquia spoke alongside Rod about Acquia's journey to rolling out SF
 - Most attendees stayed for the full length of the event
 - Sales people sitting down: 
-	- 
+- 
 
 # Booth & Conference
 - We heard that there was a big drop off in total KC registrants who attended - This was likely due to two things:
