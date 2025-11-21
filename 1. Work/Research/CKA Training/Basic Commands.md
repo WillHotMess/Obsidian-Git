@@ -65,4 +65,5 @@ sudo systemctl status kubelet
 
 # Check the running control plane containers (kube-apiserver is the critical one)
 # Replace 'crictl' with 'docker' or 'podman' if you know your container runtime
-sudo crictl ps -a | grep kube-apiserver
+sudo crictl ps -a | grep kube-
+
