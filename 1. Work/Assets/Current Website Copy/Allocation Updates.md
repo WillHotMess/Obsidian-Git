@@ -263,3 +263,11 @@ So I agree that it's not a "must-have" tool for us, but there are specific areas
 
 
 
+--- 
+## Updates Needed for Prompt
+### Allocation and Chargeback Page
+Updated Feature List (add these bullets):
+the downfall of the other tools is they dont have the real costs that include the discounts etc, can you add that as a featured bullet (for ex. cast uses on demand rates)
+
+### Kubernetes Rightsizing Hero Page
+(not sure i agree with this statement) **Description:** Optimization means nothing without accurate cost data. 
