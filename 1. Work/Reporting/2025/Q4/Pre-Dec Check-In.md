@@ -531,3 +531,4 @@ Happy to walk through the underlying data live. I just want to make sure we're b
 Best, [Your Name]
 
 ---
+$1,477,420.00
